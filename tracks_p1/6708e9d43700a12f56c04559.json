@@ -1,0 +1,5255 @@
+{
+    "tracks": [
+        {
+            "id": "6909b1d0f20836eb60d4365c",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.11.25 10:57 - 04.11.25 11:01",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762243026",
+            "date_end": "1762243317",
+            "average_speed": 0,
+            "distance": 632,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85282,
+                    "longitude": 37.4947
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85359,
+                    "longitude": 37.49584
+                }
+            ]
+        },
+        {
+            "id": "6909dcdb8f1acda61a655df2",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.11.25 14:00 - 04.11.25 14:09",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762254045",
+            "date_end": "1762254556",
+            "average_speed": 25,
+            "distance": 2198,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84834,
+                    "longitude": 37.50711
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.83791,
+                    "longitude": 37.51434
+                }
+            ]
+        },
+        {
+            "id": "6909ea999d199b5477e9aa55",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.11.25 14:59 - 04.11.25 15:14",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762257563",
+            "date_end": "1762258483",
+            "average_speed": 17,
+            "distance": 2763,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84093,
+                    "longitude": 37.52076
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85179,
+                    "longitude": 37.51818
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.8519,
+                    "longitude": 37.51192
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.85456,
+                    "longitude": 37.50304
+                }
+            ]
+        },
+        {
+            "id": "6909f164066ea6a64092e394",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.11.25 15:28 - 04.11.25 15:28",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762259302",
+            "date_end": "1762259311",
+            "average_speed": 0,
+            "distance": 19,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85467,
+                    "longitude": 37.50326
+                }
+            ]
+        },
+        {
+            "id": "690a79d00754dbe63d223244",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 05.11.25 01:10 - 05.11.25 01:16",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762294228",
+            "date_end": "1762294564",
+            "average_speed": 25,
+            "distance": 1794,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84966,
+                    "longitude": 37.49374
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85282,
+                    "longitude": 37.4947
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.85793,
+                    "longitude": 37.51071
+                }
+            ]
+        },
+        {
+            "id": "690842400754dbe63dcd8b33",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 08:48 - 03.11.25 08:50",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762148929",
+            "date_end": "1762149053",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "69088f72292b5a8f6c1b205c",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 14:18 - 03.11.25 14:22",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762168692",
+            "date_end": "1762168940",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "690892809d199b5477ba0e51",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 14:31 - 03.11.25 14:33",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762169477",
+            "date_end": "1762169637",
+            "average_speed": 0,
+            "distance": 285,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85582,
+                    "longitude": 37.47774
+                }
+            ]
+        },
+        {
+            "id": "6908a7d38f1acda61a3d4a82",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 16:02 - 03.11.25 16:05",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762174933",
+            "date_end": "1762175135",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "6908b0365f4747b69b92fdf3",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 16:37 - 03.11.25 16:43",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762177079",
+            "date_end": "1762177383",
+            "average_speed": 23,
+            "distance": 799,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85466,
+                    "longitude": 37.47672
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.8567,
+                    "longitude": 37.48196
+                }
+            ]
+        },
+        {
+            "id": "6908c0a9e118f3ba40bab90e",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 17:48 - 03.11.25 17:52",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762181291",
+            "date_end": "1762181532",
+            "average_speed": 24,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "6909b1d0f20836eb60d4365c",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.11.25 10:57 - 04.11.25 11:01",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762243026",
+            "date_end": "1762243317",
+            "average_speed": 0,
+            "distance": 632,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85282,
+                    "longitude": 37.4947
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85359,
+                    "longitude": 37.49584
+                }
+            ]
+        },
+        {
+            "id": "69085613066ea6a6405828ca",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 10:13 - 03.11.25 10:17",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762154003",
+            "date_end": "1762154227",
+            "average_speed": 24,
+            "distance": 1375,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.8485,
+                    "longitude": 37.48975
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85117,
+                    "longitude": 37.47917
+                }
+            ]
+        },
+        {
+            "id": "6909dcdb8f1acda61a655df2",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.11.25 14:00 - 04.11.25 14:09",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762254045",
+            "date_end": "1762254556",
+            "average_speed": 25,
+            "distance": 2198,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84834,
+                    "longitude": 37.50711
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.83791,
+                    "longitude": 37.51434
+                }
+            ]
+        },
+        {
+            "id": "6909ea999d199b5477e9aa55",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.11.25 14:59 - 04.11.25 15:14",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762257563",
+            "date_end": "1762258483",
+            "average_speed": 17,
+            "distance": 2763,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84093,
+                    "longitude": 37.52076
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85179,
+                    "longitude": 37.51818
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.8519,
+                    "longitude": 37.51192
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.85456,
+                    "longitude": 37.50304
+                }
+            ]
+        },
+        {
+            "id": "6909f164066ea6a64092e394",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.11.25 15:28 - 04.11.25 15:28",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762259302",
+            "date_end": "1762259311",
+            "average_speed": 0,
+            "distance": 19,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85467,
+                    "longitude": 37.50326
+                }
+            ]
+        },
+        {
+            "id": "690853df066ea6a64057ebd7",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 10:04 - 03.11.25 10:08",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762153440",
+            "date_end": "1762153728",
+            "average_speed": 24,
+            "distance": 1123,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85346,
+                    "longitude": 37.49522
+                }
+            ]
+        },
+        {
+            "id": "69086f3b4948025f44ffe065",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 12:00 - 03.11.25 12:04",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762160445",
+            "date_end": "1762160660",
+            "average_speed": 15,
+            "distance": 666,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85667,
+                    "longitude": 37.48204
+                }
+            ]
+        },
+        {
+            "id": "69076eb6ac2365bb1870831d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 02.11.25 17:46 - 02.11.25 17:49",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762094776",
+            "date_end": "1762094991",
+            "average_speed": 0,
+            "distance": 613,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85095,
+                    "longitude": 37.47348
+                }
+            ]
+        },
+        {
+            "id": "690842400754dbe63dcd8b33",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 08:48 - 03.11.25 08:50",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762148929",
+            "date_end": "1762149053",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "690853df066ea6a64057ebd7",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 10:04 - 03.11.25 10:08",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762153440",
+            "date_end": "1762153728",
+            "average_speed": 24,
+            "distance": 1123,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85346,
+                    "longitude": 37.49522
+                }
+            ]
+        },
+        {
+            "id": "69085613066ea6a6405828ca",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 10:13 - 03.11.25 10:17",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762154003",
+            "date_end": "1762154227",
+            "average_speed": 24,
+            "distance": 1375,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.8485,
+                    "longitude": 37.48975
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85117,
+                    "longitude": 37.47917
+                }
+            ]
+        },
+        {
+            "id": "69086f3b4948025f44ffe065",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 12:00 - 03.11.25 12:04",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762160445",
+            "date_end": "1762160660",
+            "average_speed": 15,
+            "distance": 666,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85667,
+                    "longitude": 37.48204
+                }
+            ]
+        },
+        {
+            "id": "69088f72292b5a8f6c1b205c",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 14:18 - 03.11.25 14:22",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762168692",
+            "date_end": "1762168940",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "690892809d199b5477ba0e51",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 14:31 - 03.11.25 14:33",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762169477",
+            "date_end": "1762169637",
+            "average_speed": 0,
+            "distance": 285,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85582,
+                    "longitude": 37.47774
+                }
+            ]
+        },
+        {
+            "id": "6908a7d38f1acda61a3d4a82",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 16:02 - 03.11.25 16:05",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762174933",
+            "date_end": "1762175135",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "6908b0365f4747b69b92fdf3",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 16:37 - 03.11.25 16:43",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762177079",
+            "date_end": "1762177383",
+            "average_speed": 23,
+            "distance": 799,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85466,
+                    "longitude": 37.47672
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.8567,
+                    "longitude": 37.48196
+                }
+            ]
+        },
+        {
+            "id": "6908c0a9e118f3ba40bab90e",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.11.25 17:48 - 03.11.25 17:52",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762181291",
+            "date_end": "1762181532",
+            "average_speed": 24,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "69076eb6ac2365bb1870831d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 02.11.25 17:46 - 02.11.25 17:49",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1762094776",
+            "date_end": "1762094991",
+            "average_speed": 0,
+            "distance": 613,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85095,
+                    "longitude": 37.47348
+                }
+            ]
+        },
+        {
+            "id": "6903ecfdbf3dd7f80fcd7fbb",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 31.10.25 01:55 - 31.10.25 02:01",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761864959",
+            "date_end": "1761865282",
+            "average_speed": 11,
+            "distance": 1195,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85163,
+                    "longitude": 37.47841
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85132,
+                    "longitude": 37.48224
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.85163,
+                    "longitude": 37.47841
+                }
+            ]
+        },
+        {
+            "id": "69041ab9bf3dd7f80fcff886",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 31.10.25 05:11 - 31.10.25 05:20",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761876665",
+            "date_end": "1761877209",
+            "average_speed": 13.5,
+            "distance": 1356,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84266,
+                    "longitude": 37.47907
+                }
+            ]
+        },
+        {
+            "id": "6904384d076a46d296d77430",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 31.10.25 07:17 - 31.10.25 07:21",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761884239",
+            "date_end": "1761884462",
+            "average_speed": 21,
+            "distance": 712,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84654,
+                    "longitude": 37.48122
+                }
+            ]
+        },
+        {
+            "id": "69035abd8a58989d45bec6a3",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 30.10.25 15:31 - 30.10.25 15:34",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761827519",
+            "date_end": "1761827670",
+            "average_speed": 0,
+            "distance": 3,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84264,
+                    "longitude": 37.4791
+                }
+            ]
+        },
+        {
+            "id": "690378fffd5fb3398501bb4e",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 30.10.25 17:41 - 30.10.25 17:44",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761835265",
+            "date_end": "1761835478",
+            "average_speed": 0,
+            "distance": 557,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84256,
+                    "longitude": 37.47911
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84313,
+                    "longitude": 37.47957
+                }
+            ]
+        },
+        {
+            "id": "69037dd2fd5fb339850310e7",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 30.10.25 18:01 - 30.10.25 18:04",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761836500",
+            "date_end": "1761836665",
+            "average_speed": 0,
+            "distance": 393,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84192,
+                    "longitude": 37.4853
+                }
+            ]
+        },
+        {
+            "id": "6903838c076a46d296c06b66",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 30.10.25 18:26 - 30.10.25 18:36",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761837965",
+            "date_end": "1761838617",
+            "average_speed": 17.5,
+            "distance": 1234,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83981,
+                    "longitude": 37.48571
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84022,
+                    "longitude": 37.48589
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.84687,
+                    "longitude": 37.48594
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.847,
+                    "longitude": 37.48924
+                },
+                {
+                    "number": 5,
+                    "latitude": 55.84698,
+                    "longitude": 37.48922
+                },
+                {
+                    "number": 6,
+                    "latitude": 55.847,
+                    "longitude": 37.48924
+                }
+            ]
+        },
+        {
+            "id": "6903ecfdbf3dd7f80fcd7fbb",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 31.10.25 01:55 - 31.10.25 02:01",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761864959",
+            "date_end": "1761865282",
+            "average_speed": 11,
+            "distance": 1195,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85163,
+                    "longitude": 37.47841
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85132,
+                    "longitude": 37.48224
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.85163,
+                    "longitude": 37.47841
+                }
+            ]
+        },
+        {
+            "id": "69041ab9bf3dd7f80fcff886",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 31.10.25 05:11 - 31.10.25 05:20",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761876665",
+            "date_end": "1761877209",
+            "average_speed": 13.5,
+            "distance": 1356,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84266,
+                    "longitude": 37.47907
+                }
+            ]
+        },
+        {
+            "id": "6904384d076a46d296d77430",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 31.10.25 07:17 - 31.10.25 07:21",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761884239",
+            "date_end": "1761884462",
+            "average_speed": 21,
+            "distance": 712,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84654,
+                    "longitude": 37.48122
+                }
+            ]
+        },
+        {
+            "id": "690378fffd5fb3398501bb4e",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 30.10.25 17:41 - 30.10.25 17:44",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761835265",
+            "date_end": "1761835478",
+            "average_speed": 0,
+            "distance": 557,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84256,
+                    "longitude": 37.47911
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84313,
+                    "longitude": 37.47957
+                }
+            ]
+        },
+        {
+            "id": "69035abd8a58989d45bec6a3",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 30.10.25 15:31 - 30.10.25 15:34",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761827519",
+            "date_end": "1761827670",
+            "average_speed": 0,
+            "distance": 3,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84264,
+                    "longitude": 37.4791
+                }
+            ]
+        },
+        {
+            "id": "6903838c076a46d296c06b66",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 30.10.25 18:26 - 30.10.25 18:36",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761837965",
+            "date_end": "1761838617",
+            "average_speed": 17.5,
+            "distance": 1234,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83981,
+                    "longitude": 37.48571
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84022,
+                    "longitude": 37.48589
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.84687,
+                    "longitude": 37.48594
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.847,
+                    "longitude": 37.48924
+                },
+                {
+                    "number": 5,
+                    "latitude": 55.84698,
+                    "longitude": 37.48922
+                },
+                {
+                    "number": 6,
+                    "latitude": 55.847,
+                    "longitude": 37.48924
+                }
+            ]
+        },
+        {
+            "id": "69037dd2fd5fb339850310e7",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 30.10.25 18:01 - 30.10.25 18:04",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761836500",
+            "date_end": "1761836665",
+            "average_speed": 0,
+            "distance": 393,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84192,
+                    "longitude": 37.4853
+                }
+            ]
+        },
+        {
+            "id": "6902010630503ef2e1347192",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 29.10.25 14:56 - 29.10.25 15:07",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761739016",
+            "date_end": "1761739633",
+            "average_speed": 20,
+            "distance": 2040,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85126,
+                    "longitude": 37.45321
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84769,
+                    "longitude": 37.47566
+                }
+            ]
+        },
+        {
+            "id": "6902010630503ef2e1347192",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 29.10.25 14:56 - 29.10.25 15:07",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761739016",
+            "date_end": "1761739633",
+            "average_speed": 20,
+            "distance": 2040,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85126,
+                    "longitude": 37.45321
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84769,
+                    "longitude": 37.47566
+                }
+            ]
+        },
+        {
+            "id": "6900dd22df15f9b784c7544f",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 28.10.25 18:11 - 28.10.25 18:13",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761664290",
+            "date_end": "1761664403",
+            "average_speed": 0,
+            "distance": 5,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85131,
+                    "longitude": 37.4532
+                }
+            ]
+        },
+        {
+            "id": "68ffb1bf574e4e304f6a9d0d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 27.10.25 20:54 - 27.10.25 20:54",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761587647",
+            "date_end": "1761587679",
+            "average_speed": 0,
+            "distance": 25,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85134,
+                    "longitude": 37.45224
+                }
+            ]
+        },
+        {
+            "id": "6900dd22df15f9b784c7544f",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 28.10.25 18:11 - 28.10.25 18:13",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761664290",
+            "date_end": "1761664403",
+            "average_speed": 0,
+            "distance": 5,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85131,
+                    "longitude": 37.4532
+                }
+            ]
+        },
+        {
+            "id": "68ffb1bf574e4e304f6a9d0d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 27.10.25 20:54 - 27.10.25 20:54",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761587647",
+            "date_end": "1761587679",
+            "average_speed": 0,
+            "distance": 25,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85134,
+                    "longitude": 37.45224
+                }
+            ]
+        },
+        {
+            "id": "68fb412ab3217e400c79862c",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 24.10.25 12:04 - 24.10.25 12:05",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761296682",
+            "date_end": "1761296707",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68fbb908fb40d382d69cf30f",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 24.10.25 20:36 - 24.10.25 20:58",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761327369",
+            "date_end": "1761328733",
+            "average_speed": 3,
+            "distance": 1625,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84889,
+                    "longitude": 37.45073
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85122,
+                    "longitude": 37.45248
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.85132,
+                    "longitude": 37.45266
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.85122,
+                    "longitude": 37.45248
+                },
+                {
+                    "number": 5,
+                    "latitude": 55.85254,
+                    "longitude": 37.4613
+                },
+                {
+                    "number": 6,
+                    "latitude": 55.85054,
+                    "longitude": 37.46773
+                }
+            ]
+        },
+        {
+            "id": "68fb412ab3217e400c79862c",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 24.10.25 12:04 - 24.10.25 12:05",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761296682",
+            "date_end": "1761296707",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68fbb908fb40d382d69cf30f",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 24.10.25 20:36 - 24.10.25 20:58",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1761327369",
+            "date_end": "1761328733",
+            "average_speed": 3,
+            "distance": 1625,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84889,
+                    "longitude": 37.45073
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85122,
+                    "longitude": 37.45248
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.85132,
+                    "longitude": 37.45266
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.85122,
+                    "longitude": 37.45248
+                },
+                {
+                    "number": 5,
+                    "latitude": 55.85254,
+                    "longitude": 37.4613
+                },
+                {
+                    "number": 6,
+                    "latitude": 55.85054,
+                    "longitude": 37.46773
+                }
+            ]
+        },
+        {
+            "id": "68f5684ed61d4db1b77e2dba",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 20.10.25 01:38 - 20.10.25 01:41",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760913488",
+            "date_end": "1760913700",
+            "average_speed": 0,
+            "distance": 735,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85849,
+                    "longitude": 37.48837
+                }
+            ]
+        },
+        {
+            "id": "68f5659fd61d4db1b77decc6",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 20.10.25 01:26 - 20.10.25 01:29",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760912801",
+            "date_end": "1760912950",
+            "average_speed": 0,
+            "distance": 12,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85583,
+                    "longitude": 37.47759
+                }
+            ]
+        },
+        {
+            "id": "68f5c449893317a5f40740a9",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 20.10.25 08:10 - 20.10.25 08:12",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760937036",
+            "date_end": "1760937127",
+            "average_speed": 0,
+            "distance": 2,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85004,
+                    "longitude": 37.47968
+                }
+            ]
+        },
+        {
+            "id": "68f55ec7d61d4db1b77d392a",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 20.10.25 00:57 - 20.10.25 01:01",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760911049",
+            "date_end": "1760911311",
+            "average_speed": 10,
+            "distance": 745,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84294,
+                    "longitude": 37.48266
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84493,
+                    "longitude": 37.48669
+                }
+            ]
+        },
+        {
+            "id": "68f5cc9a4b7e53f8c5cb9126",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 20.10.25 08:46 - 20.10.25 08:51",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760939164",
+            "date_end": "1760939464",
+            "average_speed": 0,
+            "distance": 1183,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.8542,
+                    "longitude": 37.47638
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85061,
+                    "longitude": 37.46764
+                }
+            ]
+        },
+        {
+            "id": "68f5684ed61d4db1b77e2dba",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 20.10.25 01:38 - 20.10.25 01:41",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760913488",
+            "date_end": "1760913700",
+            "average_speed": 0,
+            "distance": 735,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85849,
+                    "longitude": 37.48837
+                }
+            ]
+        },
+        {
+            "id": "68f5659fd61d4db1b77decc6",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 20.10.25 01:26 - 20.10.25 01:29",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760912801",
+            "date_end": "1760912950",
+            "average_speed": 0,
+            "distance": 12,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85583,
+                    "longitude": 37.47759
+                }
+            ]
+        },
+        {
+            "id": "68f5c449893317a5f40740a9",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 20.10.25 08:10 - 20.10.25 08:12",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760937036",
+            "date_end": "1760937127",
+            "average_speed": 0,
+            "distance": 2,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85004,
+                    "longitude": 37.47968
+                }
+            ]
+        },
+        {
+            "id": "68f55ec7d61d4db1b77d392a",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 20.10.25 00:57 - 20.10.25 01:01",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760911049",
+            "date_end": "1760911311",
+            "average_speed": 10,
+            "distance": 745,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84294,
+                    "longitude": 37.48266
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84493,
+                    "longitude": 37.48669
+                }
+            ]
+        },
+        {
+            "id": "68f5cc9a4b7e53f8c5cb9126",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 20.10.25 08:46 - 20.10.25 08:51",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760939164",
+            "date_end": "1760939464",
+            "average_speed": 0,
+            "distance": 1183,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.8542,
+                    "longitude": 37.47638
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85061,
+                    "longitude": 37.46764
+                }
+            ]
+        },
+        {
+            "id": "68f3308e4b7e53f8c55e8b67",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 18.10.25 09:15 - 18.10.25 09:22",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760768144",
+            "date_end": "1760768547",
+            "average_speed": 22.5,
+            "distance": 1647,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84349,
+                    "longitude": 37.4999
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.83974,
+                    "longitude": 37.48579
+                }
+            ]
+        },
+        {
+            "id": "68f2597f4b7e53f8c53d6624",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 17:58 - 17.10.25 18:11",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760713089",
+            "date_end": "1760713887",
+            "average_speed": 14,
+            "distance": 2364,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83352,
+                    "longitude": 37.50634
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.82842,
+                    "longitude": 37.51217
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.82739,
+                    "longitude": 37.50845
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.82344,
+                    "longitude": 37.50299
+                }
+            ]
+        },
+        {
+            "id": "68f3308e4b7e53f8c55e8b67",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 18.10.25 09:15 - 18.10.25 09:22",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760768144",
+            "date_end": "1760768547",
+            "average_speed": 22.5,
+            "distance": 1647,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84349,
+                    "longitude": 37.4999
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.83974,
+                    "longitude": 37.48579
+                }
+            ]
+        },
+        {
+            "id": "68f276d8a4055ca5f21a89ea",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 20:03 - 17.10.25 20:05",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760720602",
+            "date_end": "1760720727",
+            "average_speed": 0,
+            "distance": 400,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.82016,
+                    "longitude": 37.49807
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.81988,
+                    "longitude": 37.4972
+                }
+            ]
+        },
+        {
+            "id": "68f26ca384203966ef178e3f",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 19:19 - 17.10.25 19:23",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760717988",
+            "date_end": "1760718191",
+            "average_speed": 20,
+            "distance": 1054,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.8252,
+                    "longitude": 37.50956
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.82277,
+                    "longitude": 37.50079
+                }
+            ]
+        },
+        {
+            "id": "68f2640e574d06fceaf972b4",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 18:43 - 17.10.25 18:45",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760715791",
+            "date_end": "1760715936",
+            "average_speed": 0,
+            "distance": 13,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.82346,
+                    "longitude": 37.5032
+                }
+            ]
+        },
+        {
+            "id": "68f2433a4004e077c2d1e333",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 16:23 - 17.10.25 16:43",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760707389",
+            "date_end": "1760708594",
+            "average_speed": 5.67,
+            "distance": 373,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83078,
+                    "longitude": 37.48818
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.82949,
+                    "longitude": 37.48872
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.8308,
+                    "longitude": 37.48813
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.83094,
+                    "longitude": 37.48695
+                }
+            ]
+        },
+        {
+            "id": "68f1e162f57806ffddb589ac",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 09:25 - 17.10.25 09:35",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760682340",
+            "date_end": "1760682903",
+            "average_speed": 18.5,
+            "distance": 2113,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83912,
+                    "longitude": 37.48663
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.82882,
+                    "longitude": 37.49546
+                }
+            ]
+        },
+        {
+            "id": "68f2990a4b7e53f8c54d0c65",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 22:29 - 17.10.25 22:34",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760729356",
+            "date_end": "1760729682",
+            "average_speed": 22,
+            "distance": 2032,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84078,
+                    "longitude": 37.49001
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84806,
+                    "longitude": 37.50669
+                }
+            ]
+        },
+        {
+            "id": "68f295556242bb3f942a0638",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 22:13 - 17.10.25 22:17",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760728411",
+            "date_end": "1760728676",
+            "average_speed": 25,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68f290a06771313f0aad6cea",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 21:53 - 17.10.25 21:59",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760727201",
+            "date_end": "1760727578",
+            "average_speed": 7,
+            "distance": 887,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84715,
+                    "longitude": 37.48921
+                }
+            ]
+        },
+        {
+            "id": "68f252581f0242133553b952",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 17:27 - 17.10.25 17:32",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760711258",
+            "date_end": "1760711558",
+            "average_speed": 25,
+            "distance": 313,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83079,
+                    "longitude": 37.48816
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.83204,
+                    "longitude": 37.49261
+                }
+            ]
+        },
+        {
+            "id": "68f1e4781f024213353b84cc",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 09:38 - 17.10.25 09:41",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760683130",
+            "date_end": "1760683304",
+            "average_speed": 20,
+            "distance": 556,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.82386,
+                    "longitude": 37.49422
+                }
+            ]
+        },
+        {
+            "id": "68f27ecf7a400e868c3fd99a",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 20:37 - 17.10.25 20:50",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760722639",
+            "date_end": "1760723414",
+            "average_speed": 15,
+            "distance": 2311,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.82463,
+                    "longitude": 37.49438
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.83106,
+                    "longitude": 37.50716
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.837,
+                    "longitude": 37.50456
+                }
+            ]
+        },
+        {
+            "id": "68f276d8a4055ca5f21a89ea",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 20:03 - 17.10.25 20:05",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760720602",
+            "date_end": "1760720727",
+            "average_speed": 0,
+            "distance": 400,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.82016,
+                    "longitude": 37.49807
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.81988,
+                    "longitude": 37.4972
+                }
+            ]
+        },
+        {
+            "id": "68f2597f4b7e53f8c53d6624",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 17:58 - 17.10.25 18:11",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760713089",
+            "date_end": "1760713887",
+            "average_speed": 14,
+            "distance": 2364,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83352,
+                    "longitude": 37.50634
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.82842,
+                    "longitude": 37.51217
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.82739,
+                    "longitude": 37.50845
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.82344,
+                    "longitude": 37.50299
+                }
+            ]
+        },
+        {
+            "id": "68f2990a4b7e53f8c54d0c65",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 22:29 - 17.10.25 22:34",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760729356",
+            "date_end": "1760729682",
+            "average_speed": 22,
+            "distance": 2032,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84078,
+                    "longitude": 37.49001
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84806,
+                    "longitude": 37.50669
+                }
+            ]
+        },
+        {
+            "id": "68f26ca384203966ef178e3f",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 19:19 - 17.10.25 19:23",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760717988",
+            "date_end": "1760718191",
+            "average_speed": 20,
+            "distance": 1054,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.8252,
+                    "longitude": 37.50956
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.82277,
+                    "longitude": 37.50079
+                }
+            ]
+        },
+        {
+            "id": "68f2640e574d06fceaf972b4",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 18:43 - 17.10.25 18:45",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760715791",
+            "date_end": "1760715936",
+            "average_speed": 0,
+            "distance": 13,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.82346,
+                    "longitude": 37.5032
+                }
+            ]
+        },
+        {
+            "id": "68f2433a4004e077c2d1e333",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 16:23 - 17.10.25 16:43",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760707389",
+            "date_end": "1760708594",
+            "average_speed": 5.67,
+            "distance": 373,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83078,
+                    "longitude": 37.48818
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.82949,
+                    "longitude": 37.48872
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.8308,
+                    "longitude": 37.48813
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.83094,
+                    "longitude": 37.48695
+                }
+            ]
+        },
+        {
+            "id": "68f1e162f57806ffddb589ac",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 09:25 - 17.10.25 09:35",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760682340",
+            "date_end": "1760682903",
+            "average_speed": 18.5,
+            "distance": 2113,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83912,
+                    "longitude": 37.48663
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.82882,
+                    "longitude": 37.49546
+                }
+            ]
+        },
+        {
+            "id": "68f295556242bb3f942a0638",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 22:13 - 17.10.25 22:17",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760728411",
+            "date_end": "1760728676",
+            "average_speed": 25,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68f290a06771313f0aad6cea",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 21:53 - 17.10.25 21:59",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760727201",
+            "date_end": "1760727578",
+            "average_speed": 7,
+            "distance": 887,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84715,
+                    "longitude": 37.48921
+                }
+            ]
+        },
+        {
+            "id": "68f27ecf7a400e868c3fd99a",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 20:37 - 17.10.25 20:50",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760722639",
+            "date_end": "1760723414",
+            "average_speed": 15,
+            "distance": 2311,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.82463,
+                    "longitude": 37.49438
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.83106,
+                    "longitude": 37.50716
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.837,
+                    "longitude": 37.50456
+                }
+            ]
+        },
+        {
+            "id": "68f252581f0242133553b952",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 17:27 - 17.10.25 17:32",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760711258",
+            "date_end": "1760711558",
+            "average_speed": 25,
+            "distance": 313,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83079,
+                    "longitude": 37.48816
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.83204,
+                    "longitude": 37.49261
+                }
+            ]
+        },
+        {
+            "id": "68f1e4781f024213353b84cc",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 17.10.25 09:38 - 17.10.25 09:41",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760683130",
+            "date_end": "1760683304",
+            "average_speed": 20,
+            "distance": 556,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.82386,
+                    "longitude": 37.49422
+                }
+            ]
+        },
+        {
+            "id": "68ede02d4528744307f7b618",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 14.10.25 08:31 - 14.10.25 08:35",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760419885",
+            "date_end": "1760420102",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68ee55044b7e53f8c5802fbf",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 14.10.25 16:49 - 14.10.25 17:01",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760449797",
+            "date_end": "1760450483",
+            "average_speed": 11,
+            "distance": 1754,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84806,
+                    "longitude": 37.50671
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84229,
+                    "longitude": 37.49565
+                }
+            ]
+        },
+        {
+            "id": "68ede70ef57806ffddfc8358",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 14.10.25 09:00 - 14.10.25 09:01",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760421648",
+            "date_end": "1760421709",
+            "average_speed": 0,
+            "distance": 33,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85186,
+                    "longitude": 37.51224
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85192,
+                    "longitude": 37.51217
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.85196,
+                    "longitude": 37.51211
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.85202,
+                    "longitude": 37.51207
+                },
+                {
+                    "number": 5,
+                    "latitude": 55.85208,
+                    "longitude": 37.51201
+                }
+            ]
+        },
+        {
+            "id": "68ee715dd61d4db1b7456715",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 14.10.25 18:50 - 14.10.25 18:55",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760457055",
+            "date_end": "1760457348",
+            "average_speed": 0,
+            "distance": 1103,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84247,
+                    "longitude": 37.50271
+                }
+            ]
+        },
+        {
+            "id": "68ec9facfa0f0ce9e9f48583",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 13.10.25 09:43 - 13.10.25 09:49",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760337837",
+            "date_end": "1760338194",
+            "average_speed": 24,
+            "distance": 275,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83088,
+                    "longitude": 37.49847
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.8322,
+                    "longitude": 37.49562
+                }
+            ]
+        },
+        {
+            "id": "68eca7d25477b9278ea68446",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 13.10.25 10:18 - 13.10.25 10:20",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760339924",
+            "date_end": "1760340050",
+            "average_speed": 0,
+            "distance": 71,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83844,
+                    "longitude": 37.4874
+                }
+            ]
+        },
+        {
+            "id": "68ecb3f4fb3880e752a04755",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 13.10.25 11:10 - 13.10.25 11:16",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760343032",
+            "date_end": "1760343369",
+            "average_speed": 22,
+            "distance": 803,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.82866,
+                    "longitude": 37.4961
+                }
+            ]
+        },
+        {
+            "id": "68ecb8de111217db1850ae65",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 13.10.25 11:31 - 13.10.25 11:38",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760344287",
+            "date_end": "1760344710",
+            "average_speed": 16.5,
+            "distance": 156,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.82397,
+                    "longitude": 37.49401
+                }
+            ]
+        },
+        {
+            "id": "68ed1bea7a400e868c3fe647",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 13.10.25 18:34 - 13.10.25 18:39",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760369643",
+            "date_end": "1760369942",
+            "average_speed": 15,
+            "distance": 953,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83722,
+                    "longitude": 37.47977
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.83849,
+                    "longitude": 37.48733
+                }
+            ]
+        },
+        {
+            "id": "68ed423b6771313f0ab65bb4",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 13.10.25 21:17 - 13.10.25 21:24",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760379452",
+            "date_end": "1760379874",
+            "average_speed": 16,
+            "distance": 1342,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84078,
+                    "longitude": 37.48996
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84945,
+                    "longitude": 37.49611
+                }
+            ]
+        },
+        {
+            "id": "68ed47f1471e97df19c4708c",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 13.10.25 21:41 - 13.10.25 21:47",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760380914",
+            "date_end": "1760381237",
+            "average_speed": 0,
+            "distance": 1242,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85453,
+                    "longitude": 37.50291
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85563,
+                    "longitude": 37.51416
+                }
+            ]
+        },
+        {
+            "id": "68ede02d4528744307f7b618",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 14.10.25 08:31 - 14.10.25 08:35",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760419885",
+            "date_end": "1760420102",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68ede70ef57806ffddfc8358",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 14.10.25 09:00 - 14.10.25 09:01",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760421648",
+            "date_end": "1760421709",
+            "average_speed": 0,
+            "distance": 33,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85186,
+                    "longitude": 37.51224
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85192,
+                    "longitude": 37.51217
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.85196,
+                    "longitude": 37.51211
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.85202,
+                    "longitude": 37.51207
+                },
+                {
+                    "number": 5,
+                    "latitude": 55.85208,
+                    "longitude": 37.51201
+                }
+            ]
+        },
+        {
+            "id": "68ee55044b7e53f8c5802fbf",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 14.10.25 16:49 - 14.10.25 17:01",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760449797",
+            "date_end": "1760450483",
+            "average_speed": 11,
+            "distance": 1754,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84806,
+                    "longitude": 37.50671
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84229,
+                    "longitude": 37.49565
+                }
+            ]
+        },
+        {
+            "id": "68ee715dd61d4db1b7456715",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 14.10.25 18:50 - 14.10.25 18:55",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760457055",
+            "date_end": "1760457348",
+            "average_speed": 0,
+            "distance": 1103,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84247,
+                    "longitude": 37.50271
+                }
+            ]
+        },
+        {
+            "id": "68ecb3f4fb3880e752a04755",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 13.10.25 11:10 - 13.10.25 11:16",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760343032",
+            "date_end": "1760343369",
+            "average_speed": 22,
+            "distance": 803,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.82866,
+                    "longitude": 37.4961
+                }
+            ]
+        },
+        {
+            "id": "68ebea3d614e5faf1a854826",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.10.25 20:49 - 12.10.25 20:55",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760291391",
+            "date_end": "1760291720",
+            "average_speed": 0,
+            "distance": 498,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83357,
+                    "longitude": 37.50576
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.8307,
+                    "longitude": 37.50098
+                }
+            ]
+        },
+        {
+            "id": "68ed47f1471e97df19c4708c",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 13.10.25 21:41 - 13.10.25 21:47",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760380914",
+            "date_end": "1760381237",
+            "average_speed": 0,
+            "distance": 1242,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85453,
+                    "longitude": 37.50291
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85563,
+                    "longitude": 37.51416
+                }
+            ]
+        },
+        {
+            "id": "68eca7d25477b9278ea68446",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 13.10.25 10:18 - 13.10.25 10:20",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760339924",
+            "date_end": "1760340050",
+            "average_speed": 0,
+            "distance": 71,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83844,
+                    "longitude": 37.4874
+                }
+            ]
+        },
+        {
+            "id": "68ec9facfa0f0ce9e9f48583",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 13.10.25 09:43 - 13.10.25 09:49",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760337837",
+            "date_end": "1760338194",
+            "average_speed": 24,
+            "distance": 275,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83088,
+                    "longitude": 37.49847
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.8322,
+                    "longitude": 37.49562
+                }
+            ]
+        },
+        {
+            "id": "68ed423b6771313f0ab65bb4",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 13.10.25 21:17 - 13.10.25 21:24",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760379452",
+            "date_end": "1760379874",
+            "average_speed": 16,
+            "distance": 1342,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84078,
+                    "longitude": 37.48996
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84945,
+                    "longitude": 37.49611
+                }
+            ]
+        },
+        {
+            "id": "68ed1bea7a400e868c3fe647",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 13.10.25 18:34 - 13.10.25 18:39",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760369643",
+            "date_end": "1760369942",
+            "average_speed": 15,
+            "distance": 953,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83722,
+                    "longitude": 37.47977
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.83849,
+                    "longitude": 37.48733
+                }
+            ]
+        },
+        {
+            "id": "68ebc663614e5faf1a7a7fed",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.10.25 18:16 - 12.10.25 18:21",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760282213",
+            "date_end": "1760282497",
+            "average_speed": 0,
+            "distance": 378,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83226,
+                    "longitude": 37.49574
+                }
+            ]
+        },
+        {
+            "id": "68ebbe70614e5faf1a7805a9",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.10.25 17:42 - 12.10.25 17:58",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760280178",
+            "date_end": "1760281116",
+            "average_speed": 0,
+            "distance": 2829,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84013,
+                    "longitude": 37.48589
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84626,
+                    "longitude": 37.49899
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.84371,
+                    "longitude": 37.49998
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.83932,
+                    "longitude": 37.48652
+                }
+            ]
+        },
+        {
+            "id": "68ebd363fa0f0ce9e9cfd750",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.10.25 19:12 - 12.10.25 19:19",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760285540",
+            "date_end": "1760285980",
+            "average_speed": 0,
+            "distance": 1435,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84014,
+                    "longitude": 37.48592
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.83855,
+                    "longitude": 37.49751
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.83692,
+                    "longitude": 37.50447
+                }
+            ]
+        },
+        {
+            "id": "68ebbc0de11ef54167601b87",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.10.25 17:32 - 12.10.25 17:36",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760279567",
+            "date_end": "1760279807",
+            "average_speed": 0,
+            "distance": 412,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84411,
+                    "longitude": 37.48223
+                }
+            ]
+        },
+        {
+            "id": "68ecb8de111217db1850ae65",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 13.10.25 11:31 - 13.10.25 11:38",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760344287",
+            "date_end": "1760344710",
+            "average_speed": 16.5,
+            "distance": 156,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.82397,
+                    "longitude": 37.49401
+                }
+            ]
+        },
+        {
+            "id": "68ebea3d614e5faf1a854826",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.10.25 20:49 - 12.10.25 20:55",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760291391",
+            "date_end": "1760291720",
+            "average_speed": 0,
+            "distance": 498,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83357,
+                    "longitude": 37.50576
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.8307,
+                    "longitude": 37.50098
+                }
+            ]
+        },
+        {
+            "id": "68ebbe70614e5faf1a7805a9",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.10.25 17:42 - 12.10.25 17:58",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760280178",
+            "date_end": "1760281116",
+            "average_speed": 0,
+            "distance": 2829,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84013,
+                    "longitude": 37.48589
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.84626,
+                    "longitude": 37.49899
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.84371,
+                    "longitude": 37.49998
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.83932,
+                    "longitude": 37.48652
+                }
+            ]
+        },
+        {
+            "id": "68eabed5205a6adffe106ca4",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.10.25 23:32 - 11.10.25 23:47",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760214741",
+            "date_end": "1760215629",
+            "average_speed": 0,
+            "distance": 2567,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85893,
+                    "longitude": 37.51688
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85774,
+                    "longitude": 37.50972
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.85117,
+                    "longitude": 37.48608
+                }
+            ]
+        },
+        {
+            "id": "68ebd363fa0f0ce9e9cfd750",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.10.25 19:12 - 12.10.25 19:19",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760285540",
+            "date_end": "1760285980",
+            "average_speed": 0,
+            "distance": 1435,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84014,
+                    "longitude": 37.48592
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.83855,
+                    "longitude": 37.49751
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.83692,
+                    "longitude": 37.50447
+                }
+            ]
+        },
+        {
+            "id": "68ebbc0de11ef54167601b87",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.10.25 17:32 - 12.10.25 17:36",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760279567",
+            "date_end": "1760279807",
+            "average_speed": 0,
+            "distance": 412,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.84411,
+                    "longitude": 37.48223
+                }
+            ]
+        },
+        {
+            "id": "68ea55d8111217db18d0322e",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.10.25 16:04 - 11.10.25 16:12",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760187870",
+            "date_end": "1760188350",
+            "average_speed": 0,
+            "distance": 928,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88121,
+                    "longitude": 37.48289
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.87529,
+                    "longitude": 37.48251
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.87529,
+                    "longitude": 37.4825
+                }
+            ]
+        },
+        {
+            "id": "68ebc663614e5faf1a7a7fed",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.10.25 18:16 - 12.10.25 18:21",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760282213",
+            "date_end": "1760282497",
+            "average_speed": 0,
+            "distance": 378,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.83226,
+                    "longitude": 37.49574
+                }
+            ]
+        },
+        {
+            "id": "68e9e086d47fd2594c63d67a",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.10.25 07:43 - 11.10.25 07:52",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760157832",
+            "date_end": "1760158332",
+            "average_speed": 0,
+            "distance": 2450,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.8836,
+                    "longitude": 37.50851
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.87569,
+                    "longitude": 37.50112
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.88025,
+                    "longitude": 37.48765
+                }
+            ]
+        },
+        {
+            "id": "68ea59d0205a6adffef2b109",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.10.25 16:21 - 11.10.25 16:32",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760188880",
+            "date_end": "1760189549",
+            "average_speed": 0,
+            "distance": 2298,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.86526,
+                    "longitude": 37.49901
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.86415,
+                    "longitude": 37.51952
+                }
+            ]
+        },
+        {
+            "id": "68ea59d0205a6adffef2b109",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.10.25 16:21 - 11.10.25 16:32",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760188880",
+            "date_end": "1760189549",
+            "average_speed": 0,
+            "distance": 2298,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.86526,
+                    "longitude": 37.49901
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.86415,
+                    "longitude": 37.51952
+                }
+            ]
+        },
+        {
+            "id": "68eabed5205a6adffe106ca4",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.10.25 23:32 - 11.10.25 23:47",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760214741",
+            "date_end": "1760215629",
+            "average_speed": 0,
+            "distance": 2567,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85893,
+                    "longitude": 37.51688
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85774,
+                    "longitude": 37.50972
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.85117,
+                    "longitude": 37.48608
+                }
+            ]
+        },
+        {
+            "id": "68e9e086d47fd2594c63d67a",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.10.25 07:43 - 11.10.25 07:52",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760157832",
+            "date_end": "1760158332",
+            "average_speed": 0,
+            "distance": 2450,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.8836,
+                    "longitude": 37.50851
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.87569,
+                    "longitude": 37.50112
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.88025,
+                    "longitude": 37.48765
+                }
+            ]
+        },
+        {
+            "id": "68e93f5e111217db1898c6ce",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 10.10.25 20:16 - 10.10.25 20:28",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760116576",
+            "date_end": "1760117286",
+            "average_speed": 0,
+            "distance": 1878,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88991,
+                    "longitude": 37.49799
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88756,
+                    "longitude": 37.50885
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.88133,
+                    "longitude": 37.51569
+                }
+            ]
+        },
+        {
+            "id": "68e8a86ee3120c7c7da9c929",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 10.10.25 09:32 - 10.10.25 09:42",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760077936",
+            "date_end": "1760078535",
+            "average_speed": 0,
+            "distance": 1252,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87997,
+                    "longitude": 37.50979
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88147,
+                    "longitude": 37.51611
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.88672,
+                    "longitude": 37.50701
+                }
+            ]
+        },
+        {
+            "id": "68ea55d8111217db18d0322e",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.10.25 16:04 - 11.10.25 16:12",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760187870",
+            "date_end": "1760188350",
+            "average_speed": 0,
+            "distance": 928,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88121,
+                    "longitude": 37.48289
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.87529,
+                    "longitude": 37.48251
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.87529,
+                    "longitude": 37.4825
+                }
+            ]
+        },
+        {
+            "id": "68e73195da6ac07e2cc92c0b",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 09.10.25 06:52 - 09.10.25 06:56",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759981975",
+            "date_end": "1759982198",
+            "average_speed": 0,
+            "distance": 10289,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87251,
+                    "longitude": 37.50881
+                }
+            ]
+        },
+        {
+            "id": "68e8a86ee3120c7c7da9c929",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 10.10.25 09:32 - 10.10.25 09:42",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760077936",
+            "date_end": "1760078535",
+            "average_speed": 0,
+            "distance": 1252,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87997,
+                    "longitude": 37.50979
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88147,
+                    "longitude": 37.51611
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.88672,
+                    "longitude": 37.50701
+                }
+            ]
+        },
+        {
+            "id": "68e93f5e111217db1898c6ce",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 10.10.25 20:16 - 10.10.25 20:28",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1760116576",
+            "date_end": "1760117286",
+            "average_speed": 0,
+            "distance": 1878,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88991,
+                    "longitude": 37.49799
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88756,
+                    "longitude": 37.50885
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.88133,
+                    "longitude": 37.51569
+                }
+            ]
+        },
+        {
+            "id": "68e73195da6ac07e2cc92c0b",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 09.10.25 06:52 - 09.10.25 06:56",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759981975",
+            "date_end": "1759982198",
+            "average_speed": 0,
+            "distance": 10289,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87251,
+                    "longitude": 37.50881
+                }
+            ]
+        },
+        {
+            "id": "68e53295d162544f885c8ae4",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 18:32 - 07.10.25 18:41",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759851157",
+            "date_end": "1759851681",
+            "average_speed": 0,
+            "distance": 11940,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.94646,
+                    "longitude": 37.43415
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.97199,
+                    "longitude": 37.43099
+                }
+            ]
+        },
+        {
+            "id": "68e49cd33116823e7371ad8d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 07:53 - 07.10.25 07:59",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759812819",
+            "date_end": "1759813198",
+            "average_speed": 0,
+            "distance": 27,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87213,
+                    "longitude": 37.47766
+                }
+            ]
+        },
+        {
+            "id": "68e539f6177fa37175193309",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 19:04 - 07.10.25 19:05",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759853046",
+            "date_end": "1759853125",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e5362a5d4b0e9c24b25a38",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 18:47 - 07.10.25 18:51",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759852074",
+            "date_end": "1759852275",
+            "average_speed": 0,
+            "distance": 109,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.9823,
+                    "longitude": 37.41772
+                }
+            ]
+        },
+        {
+            "id": "68e4825ed85ebcfb24b8633e",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 06:00 - 07.10.25 06:06",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759806048",
+            "date_end": "1759806401",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e4998a6036525dc8c3cc7b",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 07:39 - 07.10.25 07:43",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759811978",
+            "date_end": "1759812201",
+            "average_speed": 0,
+            "distance": 328,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87209,
+                    "longitude": 37.47821
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.87208,
+                    "longitude": 37.4782
+                }
+            ]
+        },
+        {
+            "id": "68e50cfc4559ec658fded262",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 15:52 - 07.10.25 15:57",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759841532",
+            "date_end": "1759841832",
+            "average_speed": 0,
+            "distance": 12368,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.96469,
+                    "longitude": 37.41093
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.87312,
+                    "longitude": 37.49815
+                }
+            ]
+        },
+        {
+            "id": "68e53fdf26622dc723758d61",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 19:29 - 07.10.25 19:35",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759854559",
+            "date_end": "1759854921",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.8704,
+                    "longitude": 37.50995
+                }
+            ]
+        },
+        {
+            "id": "68e53cb75d4b0e9c24b49617",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 19:15 - 07.10.25 19:26",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759853752",
+            "date_end": "1759854413",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e422f5ee4bbae7de6f05de",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.10.25 23:13 - 06.10.25 23:17",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759781623",
+            "date_end": "1759781876",
+            "average_speed": 0,
+            "distance": 729,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.96714,
+                    "longitude": 37.40416
+                }
+            ]
+        },
+        {
+            "id": "68e4255d9830080f157760fe",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.10.25 23:23 - 06.10.25 23:28",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759782239",
+            "date_end": "1759782485",
+            "average_speed": 0,
+            "distance": 1807,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.97327,
+                    "longitude": 37.43104
+                }
+            ]
+        },
+        {
+            "id": "68e4825ed85ebcfb24b8633e",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 06:00 - 07.10.25 06:06",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759806048",
+            "date_end": "1759806401",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e4998a6036525dc8c3cc7b",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 07:39 - 07.10.25 07:43",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759811978",
+            "date_end": "1759812201",
+            "average_speed": 0,
+            "distance": 328,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87209,
+                    "longitude": 37.47821
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.87208,
+                    "longitude": 37.4782
+                }
+            ]
+        },
+        {
+            "id": "68e49cd33116823e7371ad8d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 07:53 - 07.10.25 07:59",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759812819",
+            "date_end": "1759813198",
+            "average_speed": 0,
+            "distance": 27,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87213,
+                    "longitude": 37.47766
+                }
+            ]
+        },
+        {
+            "id": "68e50cfc4559ec658fded262",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 15:52 - 07.10.25 15:57",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759841532",
+            "date_end": "1759841832",
+            "average_speed": 0,
+            "distance": 12368,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.96469,
+                    "longitude": 37.41093
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.87312,
+                    "longitude": 37.49815
+                }
+            ]
+        },
+        {
+            "id": "68e53295d162544f885c8ae4",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 18:32 - 07.10.25 18:41",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759851157",
+            "date_end": "1759851681",
+            "average_speed": 0,
+            "distance": 11940,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.94646,
+                    "longitude": 37.43415
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.97199,
+                    "longitude": 37.43099
+                }
+            ]
+        },
+        {
+            "id": "68e5362a5d4b0e9c24b25a38",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 18:47 - 07.10.25 18:51",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759852074",
+            "date_end": "1759852275",
+            "average_speed": 0,
+            "distance": 109,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.9823,
+                    "longitude": 37.41772
+                }
+            ]
+        },
+        {
+            "id": "68e539f6177fa37175193309",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 19:04 - 07.10.25 19:05",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759853046",
+            "date_end": "1759853125",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e53cb75d4b0e9c24b49617",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 19:15 - 07.10.25 19:26",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759853752",
+            "date_end": "1759854413",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e53fdf26622dc723758d61",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.10.25 19:29 - 07.10.25 19:35",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759854559",
+            "date_end": "1759854921",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.8704,
+                    "longitude": 37.50995
+                }
+            ]
+        },
+        {
+            "id": "68e422f5ee4bbae7de6f05de",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.10.25 23:13 - 06.10.25 23:17",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759781623",
+            "date_end": "1759781876",
+            "average_speed": 0,
+            "distance": 729,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.96714,
+                    "longitude": 37.40416
+                }
+            ]
+        },
+        {
+            "id": "68e4255d9830080f157760fe",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.10.25 23:23 - 06.10.25 23:28",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759782239",
+            "date_end": "1759782485",
+            "average_speed": 0,
+            "distance": 1807,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.97327,
+                    "longitude": 37.43104
+                }
+            ]
+        },
+        {
+            "id": "68e03d72af473e7a78e5b9b9",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.10.25 00:17 - 04.10.25 00:27",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759526260",
+            "date_end": "1759526837",
+            "average_speed": 0,
+            "distance": 715,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.96546,
+                    "longitude": 37.42069
+                }
+            ]
+        },
+        {
+            "id": "68e05635c220f2cabc01b194",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.10.25 02:03 - 04.10.25 02:24",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759532598",
+            "date_end": "1759533867",
+            "average_speed": 0,
+            "distance": 3053,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.98118,
+                    "longitude": 37.40658
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.98187,
+                    "longitude": 37.42191
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.98143,
+                    "longitude": 37.4235
+                }
+            ]
+        },
+        {
+            "id": "68e0c4baca0e913556069db2",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.10.25 09:54 - 04.10.25 10:03",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759560892",
+            "date_end": "1759561398",
+            "average_speed": 21,
+            "distance": 54,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.86463,
+                    "longitude": 37.47335
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.8647,
+                    "longitude": 37.47397
+                }
+            ]
+        },
+        {
+            "id": "68e0c9565d1b9e07cf894bde",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.10.25 10:14 - 04.10.25 10:22",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759562072",
+            "date_end": "1759562520",
+            "average_speed": 0,
+            "distance": 323,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.96884,
+                    "longitude": 37.41805
+                }
+            ]
+        },
+        {
+            "id": "68e0d5d76a6ba1885b81d9cf",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.10.25 11:07 - 04.10.25 11:11",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759565273",
+            "date_end": "1759565480",
+            "average_speed": 0,
+            "distance": 469,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.97963,
+                    "longitude": 37.40344
+                }
+            ]
+        },
+        {
+            "id": "68e0c9565d1b9e07cf894bde",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.10.25 10:14 - 04.10.25 10:22",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759562072",
+            "date_end": "1759562520",
+            "average_speed": 0,
+            "distance": 323,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.96884,
+                    "longitude": 37.41805
+                }
+            ]
+        },
+        {
+            "id": "68dfe5be6515cffd56079723",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.10.25 18:03 - 03.10.25 18:12",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759503807",
+            "date_end": "1759504376",
+            "average_speed": 0,
+            "distance": 16639,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88193,
+                    "longitude": 37.50918
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88276,
+                    "longitude": 37.50833
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.88385,
+                    "longitude": 37.50719
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.97907,
+                    "longitude": 37.43032
+                },
+                {
+                    "number": 5,
+                    "latitude": 55.97911,
+                    "longitude": 37.43148
+                },
+                {
+                    "number": 6,
+                    "latitude": 55.97898,
+                    "longitude": 37.43396
+                },
+                {
+                    "number": 7,
+                    "latitude": 55.96512,
+                    "longitude": 37.40863
+                },
+                {
+                    "number": 8,
+                    "latitude": 55.97789,
+                    "longitude": 37.43061
+                }
+            ]
+        },
+        {
+            "id": "68dfa312ee4bbae7de7a067e",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.10.25 13:19 - 03.10.25 13:27",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759486740",
+            "date_end": "1759487249",
+            "average_speed": 0,
+            "distance": 5815,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.92011,
+                    "longitude": 37.47667
+                }
+            ]
+        },
+        {
+            "id": "68e0c4baca0e913556069db2",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.10.25 09:54 - 04.10.25 10:03",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759560892",
+            "date_end": "1759561398",
+            "average_speed": 21,
+            "distance": 54,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.86463,
+                    "longitude": 37.47335
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.8647,
+                    "longitude": 37.47397
+                }
+            ]
+        },
+        {
+            "id": "68e05635c220f2cabc01b194",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.10.25 02:03 - 04.10.25 02:24",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759532598",
+            "date_end": "1759533867",
+            "average_speed": 0,
+            "distance": 3053,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.98118,
+                    "longitude": 37.40658
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.98187,
+                    "longitude": 37.42191
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.98143,
+                    "longitude": 37.4235
+                }
+            ]
+        },
+        {
+            "id": "68df5e993116823e7354e931",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.10.25 08:26 - 03.10.25 08:40",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759469210",
+            "date_end": "1759470021",
+            "average_speed": 0,
+            "distance": 1047,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88374,
+                    "longitude": 37.53066
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88382,
+                    "longitude": 37.51389
+                }
+            ]
+        },
+        {
+            "id": "68e03d72af473e7a78e5b9b9",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.10.25 00:17 - 04.10.25 00:27",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759526260",
+            "date_end": "1759526837",
+            "average_speed": 0,
+            "distance": 715,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.96546,
+                    "longitude": 37.42069
+                }
+            ]
+        },
+        {
+            "id": "68df88d45e7523a23cf4cf6f",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.10.25 11:27 - 03.10.25 11:39",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759480022",
+            "date_end": "1759480785",
+            "average_speed": 9,
+            "distance": 1663,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88083,
+                    "longitude": 37.53977
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88081,
+                    "longitude": 37.53975
+                }
+            ]
+        },
+        {
+            "id": "68dfa5e9c220f2cabcd1c740",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.10.25 13:31 - 03.10.25 13:32",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759487466",
+            "date_end": "1759487541",
+            "average_speed": 0,
+            "distance": 116,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88326,
+                    "longitude": 37.51846
+                }
+            ]
+        },
+        {
+            "id": "68e0d5d76a6ba1885b81d9cf",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 04.10.25 11:07 - 04.10.25 11:11",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759565273",
+            "date_end": "1759565480",
+            "average_speed": 0,
+            "distance": 469,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.97963,
+                    "longitude": 37.40344
+                }
+            ]
+        },
+        {
+            "id": "68dfa9b3a83ebd617b0f0e9a",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.10.25 13:47 - 03.10.25 13:52",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759488437",
+            "date_end": "1759488753",
+            "average_speed": 0,
+            "distance": 2353,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.93074,
+                    "longitude": 37.464
+                }
+            ]
+        },
+        {
+            "id": "68dfa312ee4bbae7de7a067e",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.10.25 13:19 - 03.10.25 13:27",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759486740",
+            "date_end": "1759487249",
+            "average_speed": 0,
+            "distance": 5815,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.92011,
+                    "longitude": 37.47667
+                }
+            ]
+        },
+        {
+            "id": "68df88d45e7523a23cf4cf6f",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.10.25 11:27 - 03.10.25 11:39",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759480022",
+            "date_end": "1759480785",
+            "average_speed": 9,
+            "distance": 1663,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88083,
+                    "longitude": 37.53977
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88081,
+                    "longitude": 37.53975
+                }
+            ]
+        },
+        {
+            "id": "68dfa5e9c220f2cabcd1c740",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.10.25 13:31 - 03.10.25 13:32",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759487466",
+            "date_end": "1759487541",
+            "average_speed": 0,
+            "distance": 116,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88326,
+                    "longitude": 37.51846
+                }
+            ]
+        },
+        {
+            "id": "68df5e993116823e7354e931",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.10.25 08:26 - 03.10.25 08:40",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759469210",
+            "date_end": "1759470021",
+            "average_speed": 0,
+            "distance": 1047,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88374,
+                    "longitude": 37.53066
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88382,
+                    "longitude": 37.51389
+                }
+            ]
+        },
+        {
+            "id": "68dfa9b3a83ebd617b0f0e9a",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.10.25 13:47 - 03.10.25 13:52",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759488437",
+            "date_end": "1759488753",
+            "average_speed": 0,
+            "distance": 2353,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.93074,
+                    "longitude": 37.464
+                }
+            ]
+        },
+        {
+            "id": "68dfe5be6515cffd56079723",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 03.10.25 18:03 - 03.10.25 18:12",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1759503807",
+            "date_end": "1759504376",
+            "average_speed": 0,
+            "distance": 16639,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88193,
+                    "longitude": 37.50918
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88276,
+                    "longitude": 37.50833
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.88385,
+                    "longitude": 37.50719
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.97907,
+                    "longitude": 37.43032
+                },
+                {
+                    "number": 5,
+                    "latitude": 55.97911,
+                    "longitude": 37.43148
+                },
+                {
+                    "number": 6,
+                    "latitude": 55.97898,
+                    "longitude": 37.43396
+                },
+                {
+                    "number": 7,
+                    "latitude": 55.96512,
+                    "longitude": 37.40863
+                },
+                {
+                    "number": 8,
+                    "latitude": 55.97789,
+                    "longitude": 37.43061
+                }
+            ]
+        },
+        {
+            "id": "68c883e2b439f25612f19617",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 16.09.25 00:23 - 16.09.25 05:42",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757971425",
+            "date_end": "1757990573",
+            "average_speed": 0,
+            "distance": 757,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88424,
+                    "longitude": 37.52122
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88423,
+                    "longitude": 37.52123
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.88423,
+                    "longitude": 37.52126
+                }
+            ]
+        },
+        {
+            "id": "68c7acd3d74e75b08fc296da",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 15.09.25 09:06 - 15.09.25 09:06",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757916371",
+            "date_end": "1757916391",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68c81aaeaa2ca7563b2c2256",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 15.09.25 16:54 - 15.09.25 17:19",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757944493",
+            "date_end": "1757945988",
+            "average_speed": 0,
+            "distance": 4681,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85882,
+                    "longitude": 37.47099
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85882,
+                    "longitude": 37.47102
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.85886,
+                    "longitude": 37.47103
+                }
+            ]
+        },
+        {
+            "id": "68c7b5670e6db4d8c3248e01",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 15.09.25 09:42 - 15.09.25 09:46",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757918567",
+            "date_end": "1757918771",
+            "average_speed": 0,
+            "distance": 718,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88155,
+                    "longitude": 37.53331
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.8816,
+                    "longitude": 37.53304
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.8809,
+                    "longitude": 37.54398
+                }
+            ]
+        },
+        {
+            "id": "68c82abb9a1323ff9f87ac53",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 15.09.25 18:03 - 15.09.25 18:34",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757948603",
+            "date_end": "1757950444",
+            "average_speed": 0,
+            "distance": 12,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.86651,
+                    "longitude": 37.5033
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.86689,
+                    "longitude": 37.50947
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.86687,
+                    "longitude": 37.50957
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.86686,
+                    "longitude": 37.50966
+                }
+            ]
+        },
+        {
+            "id": "68c835914d622b7f2ecd0c7f",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 15.09.25 18:49 - 15.09.25 19:03",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757951377",
+            "date_end": "1757952239",
+            "average_speed": 0,
+            "distance": 2630,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88482,
+                    "longitude": 37.53345
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88538,
+                    "longitude": 37.53261
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.88501,
+                    "longitude": 37.53321
+                }
+            ]
+        },
+        {
+            "id": "68c7f2f9c27903c0d451ed35",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 15.09.25 14:05 - 15.09.25 14:15",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757934329",
+            "date_end": "1757934936",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68c8081daa2ca7563b26b54d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 15.09.25 15:35 - 15.09.25 15:39",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757939741",
+            "date_end": "1757939954",
+            "average_speed": 0,
+            "distance": 737,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88745,
+                    "longitude": 37.52585
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88744,
+                    "longitude": 37.52585
+                }
+            ]
+        },
+        {
+            "id": "68c883e2b439f25612f19617",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 16.09.25 00:23 - 16.09.25 05:42",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757971425",
+            "date_end": "1757990573",
+            "average_speed": 0,
+            "distance": 757,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88424,
+                    "longitude": 37.52122
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88423,
+                    "longitude": 37.52123
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.88423,
+                    "longitude": 37.52126
+                }
+            ]
+        },
+        {
+            "id": "68c7b5670e6db4d8c3248e01",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 15.09.25 09:42 - 15.09.25 09:46",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757918567",
+            "date_end": "1757918771",
+            "average_speed": 0,
+            "distance": 718,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88155,
+                    "longitude": 37.53331
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.8816,
+                    "longitude": 37.53304
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.8809,
+                    "longitude": 37.54398
+                }
+            ]
+        },
+        {
+            "id": "68c82abb9a1323ff9f87ac53",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 15.09.25 18:03 - 15.09.25 18:34",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757948603",
+            "date_end": "1757950444",
+            "average_speed": 0,
+            "distance": 12,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.86651,
+                    "longitude": 37.5033
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.86689,
+                    "longitude": 37.50947
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.86687,
+                    "longitude": 37.50957
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.86686,
+                    "longitude": 37.50966
+                }
+            ]
+        },
+        {
+            "id": "68c81aaeaa2ca7563b2c2256",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 15.09.25 16:54 - 15.09.25 17:19",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757944493",
+            "date_end": "1757945988",
+            "average_speed": 0,
+            "distance": 4681,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.85882,
+                    "longitude": 37.47099
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.85882,
+                    "longitude": 37.47102
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.85886,
+                    "longitude": 37.47103
+                }
+            ]
+        },
+        {
+            "id": "68c835914d622b7f2ecd0c7f",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 15.09.25 18:49 - 15.09.25 19:03",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757951377",
+            "date_end": "1757952239",
+            "average_speed": 0,
+            "distance": 2630,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88482,
+                    "longitude": 37.53345
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88538,
+                    "longitude": 37.53261
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.88501,
+                    "longitude": 37.53321
+                }
+            ]
+        },
+        {
+            "id": "68c7acd3d74e75b08fc296da",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 15.09.25 09:06 - 15.09.25 09:06",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757916371",
+            "date_end": "1757916391",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68c7f2f9c27903c0d451ed35",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 15.09.25 14:05 - 15.09.25 14:15",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757934329",
+            "date_end": "1757934936",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68c8081daa2ca7563b26b54d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 15.09.25 15:35 - 15.09.25 15:39",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757939741",
+            "date_end": "1757939954",
+            "average_speed": 0,
+            "distance": 737,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88745,
+                    "longitude": 37.52585
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.88744,
+                    "longitude": 37.52585
+                }
+            ]
+        },
+        {
+            "id": "68c42808d74e75b08f1e1aad",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 17:02 - 12.09.25 17:05",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757685768",
+            "date_end": "1757685949",
+            "average_speed": 0,
+            "distance": 795,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88616,
+                    "longitude": 37.55825
+                }
+            ]
+        },
+        {
+            "id": "68c3c199313adb8a1422b96b",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 09:45 - 12.09.25 09:48",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757659545",
+            "date_end": "1757659739",
+            "average_speed": 0,
+            "distance": 1,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87915,
+                    "longitude": 37.54684
+                }
+            ]
+        },
+        {
+            "id": "68c430f4a04d1262caa8a915",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 17:40 - 12.09.25 17:47",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757688052",
+            "date_end": "1757688422",
+            "average_speed": 0,
+            "distance": 2719,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.89925,
+                    "longitude": 37.52129
+                }
+            ]
+        },
+        {
+            "id": "68c3471db91aea85de2475e6",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 01:03 - 12.09.25 01:09",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757628189",
+            "date_end": "1757628588",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68c434de2d53827872e16ea9",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 17:57 - 12.09.25 18:09",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757689053",
+            "date_end": "1757689741",
+            "average_speed": 12.5,
+            "distance": 8688,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88015,
+                    "longitude": 37.55742
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.93718,
+                    "longitude": 37.4623
+                }
+            ]
+        },
+        {
+            "id": "68c3be048c7ab1011230f715",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 09:30 - 12.09.25 09:34",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757658628",
+            "date_end": "1757658877",
+            "average_speed": 0,
+            "distance": 5,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87248,
+                    "longitude": 37.5589
+                }
+            ]
+        },
+        {
+            "id": "68c4214802681bd03f9edf93",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 16:34 - 12.09.25 16:37",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757684040",
+            "date_end": "1757684272",
+            "average_speed": 0,
+            "distance": 612,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87958,
+                    "longitude": 37.5527
+                }
+            ]
+        },
+        {
+            "id": "68c3ac2a5246f8b40cbf883d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 08:14 - 12.09.25 08:17",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757654058",
+            "date_end": "1757654251",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68c25d9085392b6cf69acf39",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.09.25 08:26 - 11.09.25 08:29",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757568400",
+            "date_end": "1757568588",
+            "average_speed": 0,
+            "distance": 877,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88289,
+                    "longitude": 37.56731
+                }
+            ]
+        },
+        {
+            "id": "68c2e1298c7ab101120c4cdf",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.09.25 17:48 - 11.09.25 17:51",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757602089",
+            "date_end": "1757602263",
+            "average_speed": 0,
+            "distance": 41,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88252,
+                    "longitude": 37.56715
+                }
+            ]
+        },
+        {
+            "id": "68c31567bd13c9b40616a015",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.09.25 21:31 - 11.09.25 21:33",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757615463",
+            "date_end": "1757615626",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68c3164b5246f8b40cafec7d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.09.25 21:34 - 11.09.25 21:38",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757615691",
+            "date_end": "1757615881",
+            "average_speed": 0,
+            "distance": 382,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88047,
+                    "longitude": 37.56166
+                }
+            ]
+        },
+        {
+            "id": "68c317195246f8b40cb01e99",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.09.25 21:38 - 11.09.25 21:41",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757615897",
+            "date_end": "1757616089",
+            "average_speed": 0,
+            "distance": 933,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87906,
+                    "longitude": 37.54658
+                }
+            ]
+        },
+        {
+            "id": "68c3194702681bd03f73c720",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.09.25 21:47 - 11.09.25 21:51",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757616455",
+            "date_end": "1757616691",
+            "average_speed": 0,
+            "distance": 597,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.874,
+                    "longitude": 37.54946
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.87399,
+                    "longitude": 37.54945
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.87399,
+                    "longitude": 37.54944
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.87402,
+                    "longitude": 37.5494
+                }
+            ]
+        },
+        {
+            "id": "68c3471db91aea85de2475e6",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 01:03 - 12.09.25 01:09",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757628189",
+            "date_end": "1757628588",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68c3ac2a5246f8b40cbf883d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 08:14 - 12.09.25 08:17",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757654058",
+            "date_end": "1757654251",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68c3be048c7ab1011230f715",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 09:30 - 12.09.25 09:34",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757658628",
+            "date_end": "1757658877",
+            "average_speed": 0,
+            "distance": 5,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87248,
+                    "longitude": 37.5589
+                }
+            ]
+        },
+        {
+            "id": "68c3c199313adb8a1422b96b",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 09:45 - 12.09.25 09:48",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757659545",
+            "date_end": "1757659739",
+            "average_speed": 0,
+            "distance": 1,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87915,
+                    "longitude": 37.54684
+                }
+            ]
+        },
+        {
+            "id": "68c4214802681bd03f9edf93",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 16:34 - 12.09.25 16:37",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757684040",
+            "date_end": "1757684272",
+            "average_speed": 0,
+            "distance": 612,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87958,
+                    "longitude": 37.5527
+                }
+            ]
+        },
+        {
+            "id": "68c42808d74e75b08f1e1aad",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 17:02 - 12.09.25 17:05",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757685768",
+            "date_end": "1757685949",
+            "average_speed": 0,
+            "distance": 795,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88616,
+                    "longitude": 37.55825
+                }
+            ]
+        },
+        {
+            "id": "68c430f4a04d1262caa8a915",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 17:40 - 12.09.25 17:47",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757688052",
+            "date_end": "1757688422",
+            "average_speed": 0,
+            "distance": 2719,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.89925,
+                    "longitude": 37.52129
+                }
+            ]
+        },
+        {
+            "id": "68c434de2d53827872e16ea9",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 12.09.25 17:57 - 12.09.25 18:09",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757689053",
+            "date_end": "1757689741",
+            "average_speed": 12.5,
+            "distance": 8688,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88015,
+                    "longitude": 37.55742
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.93718,
+                    "longitude": 37.4623
+                }
+            ]
+        },
+        {
+            "id": "68c1d1db120810d4b70da718",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 10.09.25 22:30 - 10.09.25 22:33",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757532635",
+            "date_end": "1757532813",
+            "average_speed": 0,
+            "distance": 745,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.89021,
+                    "longitude": 37.56302
+                }
+            ]
+        },
+        {
+            "id": "68c31567bd13c9b40616a015",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.09.25 21:31 - 11.09.25 21:33",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757615463",
+            "date_end": "1757615626",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68c3164b5246f8b40cafec7d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.09.25 21:34 - 11.09.25 21:38",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757615691",
+            "date_end": "1757615881",
+            "average_speed": 0,
+            "distance": 382,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88047,
+                    "longitude": 37.56166
+                }
+            ]
+        },
+        {
+            "id": "68c1c135fd03d7eb3beb317d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 10.09.25 21:19 - 10.09.25 21:22",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757528373",
+            "date_end": "1757528567",
+            "average_speed": 0,
+            "distance": 769,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.89584,
+                    "longitude": 37.55674
+                }
+            ]
+        },
+        {
+            "id": "68c317195246f8b40cb01e99",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.09.25 21:38 - 11.09.25 21:41",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757615897",
+            "date_end": "1757616089",
+            "average_speed": 0,
+            "distance": 933,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87906,
+                    "longitude": 37.54658
+                }
+            ]
+        },
+        {
+            "id": "68c10e13fd03d7eb3bbc122b",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 10.09.25 08:35 - 10.09.25 08:36",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757482515",
+            "date_end": "1757482609",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.89148,
+                    "longitude": 37.5573
+                }
+            ]
+        },
+        {
+            "id": "68c3194702681bd03f73c720",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.09.25 21:47 - 11.09.25 21:51",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757616455",
+            "date_end": "1757616691",
+            "average_speed": 0,
+            "distance": 597,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.874,
+                    "longitude": 37.54946
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.87399,
+                    "longitude": 37.54945
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.87399,
+                    "longitude": 37.54944
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.87402,
+                    "longitude": 37.5494
+                }
+            ]
+        },
+        {
+            "id": "68c25d9085392b6cf69acf39",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.09.25 08:26 - 11.09.25 08:29",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757568400",
+            "date_end": "1757568588",
+            "average_speed": 0,
+            "distance": 877,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88289,
+                    "longitude": 37.56731
+                }
+            ]
+        },
+        {
+            "id": "68c19fddf05a3dca51b284e2",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 10.09.25 18:57 - 10.09.25 19:01",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757519837",
+            "date_end": "1757520084",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68c2e1298c7ab101120c4cdf",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 11.09.25 17:48 - 11.09.25 17:51",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757602089",
+            "date_end": "1757602263",
+            "average_speed": 0,
+            "distance": 41,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88252,
+                    "longitude": 37.56715
+                }
+            ]
+        },
+        {
+            "id": "68bff4dbd16aa3718768a22f",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 09.09.25 12:35 - 09.09.25 12:42",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757410523",
+            "date_end": "1757410947",
+            "average_speed": 0,
+            "distance": 24,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88284,
+                    "longitude": 37.5569
+                }
+            ]
+        },
+        {
+            "id": "68c19fddf05a3dca51b284e2",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 10.09.25 18:57 - 10.09.25 19:01",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757519837",
+            "date_end": "1757520084",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68c1c135fd03d7eb3beb317d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 10.09.25 21:19 - 10.09.25 21:22",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757528373",
+            "date_end": "1757528567",
+            "average_speed": 0,
+            "distance": 769,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.89584,
+                    "longitude": 37.55674
+                }
+            ]
+        },
+        {
+            "id": "68bfd14c8d7f0a5aee578c30",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 09.09.25 10:03 - 09.09.25 10:07",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757401420",
+            "date_end": "1757401647",
+            "average_speed": 0,
+            "distance": 250,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88238,
+                    "longitude": 37.5569
+                }
+            ]
+        },
+        {
+            "id": "68c1d1db120810d4b70da718",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 10.09.25 22:30 - 10.09.25 22:33",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757532635",
+            "date_end": "1757532813",
+            "average_speed": 0,
+            "distance": 745,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.89021,
+                    "longitude": 37.56302
+                }
+            ]
+        },
+        {
+            "id": "68bff20cfd03d7eb3b83bd19",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 09.09.25 12:23 - 09.09.25 12:27",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757409804",
+            "date_end": "1757410033",
+            "average_speed": 0,
+            "distance": 736,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88265,
+                    "longitude": 37.55673
+                }
+            ]
+        },
+        {
+            "id": "68c10e13fd03d7eb3bbc122b",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 10.09.25 08:35 - 10.09.25 08:36",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757482515",
+            "date_end": "1757482609",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.89148,
+                    "longitude": 37.5573
+                }
+            ]
+        },
+        {
+            "id": "68bfd14c8d7f0a5aee578c30",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 09.09.25 10:03 - 09.09.25 10:07",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757401420",
+            "date_end": "1757401647",
+            "average_speed": 0,
+            "distance": 250,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88238,
+                    "longitude": 37.5569
+                }
+            ]
+        },
+        {
+            "id": "68bf0182a54a0034a6789d11",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 08.09.25 19:17 - 08.09.25 19:26",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757348226",
+            "date_end": "1757348792",
+            "average_speed": 0,
+            "distance": 2191,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88305,
+                    "longitude": 37.5608
+                }
+            ]
+        },
+        {
+            "id": "68bff20cfd03d7eb3b83bd19",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 09.09.25 12:23 - 09.09.25 12:27",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757409804",
+            "date_end": "1757410033",
+            "average_speed": 0,
+            "distance": 736,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88265,
+                    "longitude": 37.55673
+                }
+            ]
+        },
+        {
+            "id": "68be645ac84e3ae2f2b673dd",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 08.09.25 08:06 - 08.09.25 08:13",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757307994",
+            "date_end": "1757308417",
+            "average_speed": 0,
+            "distance": 2028,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88097,
+                    "longitude": 37.54428
+                }
+            ]
+        },
+        {
+            "id": "68bff4dbd16aa3718768a22f",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 09.09.25 12:35 - 09.09.25 12:42",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757410523",
+            "date_end": "1757410947",
+            "average_speed": 0,
+            "distance": 24,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88284,
+                    "longitude": 37.5569
+                }
+            ]
+        },
+        {
+            "id": "68beec7d3d1b518a8506eae4",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 08.09.25 17:47 - 08.09.25 17:52",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757342845",
+            "date_end": "1757343174",
+            "average_speed": 0,
+            "distance": 1666,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88116,
+                    "longitude": 37.52607
+                }
+            ]
+        },
+        {
+            "id": "68bd729e4462bb9c039d8f0e",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.09.25 14:55 - 07.09.25 14:58",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757246110",
+            "date_end": "1757246327",
+            "average_speed": 0,
+            "distance": 316,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87656,
+                    "longitude": 37.51519
+                }
+            ]
+        },
+        {
+            "id": "68bda56ec84e3ae2f2964837",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.09.25 18:31 - 07.09.25 18:39",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757259118",
+            "date_end": "1757259546",
+            "average_speed": 0,
+            "distance": 1332,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88598,
+                    "longitude": 37.52778
+                }
+            ]
+        },
+        {
+            "id": "68bdacfa73336e8e587a3e10",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.09.25 19:04 - 07.09.25 19:08",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757261049",
+            "date_end": "1757261333",
+            "average_speed": 0,
+            "distance": 715,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88948,
+                    "longitude": 37.53742
+                }
+            ]
+        },
+        {
+            "id": "68bdafeff87e5d3bc41cbf0a",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.09.25 19:16 - 07.09.25 19:24",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757261807",
+            "date_end": "1757262296",
+            "average_speed": 0,
+            "distance": 2085,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87728,
+                    "longitude": 37.5128
+                }
+            ]
+        },
+        {
+            "id": "68be645ac84e3ae2f2b673dd",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 08.09.25 08:06 - 08.09.25 08:13",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757307994",
+            "date_end": "1757308417",
+            "average_speed": 0,
+            "distance": 2028,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88097,
+                    "longitude": 37.54428
+                }
+            ]
+        },
+        {
+            "id": "68beec7d3d1b518a8506eae4",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 08.09.25 17:47 - 08.09.25 17:52",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757342845",
+            "date_end": "1757343174",
+            "average_speed": 0,
+            "distance": 1666,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88116,
+                    "longitude": 37.52607
+                }
+            ]
+        },
+        {
+            "id": "68bf0182a54a0034a6789d11",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 08.09.25 19:17 - 08.09.25 19:26",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757348226",
+            "date_end": "1757348792",
+            "average_speed": 0,
+            "distance": 2191,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88305,
+                    "longitude": 37.5608
+                }
+            ]
+        },
+        {
+            "id": "68bc764cf3625b96814d980a",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.09.25 20:58 - 06.09.25 21:14",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757181515",
+            "date_end": "1757182443",
+            "average_speed": 0,
+            "distance": 1625,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87736,
+                    "longitude": 37.5117
+                }
+            ]
+        },
+        {
+            "id": "68bc4e7d1f125675ab231288",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.09.25 18:08 - 06.09.25 18:12",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757171325",
+            "date_end": "1757171526",
+            "average_speed": 0,
+            "distance": 633,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.881,
+                    "longitude": 37.53385
+                }
+            ]
+        },
+        {
+            "id": "68bd729e4462bb9c039d8f0e",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.09.25 14:55 - 07.09.25 14:58",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757246110",
+            "date_end": "1757246327",
+            "average_speed": 0,
+            "distance": 316,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87656,
+                    "longitude": 37.51519
+                }
+            ]
+        },
+        {
+            "id": "68bc723d1f125675ab2fa2b6",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.09.25 20:41 - 06.09.25 20:43",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757180477",
+            "date_end": "1757180596",
+            "average_speed": 0,
+            "distance": 61,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88061,
+                    "longitude": 37.54473
+                }
+            ]
+        },
+        {
+            "id": "68bda56ec84e3ae2f2964837",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.09.25 18:31 - 07.09.25 18:39",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757259118",
+            "date_end": "1757259546",
+            "average_speed": 0,
+            "distance": 1332,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88598,
+                    "longitude": 37.52778
+                }
+            ]
+        },
+        {
+            "id": "68bbfc456b23b2def3a3e332",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.09.25 12:17 - 06.09.25 12:43",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757150277",
+            "date_end": "1757151806",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68bdacfa73336e8e587a3e10",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.09.25 19:04 - 07.09.25 19:08",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757261049",
+            "date_end": "1757261333",
+            "average_speed": 0,
+            "distance": 715,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88948,
+                    "longitude": 37.53742
+                }
+            ]
+        },
+        {
+            "id": "68bc3fd6a577fb9f0dfd4f8d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.09.25 17:06 - 06.09.25 17:11",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757167574",
+            "date_end": "1757167865",
+            "average_speed": 0,
+            "distance": 1004,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88183,
+                    "longitude": 37.54359
+                }
+            ]
+        },
+        {
+            "id": "68bdafeff87e5d3bc41cbf0a",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 07.09.25 19:16 - 07.09.25 19:24",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757261807",
+            "date_end": "1757262296",
+            "average_speed": 0,
+            "distance": 2085,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87728,
+                    "longitude": 37.5128
+                }
+            ]
+        },
+        {
+            "id": "68bc73ba875f17a7bc4ed29d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.09.25 20:47 - 06.09.25 20:50",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757180858",
+            "date_end": "1757181024",
+            "average_speed": 0,
+            "distance": 10540,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.95494,
+                    "longitude": 37.44002
+                }
+            ]
+        },
+        {
+            "id": "68bc65bdf332417324cd8f12",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.09.25 19:47 - 06.09.25 19:51",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757177277",
+            "date_end": "1757177488",
+            "average_speed": 0,
+            "distance": 711,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88108,
+                    "longitude": 37.54474
+                }
+            ]
+        },
+        {
+            "id": "68bc723d1f125675ab2fa2b6",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.09.25 20:41 - 06.09.25 20:43",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757180477",
+            "date_end": "1757180596",
+            "average_speed": 0,
+            "distance": 61,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88061,
+                    "longitude": 37.54473
+                }
+            ]
+        },
+        {
+            "id": "68bc3fd6a577fb9f0dfd4f8d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.09.25 17:06 - 06.09.25 17:11",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757167574",
+            "date_end": "1757167865",
+            "average_speed": 0,
+            "distance": 1004,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88183,
+                    "longitude": 37.54359
+                }
+            ]
+        },
+        {
+            "id": "68bc73ba875f17a7bc4ed29d",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.09.25 20:47 - 06.09.25 20:50",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757180858",
+            "date_end": "1757181024",
+            "average_speed": 0,
+            "distance": 10540,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.95494,
+                    "longitude": 37.44002
+                }
+            ]
+        },
+        {
+            "id": "68bbfc456b23b2def3a3e332",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.09.25 12:17 - 06.09.25 12:43",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757150277",
+            "date_end": "1757151806",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68bc764cf3625b96814d980a",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.09.25 20:58 - 06.09.25 21:14",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757181515",
+            "date_end": "1757182443",
+            "average_speed": 0,
+            "distance": 1625,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.87736,
+                    "longitude": 37.5117
+                }
+            ]
+        },
+        {
+            "id": "68bc65bdf332417324cd8f12",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.09.25 19:47 - 06.09.25 19:51",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757177277",
+            "date_end": "1757177488",
+            "average_speed": 0,
+            "distance": 711,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.88108,
+                    "longitude": 37.54474
+                }
+            ]
+        },
+        {
+            "id": "68bc4e7d1f125675ab231288",
+            "name": "Трек движения СИМ: Юрент S.EK608X за период: 06.09.25 18:08 - 06.09.25 18:12",
+            "vehicle_id": "6708e9d43700a12f56c04559",
+            "vehicle_name": "Юрент S.EK608X",
+            "date_start": "1757171325",
+            "date_end": "1757171526",
+            "average_speed": 0,
+            "distance": 633,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.881,
+                    "longitude": 37.53385
+                }
+            ]
+        }
+    ]
+}

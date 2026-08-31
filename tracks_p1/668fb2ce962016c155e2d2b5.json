@@ -1,0 +1,3748 @@
+{
+    "tracks": [
+        {
+            "id": "68fb7ed5455ff7522419a272",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 24.10.25 16:27 - 24.10.25 16:32",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1761312469",
+            "date_end": "1761312734",
+            "average_speed": 0,
+            "distance": 892,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.4198,
+                    "longitude": 39.92533
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.42051,
+                    "longitude": 39.92576
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.42088,
+                    "longitude": 39.92597
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.42133,
+                    "longitude": 39.92625
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.4217,
+                    "longitude": 39.92647
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.42231,
+                    "longitude": 39.9268
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.42347,
+                    "longitude": 39.92742
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.4241,
+                    "longitude": 39.92775
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.4247,
+                    "longitude": 39.92809
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.42486,
+                    "longitude": 39.92749
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.42492,
+                    "longitude": 39.92728
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.42496,
+                    "longitude": 39.92713
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.42493,
+                    "longitude": 39.92692
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.42476,
+                    "longitude": 39.92679
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.42464,
+                    "longitude": 39.92617
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.42486,
+                    "longitude": 39.92584
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.42513,
+                    "longitude": 39.92584
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.42542,
+                    "longitude": 39.92608
+                }
+            ]
+        },
+        {
+            "id": "68fb720cb00b7582f605e20d",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 24.10.25 15:33 - 24.10.25 15:36",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1761309198",
+            "date_end": "1761309388",
+            "average_speed": 0,
+            "distance": 381,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.41803,
+                    "longitude": 39.92636
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.41761,
+                    "longitude": 39.92614
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.41701,
+                    "longitude": 39.92579
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.41648,
+                    "longitude": 39.92549
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.41598,
+                    "longitude": 39.92537
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.41572,
+                    "longitude": 39.92559
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.41563,
+                    "longitude": 39.92627
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.41564,
+                    "longitude": 39.92627
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.41563,
+                    "longitude": 39.92627
+                }
+            ]
+        },
+        {
+            "id": "68fb65789f28ccc07775f294",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 24.10.25 14:39 - 24.10.25 14:52",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1761305978",
+            "date_end": "1761306740",
+            "average_speed": 0,
+            "distance": 1044,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.3991,
+                    "longitude": 39.95388
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.39904,
+                    "longitude": 39.95358
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.399,
+                    "longitude": 39.95334
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.39896,
+                    "longitude": 39.9531
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.39894,
+                    "longitude": 39.95283
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.39892,
+                    "longitude": 39.9525
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.39892,
+                    "longitude": 39.95221
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.39893,
+                    "longitude": 39.9519
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.39896,
+                    "longitude": 39.95159
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.39896,
+                    "longitude": 39.95154
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.39899,
+                    "longitude": 39.95127
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.39904,
+                    "longitude": 39.95095
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.39911,
+                    "longitude": 39.95064
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.39917,
+                    "longitude": 39.95035
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.39925,
+                    "longitude": 39.95007
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.39934,
+                    "longitude": 39.94977
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.39941,
+                    "longitude": 39.94949
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.3995,
+                    "longitude": 39.94919
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.39958,
+                    "longitude": 39.94891
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.39967,
+                    "longitude": 39.9486
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.39977,
+                    "longitude": 39.94833
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.39991,
+                    "longitude": 39.94807
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.40007,
+                    "longitude": 39.94784
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.40023,
+                    "longitude": 39.94765
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.40041,
+                    "longitude": 39.94746
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.40061,
+                    "longitude": 39.94731
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.40082,
+                    "longitude": 39.94716
+                },
+                {
+                    "number": 28,
+                    "latitude": 43.401,
+                    "longitude": 39.94704
+                },
+                {
+                    "number": 29,
+                    "latitude": 43.40121,
+                    "longitude": 39.94689
+                },
+                {
+                    "number": 30,
+                    "latitude": 43.40142,
+                    "longitude": 39.94675
+                },
+                {
+                    "number": 31,
+                    "latitude": 43.40163,
+                    "longitude": 39.9466
+                },
+                {
+                    "number": 32,
+                    "latitude": 43.40184,
+                    "longitude": 39.94645
+                },
+                {
+                    "number": 33,
+                    "latitude": 43.40225,
+                    "longitude": 39.94616
+                },
+                {
+                    "number": 34,
+                    "latitude": 43.40248,
+                    "longitude": 39.946
+                },
+                {
+                    "number": 35,
+                    "latitude": 43.40269,
+                    "longitude": 39.94586
+                },
+                {
+                    "number": 36,
+                    "latitude": 43.40292,
+                    "longitude": 39.94569
+                },
+                {
+                    "number": 37,
+                    "latitude": 43.40312,
+                    "longitude": 39.94555
+                },
+                {
+                    "number": 38,
+                    "latitude": 43.40332,
+                    "longitude": 39.9454
+                },
+                {
+                    "number": 39,
+                    "latitude": 43.40352,
+                    "longitude": 39.94525
+                },
+                {
+                    "number": 40,
+                    "latitude": 43.40366,
+                    "longitude": 39.94525
+                },
+                {
+                    "number": 41,
+                    "latitude": 43.40377,
+                    "longitude": 39.94529
+                },
+                {
+                    "number": 42,
+                    "latitude": 43.40389,
+                    "longitude": 39.94535
+                },
+                {
+                    "number": 43,
+                    "latitude": 43.40399,
+                    "longitude": 39.94542
+                },
+                {
+                    "number": 44,
+                    "latitude": 43.40406,
+                    "longitude": 39.94538
+                }
+            ]
+        },
+        {
+            "id": "68fb6c61f34765595612d7de",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 24.10.25 15:09 - 24.10.25 15:22",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1761307746",
+            "date_end": "1761308525",
+            "average_speed": 13,
+            "distance": 2471,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40385,
+                    "longitude": 39.94527
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.40402,
+                    "longitude": 39.94484
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.40474,
+                    "longitude": 39.94413
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.4051,
+                    "longitude": 39.9437
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.4054,
+                    "longitude": 39.94332
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.40551,
+                    "longitude": 39.9431
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.40567,
+                    "longitude": 39.94291
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.40602,
+                    "longitude": 39.94232
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.40634,
+                    "longitude": 39.94174
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.40662,
+                    "longitude": 39.94115
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.40718,
+                    "longitude": 39.94002
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.40752,
+                    "longitude": 39.93946
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.40786,
+                    "longitude": 39.93898
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.40816,
+                    "longitude": 39.93862
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.4089,
+                    "longitude": 39.93783
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.40882,
+                    "longitude": 39.93788
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.40914,
+                    "longitude": 39.93758
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.40987,
+                    "longitude": 39.93679
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.41015,
+                    "longitude": 39.93639
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.41046,
+                    "longitude": 39.9359
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.41075,
+                    "longitude": 39.93549
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.4111,
+                    "longitude": 39.93501
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.41137,
+                    "longitude": 39.93484
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.41154,
+                    "longitude": 39.93463
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.41176,
+                    "longitude": 39.93425
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.41223,
+                    "longitude": 39.93349
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.41248,
+                    "longitude": 39.93307
+                },
+                {
+                    "number": 28,
+                    "latitude": 43.41273,
+                    "longitude": 39.93264
+                },
+                {
+                    "number": 29,
+                    "latitude": 43.41298,
+                    "longitude": 39.93223
+                },
+                {
+                    "number": 30,
+                    "latitude": 43.41339,
+                    "longitude": 39.93167
+                },
+                {
+                    "number": 31,
+                    "latitude": 43.41347,
+                    "longitude": 39.93143
+                },
+                {
+                    "number": 32,
+                    "latitude": 43.41362,
+                    "longitude": 39.93108
+                },
+                {
+                    "number": 33,
+                    "latitude": 43.41377,
+                    "longitude": 39.93071
+                },
+                {
+                    "number": 34,
+                    "latitude": 43.41408,
+                    "longitude": 39.92967
+                },
+                {
+                    "number": 35,
+                    "latitude": 43.41423,
+                    "longitude": 39.92915
+                },
+                {
+                    "number": 36,
+                    "latitude": 43.4144,
+                    "longitude": 39.92866
+                },
+                {
+                    "number": 37,
+                    "latitude": 43.41454,
+                    "longitude": 39.92817
+                },
+                {
+                    "number": 38,
+                    "latitude": 43.41497,
+                    "longitude": 39.92712
+                },
+                {
+                    "number": 39,
+                    "latitude": 43.41518,
+                    "longitude": 39.92664
+                },
+                {
+                    "number": 40,
+                    "latitude": 43.41534,
+                    "longitude": 39.92641
+                },
+                {
+                    "number": 41,
+                    "latitude": 43.41544,
+                    "longitude": 39.92629
+                },
+                {
+                    "number": 42,
+                    "latitude": 43.41569,
+                    "longitude": 39.9258
+                },
+                {
+                    "number": 43,
+                    "latitude": 43.41592,
+                    "longitude": 39.92534
+                },
+                {
+                    "number": 44,
+                    "latitude": 43.41628,
+                    "longitude": 39.92539
+                },
+                {
+                    "number": 45,
+                    "latitude": 43.41667,
+                    "longitude": 39.9256
+                },
+                {
+                    "number": 46,
+                    "latitude": 43.41727,
+                    "longitude": 39.92595
+                },
+                {
+                    "number": 47,
+                    "latitude": 43.4175,
+                    "longitude": 39.92609
+                },
+                {
+                    "number": 48,
+                    "latitude": 43.41789,
+                    "longitude": 39.92631
+                },
+                {
+                    "number": 49,
+                    "latitude": 43.41821,
+                    "longitude": 39.92649
+                },
+                {
+                    "number": 50,
+                    "latitude": 43.41844,
+                    "longitude": 39.92654
+                }
+            ]
+        },
+        {
+            "id": "68fb7d6b4460bf81242d314d",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 24.10.25 16:21 - 24.10.25 16:24",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1761312107",
+            "date_end": "1761312288",
+            "average_speed": 0,
+            "distance": 581,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.4159,
+                    "longitude": 39.92537
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.41691,
+                    "longitude": 39.92574
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.41749,
+                    "longitude": 39.92609
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.41801,
+                    "longitude": 39.92641
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.41864,
+                    "longitude": 39.92672
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.41904,
+                    "longitude": 39.92602
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.41919,
+                    "longitude": 39.92549
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.41935,
+                    "longitude": 39.92507
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.41954,
+                    "longitude": 39.92512
+                }
+            ]
+        },
+        {
+            "id": "68fb7ed5455ff7522419a272",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 24.10.25 16:27 - 24.10.25 16:32",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1761312469",
+            "date_end": "1761312734",
+            "average_speed": 0,
+            "distance": 892,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.4198,
+                    "longitude": 39.92533
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.42051,
+                    "longitude": 39.92576
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.42088,
+                    "longitude": 39.92597
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.42133,
+                    "longitude": 39.92625
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.4217,
+                    "longitude": 39.92647
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.42231,
+                    "longitude": 39.9268
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.42347,
+                    "longitude": 39.92742
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.4241,
+                    "longitude": 39.92775
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.4247,
+                    "longitude": 39.92809
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.42486,
+                    "longitude": 39.92749
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.42492,
+                    "longitude": 39.92728
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.42496,
+                    "longitude": 39.92713
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.42493,
+                    "longitude": 39.92692
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.42476,
+                    "longitude": 39.92679
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.42464,
+                    "longitude": 39.92617
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.42486,
+                    "longitude": 39.92584
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.42513,
+                    "longitude": 39.92584
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.42542,
+                    "longitude": 39.92608
+                }
+            ]
+        },
+        {
+            "id": "68fb720cb00b7582f605e20d",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 24.10.25 15:33 - 24.10.25 15:36",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1761309198",
+            "date_end": "1761309388",
+            "average_speed": 0,
+            "distance": 381,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.41803,
+                    "longitude": 39.92636
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.41761,
+                    "longitude": 39.92614
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.41701,
+                    "longitude": 39.92579
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.41648,
+                    "longitude": 39.92549
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.41598,
+                    "longitude": 39.92537
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.41572,
+                    "longitude": 39.92559
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.41563,
+                    "longitude": 39.92627
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.41564,
+                    "longitude": 39.92627
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.41563,
+                    "longitude": 39.92627
+                }
+            ]
+        },
+        {
+            "id": "68fb65789f28ccc07775f294",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 24.10.25 14:39 - 24.10.25 14:52",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1761305978",
+            "date_end": "1761306740",
+            "average_speed": 0,
+            "distance": 1044,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.3991,
+                    "longitude": 39.95388
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.39904,
+                    "longitude": 39.95358
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.399,
+                    "longitude": 39.95334
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.39896,
+                    "longitude": 39.9531
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.39894,
+                    "longitude": 39.95283
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.39892,
+                    "longitude": 39.9525
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.39892,
+                    "longitude": 39.95221
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.39893,
+                    "longitude": 39.9519
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.39896,
+                    "longitude": 39.95159
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.39896,
+                    "longitude": 39.95154
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.39899,
+                    "longitude": 39.95127
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.39904,
+                    "longitude": 39.95095
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.39911,
+                    "longitude": 39.95064
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.39917,
+                    "longitude": 39.95035
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.39925,
+                    "longitude": 39.95007
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.39934,
+                    "longitude": 39.94977
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.39941,
+                    "longitude": 39.94949
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.3995,
+                    "longitude": 39.94919
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.39958,
+                    "longitude": 39.94891
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.39967,
+                    "longitude": 39.9486
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.39977,
+                    "longitude": 39.94833
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.39991,
+                    "longitude": 39.94807
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.40007,
+                    "longitude": 39.94784
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.40023,
+                    "longitude": 39.94765
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.40041,
+                    "longitude": 39.94746
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.40061,
+                    "longitude": 39.94731
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.40082,
+                    "longitude": 39.94716
+                },
+                {
+                    "number": 28,
+                    "latitude": 43.401,
+                    "longitude": 39.94704
+                },
+                {
+                    "number": 29,
+                    "latitude": 43.40121,
+                    "longitude": 39.94689
+                },
+                {
+                    "number": 30,
+                    "latitude": 43.40142,
+                    "longitude": 39.94675
+                },
+                {
+                    "number": 31,
+                    "latitude": 43.40163,
+                    "longitude": 39.9466
+                },
+                {
+                    "number": 32,
+                    "latitude": 43.40184,
+                    "longitude": 39.94645
+                },
+                {
+                    "number": 33,
+                    "latitude": 43.40225,
+                    "longitude": 39.94616
+                },
+                {
+                    "number": 34,
+                    "latitude": 43.40248,
+                    "longitude": 39.946
+                },
+                {
+                    "number": 35,
+                    "latitude": 43.40269,
+                    "longitude": 39.94586
+                },
+                {
+                    "number": 36,
+                    "latitude": 43.40292,
+                    "longitude": 39.94569
+                },
+                {
+                    "number": 37,
+                    "latitude": 43.40312,
+                    "longitude": 39.94555
+                },
+                {
+                    "number": 38,
+                    "latitude": 43.40332,
+                    "longitude": 39.9454
+                },
+                {
+                    "number": 39,
+                    "latitude": 43.40352,
+                    "longitude": 39.94525
+                },
+                {
+                    "number": 40,
+                    "latitude": 43.40366,
+                    "longitude": 39.94525
+                },
+                {
+                    "number": 41,
+                    "latitude": 43.40377,
+                    "longitude": 39.94529
+                },
+                {
+                    "number": 42,
+                    "latitude": 43.40389,
+                    "longitude": 39.94535
+                },
+                {
+                    "number": 43,
+                    "latitude": 43.40399,
+                    "longitude": 39.94542
+                },
+                {
+                    "number": 44,
+                    "latitude": 43.40406,
+                    "longitude": 39.94538
+                }
+            ]
+        },
+        {
+            "id": "68fb6c61f34765595612d7de",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 24.10.25 15:09 - 24.10.25 15:22",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1761307746",
+            "date_end": "1761308525",
+            "average_speed": 13,
+            "distance": 2471,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40385,
+                    "longitude": 39.94527
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.40402,
+                    "longitude": 39.94484
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.40474,
+                    "longitude": 39.94413
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.4051,
+                    "longitude": 39.9437
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.4054,
+                    "longitude": 39.94332
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.40551,
+                    "longitude": 39.9431
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.40567,
+                    "longitude": 39.94291
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.40602,
+                    "longitude": 39.94232
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.40634,
+                    "longitude": 39.94174
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.40662,
+                    "longitude": 39.94115
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.40718,
+                    "longitude": 39.94002
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.40752,
+                    "longitude": 39.93946
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.40786,
+                    "longitude": 39.93898
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.40816,
+                    "longitude": 39.93862
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.4089,
+                    "longitude": 39.93783
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.40882,
+                    "longitude": 39.93788
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.40914,
+                    "longitude": 39.93758
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.40987,
+                    "longitude": 39.93679
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.41015,
+                    "longitude": 39.93639
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.41046,
+                    "longitude": 39.9359
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.41075,
+                    "longitude": 39.93549
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.4111,
+                    "longitude": 39.93501
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.41137,
+                    "longitude": 39.93484
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.41154,
+                    "longitude": 39.93463
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.41176,
+                    "longitude": 39.93425
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.41223,
+                    "longitude": 39.93349
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.41248,
+                    "longitude": 39.93307
+                },
+                {
+                    "number": 28,
+                    "latitude": 43.41273,
+                    "longitude": 39.93264
+                },
+                {
+                    "number": 29,
+                    "latitude": 43.41298,
+                    "longitude": 39.93223
+                },
+                {
+                    "number": 30,
+                    "latitude": 43.41339,
+                    "longitude": 39.93167
+                },
+                {
+                    "number": 31,
+                    "latitude": 43.41347,
+                    "longitude": 39.93143
+                },
+                {
+                    "number": 32,
+                    "latitude": 43.41362,
+                    "longitude": 39.93108
+                },
+                {
+                    "number": 33,
+                    "latitude": 43.41377,
+                    "longitude": 39.93071
+                },
+                {
+                    "number": 34,
+                    "latitude": 43.41408,
+                    "longitude": 39.92967
+                },
+                {
+                    "number": 35,
+                    "latitude": 43.41423,
+                    "longitude": 39.92915
+                },
+                {
+                    "number": 36,
+                    "latitude": 43.4144,
+                    "longitude": 39.92866
+                },
+                {
+                    "number": 37,
+                    "latitude": 43.41454,
+                    "longitude": 39.92817
+                },
+                {
+                    "number": 38,
+                    "latitude": 43.41497,
+                    "longitude": 39.92712
+                },
+                {
+                    "number": 39,
+                    "latitude": 43.41518,
+                    "longitude": 39.92664
+                },
+                {
+                    "number": 40,
+                    "latitude": 43.41534,
+                    "longitude": 39.92641
+                },
+                {
+                    "number": 41,
+                    "latitude": 43.41544,
+                    "longitude": 39.92629
+                },
+                {
+                    "number": 42,
+                    "latitude": 43.41569,
+                    "longitude": 39.9258
+                },
+                {
+                    "number": 43,
+                    "latitude": 43.41592,
+                    "longitude": 39.92534
+                },
+                {
+                    "number": 44,
+                    "latitude": 43.41628,
+                    "longitude": 39.92539
+                },
+                {
+                    "number": 45,
+                    "latitude": 43.41667,
+                    "longitude": 39.9256
+                },
+                {
+                    "number": 46,
+                    "latitude": 43.41727,
+                    "longitude": 39.92595
+                },
+                {
+                    "number": 47,
+                    "latitude": 43.4175,
+                    "longitude": 39.92609
+                },
+                {
+                    "number": 48,
+                    "latitude": 43.41789,
+                    "longitude": 39.92631
+                },
+                {
+                    "number": 49,
+                    "latitude": 43.41821,
+                    "longitude": 39.92649
+                },
+                {
+                    "number": 50,
+                    "latitude": 43.41844,
+                    "longitude": 39.92654
+                }
+            ]
+        },
+        {
+            "id": "68fb7d6b4460bf81242d314d",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 24.10.25 16:21 - 24.10.25 16:24",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1761312107",
+            "date_end": "1761312288",
+            "average_speed": 0,
+            "distance": 581,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.4159,
+                    "longitude": 39.92537
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.41691,
+                    "longitude": 39.92574
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.41749,
+                    "longitude": 39.92609
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.41801,
+                    "longitude": 39.92641
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.41864,
+                    "longitude": 39.92672
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.41904,
+                    "longitude": 39.92602
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.41919,
+                    "longitude": 39.92549
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.41935,
+                    "longitude": 39.92507
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.41954,
+                    "longitude": 39.92512
+                }
+            ]
+        },
+        {
+            "id": "68f76c38574d06fceabeb982",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 21.10.25 14:19 - 21.10.25 14:51",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1761045561",
+            "date_end": "1761047483",
+            "average_speed": 7.75,
+            "distance": 1593,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.3999,
+                    "longitude": 39.97009
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.39998,
+                    "longitude": 39.96977
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.4001,
+                    "longitude": 39.96939
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.4001,
+                    "longitude": 39.96895
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.40027,
+                    "longitude": 39.96858
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.40052,
+                    "longitude": 39.96864
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.40097,
+                    "longitude": 39.96769
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.40113,
+                    "longitude": 39.96729
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.40122,
+                    "longitude": 39.96699
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.4013,
+                    "longitude": 39.96661
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.40136,
+                    "longitude": 39.96641
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.40142,
+                    "longitude": 39.96616
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.40141,
+                    "longitude": 39.96595
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.40142,
+                    "longitude": 39.9658
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.40151,
+                    "longitude": 39.96555
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.40154,
+                    "longitude": 39.96537
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.40162,
+                    "longitude": 39.96517
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.40169,
+                    "longitude": 39.96498
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.40177,
+                    "longitude": 39.9648
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.40185,
+                    "longitude": 39.96463
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.40202,
+                    "longitude": 39.96394
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.3989,
+                    "longitude": 39.95678
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.39899,
+                    "longitude": 39.95715
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.39913,
+                    "longitude": 39.95688
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.39924,
+                    "longitude": 39.95641
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.39917,
+                    "longitude": 39.95629
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.3991,
+                    "longitude": 39.95618
+                },
+                {
+                    "number": 28,
+                    "latitude": 43.39918,
+                    "longitude": 39.95595
+                },
+                {
+                    "number": 29,
+                    "latitude": 43.39948,
+                    "longitude": 39.95596
+                },
+                {
+                    "number": 30,
+                    "latitude": 43.39965,
+                    "longitude": 39.95494
+                },
+                {
+                    "number": 31,
+                    "latitude": 43.40008,
+                    "longitude": 39.9553
+                }
+            ]
+        },
+        {
+            "id": "68f76c38574d06fceabeb982",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 21.10.25 14:19 - 21.10.25 14:51",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1761045561",
+            "date_end": "1761047483",
+            "average_speed": 7.75,
+            "distance": 1593,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.3999,
+                    "longitude": 39.97009
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.39998,
+                    "longitude": 39.96977
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.4001,
+                    "longitude": 39.96939
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.4001,
+                    "longitude": 39.96895
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.40027,
+                    "longitude": 39.96858
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.40052,
+                    "longitude": 39.96864
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.40097,
+                    "longitude": 39.96769
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.40113,
+                    "longitude": 39.96729
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.40122,
+                    "longitude": 39.96699
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.4013,
+                    "longitude": 39.96661
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.40136,
+                    "longitude": 39.96641
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.40142,
+                    "longitude": 39.96616
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.40141,
+                    "longitude": 39.96595
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.40142,
+                    "longitude": 39.9658
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.40151,
+                    "longitude": 39.96555
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.40154,
+                    "longitude": 39.96537
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.40162,
+                    "longitude": 39.96517
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.40169,
+                    "longitude": 39.96498
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.40177,
+                    "longitude": 39.9648
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.40185,
+                    "longitude": 39.96463
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.40202,
+                    "longitude": 39.96394
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.3989,
+                    "longitude": 39.95678
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.39899,
+                    "longitude": 39.95715
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.39913,
+                    "longitude": 39.95688
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.39924,
+                    "longitude": 39.95641
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.39917,
+                    "longitude": 39.95629
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.3991,
+                    "longitude": 39.95618
+                },
+                {
+                    "number": 28,
+                    "latitude": 43.39918,
+                    "longitude": 39.95595
+                },
+                {
+                    "number": 29,
+                    "latitude": 43.39948,
+                    "longitude": 39.95596
+                },
+                {
+                    "number": 30,
+                    "latitude": 43.39965,
+                    "longitude": 39.95494
+                },
+                {
+                    "number": 31,
+                    "latitude": 43.40008,
+                    "longitude": 39.9553
+                }
+            ]
+        },
+        {
+            "id": "68f209f54f5f8d6f1a906127",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 17.10.25 12:18 - 17.10.25 16:37",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1760692727",
+            "date_end": "1760708223",
+            "average_speed": 8.18,
+            "distance": 3391,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40011,
+                    "longitude": 39.97041
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.40004,
+                    "longitude": 39.97033
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.40003,
+                    "longitude": 39.9703
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.4,
+                    "longitude": 39.97028
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.39999,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.4,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.40001,
+                    "longitude": 39.97029
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.40001,
+                    "longitude": 39.97031
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.40001,
+                    "longitude": 39.97027
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.39999,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.39998,
+                    "longitude": 39.97024
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.4,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.39997,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.39999,
+                    "longitude": 39.97023
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.39995,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.39991,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.39989,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.39991,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.39989,
+                    "longitude": 39.97024
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.39988,
+                    "longitude": 39.97023
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.39989,
+                    "longitude": 39.97023
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.39986,
+                    "longitude": 39.97021
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.39987,
+                    "longitude": 39.97023
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.39986,
+                    "longitude": 39.97021
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.39987,
+                    "longitude": 39.97022
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.39988,
+                    "longitude": 39.97022
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.39987,
+                    "longitude": 39.97023
+                },
+                {
+                    "number": 28,
+                    "latitude": 43.39987,
+                    "longitude": 39.97019
+                },
+                {
+                    "number": 29,
+                    "latitude": 43.39988,
+                    "longitude": 39.97022
+                },
+                {
+                    "number": 30,
+                    "latitude": 43.39977,
+                    "longitude": 39.97009
+                },
+                {
+                    "number": 31,
+                    "latitude": 43.39885,
+                    "longitude": 39.9695
+                },
+                {
+                    "number": 32,
+                    "latitude": 43.39855,
+                    "longitude": 39.96937
+                },
+                {
+                    "number": 33,
+                    "latitude": 43.39831,
+                    "longitude": 39.96925
+                },
+                {
+                    "number": 34,
+                    "latitude": 43.3982,
+                    "longitude": 39.96917
+                },
+                {
+                    "number": 35,
+                    "latitude": 43.39808,
+                    "longitude": 39.9691
+                },
+                {
+                    "number": 36,
+                    "latitude": 43.39788,
+                    "longitude": 39.96901
+                },
+                {
+                    "number": 37,
+                    "latitude": 43.39768,
+                    "longitude": 39.96891
+                },
+                {
+                    "number": 38,
+                    "latitude": 43.39743,
+                    "longitude": 39.96864
+                },
+                {
+                    "number": 39,
+                    "latitude": 43.39743,
+                    "longitude": 39.96861
+                },
+                {
+                    "number": 40,
+                    "latitude": 43.39743,
+                    "longitude": 39.96859
+                },
+                {
+                    "number": 41,
+                    "latitude": 43.39742,
+                    "longitude": 39.96859
+                },
+                {
+                    "number": 42,
+                    "latitude": 43.39741,
+                    "longitude": 39.96858
+                },
+                {
+                    "number": 43,
+                    "latitude": 43.39742,
+                    "longitude": 39.96862
+                },
+                {
+                    "number": 44,
+                    "latitude": 43.39741,
+                    "longitude": 39.96866
+                },
+                {
+                    "number": 45,
+                    "latitude": 43.39741,
+                    "longitude": 39.96863
+                },
+                {
+                    "number": 46,
+                    "latitude": 43.39741,
+                    "longitude": 39.96861
+                },
+                {
+                    "number": 47,
+                    "latitude": 43.39741,
+                    "longitude": 39.9686
+                },
+                {
+                    "number": 48,
+                    "latitude": 43.39739,
+                    "longitude": 39.96861
+                },
+                {
+                    "number": 49,
+                    "latitude": 43.3974,
+                    "longitude": 39.9686
+                },
+                {
+                    "number": 50,
+                    "latitude": 43.39742,
+                    "longitude": 39.9686
+                },
+                {
+                    "number": 51,
+                    "latitude": 43.39741,
+                    "longitude": 39.96859
+                },
+                {
+                    "number": 52,
+                    "latitude": 43.39741,
+                    "longitude": 39.9686
+                },
+                {
+                    "number": 53,
+                    "latitude": 43.39742,
+                    "longitude": 39.9686
+                },
+                {
+                    "number": 54,
+                    "latitude": 43.39741,
+                    "longitude": 39.9686
+                },
+                {
+                    "number": 55,
+                    "latitude": 43.39743,
+                    "longitude": 39.96859
+                },
+                {
+                    "number": 56,
+                    "latitude": 43.39743,
+                    "longitude": 39.96858
+                },
+                {
+                    "number": 57,
+                    "latitude": 43.39741,
+                    "longitude": 39.96868
+                },
+                {
+                    "number": 58,
+                    "latitude": 43.39781,
+                    "longitude": 39.96906
+                },
+                {
+                    "number": 59,
+                    "latitude": 43.39819,
+                    "longitude": 39.96922
+                },
+                {
+                    "number": 60,
+                    "latitude": 43.39843,
+                    "longitude": 39.96941
+                },
+                {
+                    "number": 61,
+                    "latitude": 43.39845,
+                    "longitude": 39.96948
+                },
+                {
+                    "number": 62,
+                    "latitude": 43.3984,
+                    "longitude": 39.96965
+                },
+                {
+                    "number": 63,
+                    "latitude": 43.39831,
+                    "longitude": 39.96996
+                },
+                {
+                    "number": 64,
+                    "latitude": 43.39816,
+                    "longitude": 39.97031
+                },
+                {
+                    "number": 65,
+                    "latitude": 43.3981,
+                    "longitude": 39.9705
+                },
+                {
+                    "number": 66,
+                    "latitude": 43.39802,
+                    "longitude": 39.97074
+                },
+                {
+                    "number": 67,
+                    "latitude": 43.39794,
+                    "longitude": 39.97106
+                },
+                {
+                    "number": 68,
+                    "latitude": 43.39786,
+                    "longitude": 39.9713
+                },
+                {
+                    "number": 69,
+                    "latitude": 43.3978,
+                    "longitude": 39.9715
+                },
+                {
+                    "number": 70,
+                    "latitude": 43.3976,
+                    "longitude": 39.97199
+                },
+                {
+                    "number": 71,
+                    "latitude": 43.39748,
+                    "longitude": 39.97249
+                },
+                {
+                    "number": 72,
+                    "latitude": 43.39741,
+                    "longitude": 39.97268
+                },
+                {
+                    "number": 73,
+                    "latitude": 43.39742,
+                    "longitude": 39.97261
+                },
+                {
+                    "number": 74,
+                    "latitude": 43.3975,
+                    "longitude": 39.97227
+                },
+                {
+                    "number": 75,
+                    "latitude": 43.39764,
+                    "longitude": 39.97191
+                },
+                {
+                    "number": 76,
+                    "latitude": 43.39772,
+                    "longitude": 39.97172
+                },
+                {
+                    "number": 77,
+                    "latitude": 43.39775,
+                    "longitude": 39.97153
+                },
+                {
+                    "number": 78,
+                    "latitude": 43.39789,
+                    "longitude": 39.97118
+                },
+                {
+                    "number": 79,
+                    "latitude": 43.398,
+                    "longitude": 39.9708
+                },
+                {
+                    "number": 80,
+                    "latitude": 43.39815,
+                    "longitude": 39.97029
+                },
+                {
+                    "number": 81,
+                    "latitude": 43.3983,
+                    "longitude": 39.96985
+                },
+                {
+                    "number": 82,
+                    "latitude": 43.39839,
+                    "longitude": 39.96954
+                },
+                {
+                    "number": 83,
+                    "latitude": 43.39852,
+                    "longitude": 39.96921
+                },
+                {
+                    "number": 84,
+                    "latitude": 43.3991,
+                    "longitude": 39.96958
+                },
+                {
+                    "number": 85,
+                    "latitude": 43.39935,
+                    "longitude": 39.96976
+                },
+                {
+                    "number": 86,
+                    "latitude": 43.39985,
+                    "longitude": 39.97033
+                },
+                {
+                    "number": 87,
+                    "latitude": 43.39968,
+                    "longitude": 39.97023
+                },
+                {
+                    "number": 88,
+                    "latitude": 43.39972,
+                    "longitude": 39.97012
+                },
+                {
+                    "number": 89,
+                    "latitude": 43.39973,
+                    "longitude": 39.97018
+                },
+                {
+                    "number": 90,
+                    "latitude": 43.39972,
+                    "longitude": 39.97017
+                },
+                {
+                    "number": 91,
+                    "latitude": 43.39974,
+                    "longitude": 39.97015
+                },
+                {
+                    "number": 92,
+                    "latitude": 43.39975,
+                    "longitude": 39.97018
+                },
+                {
+                    "number": 93,
+                    "latitude": 43.39973,
+                    "longitude": 39.97014
+                },
+                {
+                    "number": 94,
+                    "latitude": 43.39972,
+                    "longitude": 39.97013
+                },
+                {
+                    "number": 95,
+                    "latitude": 43.39933,
+                    "longitude": 39.96989
+                },
+                {
+                    "number": 96,
+                    "latitude": 43.39897,
+                    "longitude": 39.96968
+                },
+                {
+                    "number": 97,
+                    "latitude": 43.39867,
+                    "longitude": 39.96947
+                },
+                {
+                    "number": 98,
+                    "latitude": 43.39858,
+                    "longitude": 39.96939
+                },
+                {
+                    "number": 99,
+                    "latitude": 43.3983,
+                    "longitude": 39.96925
+                },
+                {
+                    "number": 100,
+                    "latitude": 43.39833,
+                    "longitude": 39.9693
+                },
+                {
+                    "number": 101,
+                    "latitude": 43.39835,
+                    "longitude": 39.96954
+                },
+                {
+                    "number": 102,
+                    "latitude": 43.39812,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 103,
+                    "latitude": 43.39783,
+                    "longitude": 39.97109
+                },
+                {
+                    "number": 104,
+                    "latitude": 43.39752,
+                    "longitude": 39.97196
+                },
+                {
+                    "number": 105,
+                    "latitude": 43.3973,
+                    "longitude": 39.97227
+                },
+                {
+                    "number": 106,
+                    "latitude": 43.39728,
+                    "longitude": 39.97223
+                },
+                {
+                    "number": 107,
+                    "latitude": 43.39754,
+                    "longitude": 39.97187
+                },
+                {
+                    "number": 108,
+                    "latitude": 43.39766,
+                    "longitude": 39.97152
+                },
+                {
+                    "number": 109,
+                    "latitude": 43.39782,
+                    "longitude": 39.97104
+                },
+                {
+                    "number": 110,
+                    "latitude": 43.39794,
+                    "longitude": 39.97059
+                },
+                {
+                    "number": 111,
+                    "latitude": 43.39803,
+                    "longitude": 39.97027
+                },
+                {
+                    "number": 112,
+                    "latitude": 43.39811,
+                    "longitude": 39.9702
+                },
+                {
+                    "number": 113,
+                    "latitude": 43.39829,
+                    "longitude": 39.96956
+                },
+                {
+                    "number": 114,
+                    "latitude": 43.39836,
+                    "longitude": 39.96929
+                },
+                {
+                    "number": 115,
+                    "latitude": 43.39846,
+                    "longitude": 39.96921
+                },
+                {
+                    "number": 116,
+                    "latitude": 43.39847,
+                    "longitude": 39.96916
+                },
+                {
+                    "number": 117,
+                    "latitude": 43.39855,
+                    "longitude": 39.96886
+                },
+                {
+                    "number": 118,
+                    "latitude": 43.39871,
+                    "longitude": 39.96833
+                },
+                {
+                    "number": 119,
+                    "latitude": 43.3987,
+                    "longitude": 39.96799
+                },
+                {
+                    "number": 120,
+                    "latitude": 43.39862,
+                    "longitude": 39.96866
+                },
+                {
+                    "number": 121,
+                    "latitude": 43.39847,
+                    "longitude": 39.96911
+                },
+                {
+                    "number": 122,
+                    "latitude": 43.39826,
+                    "longitude": 39.96921
+                },
+                {
+                    "number": 123,
+                    "latitude": 43.39817,
+                    "longitude": 39.96914
+                },
+                {
+                    "number": 124,
+                    "latitude": 43.39795,
+                    "longitude": 39.96906
+                },
+                {
+                    "number": 125,
+                    "latitude": 43.39783,
+                    "longitude": 39.96903
+                },
+                {
+                    "number": 126,
+                    "latitude": 43.39777,
+                    "longitude": 39.96893
+                },
+                {
+                    "number": 127,
+                    "latitude": 43.39776,
+                    "longitude": 39.96893
+                },
+                {
+                    "number": 128,
+                    "latitude": 43.3974,
+                    "longitude": 39.9687
+                },
+                {
+                    "number": 129,
+                    "latitude": 43.39734,
+                    "longitude": 39.9686
+                },
+                {
+                    "number": 130,
+                    "latitude": 43.39734,
+                    "longitude": 39.96854
+                },
+                {
+                    "number": 131,
+                    "latitude": 43.39709,
+                    "longitude": 39.96922
+                },
+                {
+                    "number": 132,
+                    "latitude": 43.39694,
+                    "longitude": 39.9697
+                },
+                {
+                    "number": 133,
+                    "latitude": 43.39682,
+                    "longitude": 39.96999
+                },
+                {
+                    "number": 134,
+                    "latitude": 43.39673,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 135,
+                    "latitude": 43.39676,
+                    "longitude": 39.97029
+                },
+                {
+                    "number": 136,
+                    "latitude": 43.39675,
+                    "longitude": 39.97029
+                },
+                {
+                    "number": 137,
+                    "latitude": 43.3968,
+                    "longitude": 39.96989
+                },
+                {
+                    "number": 138,
+                    "latitude": 43.39699,
+                    "longitude": 39.96936
+                },
+                {
+                    "number": 139,
+                    "latitude": 43.39721,
+                    "longitude": 39.96885
+                },
+                {
+                    "number": 140,
+                    "latitude": 43.39733,
+                    "longitude": 39.96861
+                },
+                {
+                    "number": 141,
+                    "latitude": 43.39751,
+                    "longitude": 39.96874
+                },
+                {
+                    "number": 142,
+                    "latitude": 43.39773,
+                    "longitude": 39.9689
+                },
+                {
+                    "number": 143,
+                    "latitude": 43.39789,
+                    "longitude": 39.96899
+                },
+                {
+                    "number": 144,
+                    "latitude": 43.39806,
+                    "longitude": 39.96911
+                },
+                {
+                    "number": 145,
+                    "latitude": 43.39833,
+                    "longitude": 39.96925
+                },
+                {
+                    "number": 146,
+                    "latitude": 43.39844,
+                    "longitude": 39.96927
+                },
+                {
+                    "number": 147,
+                    "latitude": 43.39893,
+                    "longitude": 39.96958
+                },
+                {
+                    "number": 148,
+                    "latitude": 43.39941,
+                    "longitude": 39.96982
+                },
+                {
+                    "number": 149,
+                    "latitude": 43.39989,
+                    "longitude": 39.97013
+                },
+                {
+                    "number": 150,
+                    "latitude": 43.39988,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 151,
+                    "latitude": 43.39991,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 152,
+                    "latitude": 43.39991,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 153,
+                    "latitude": 43.39991,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 154,
+                    "latitude": 43.39991,
+                    "longitude": 39.97027
+                },
+                {
+                    "number": 155,
+                    "latitude": 43.3999,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 156,
+                    "latitude": 43.3999,
+                    "longitude": 39.97024
+                },
+                {
+                    "number": 157,
+                    "latitude": 43.39989,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 158,
+                    "latitude": 43.3999,
+                    "longitude": 39.97024
+                },
+                {
+                    "number": 159,
+                    "latitude": 43.39991,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 160,
+                    "latitude": 43.39992,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 161,
+                    "latitude": 43.3999,
+                    "longitude": 39.97024
+                },
+                {
+                    "number": 162,
+                    "latitude": 43.39992,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 163,
+                    "latitude": 43.39991,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 164,
+                    "latitude": 43.3999,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 165,
+                    "latitude": 43.39991,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 166,
+                    "latitude": 43.39992,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 167,
+                    "latitude": 43.3999,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 168,
+                    "latitude": 43.39988,
+                    "longitude": 39.97026
+                }
+            ]
+        },
+        {
+            "id": "68f1d5e3574d06fceada39d0",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 17.10.25 08:36 - 17.10.25 08:47",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1760679397",
+            "date_end": "1760680053",
+            "average_speed": 12.5,
+            "distance": 2054,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.41515,
+                    "longitude": 39.97545
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.41413,
+                    "longitude": 39.97553
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.41343,
+                    "longitude": 39.9759
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.41287,
+                    "longitude": 39.97613
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.41539,
+                    "longitude": 39.97544
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.40358,
+                    "longitude": 39.96856
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.40343,
+                    "longitude": 39.96916
+                }
+            ]
+        },
+        {
+            "id": "68f209f54f5f8d6f1a906127",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 17.10.25 12:18 - 17.10.25 16:37",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1760692727",
+            "date_end": "1760708223",
+            "average_speed": 8.18,
+            "distance": 3391,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40011,
+                    "longitude": 39.97041
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.40004,
+                    "longitude": 39.97033
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.40003,
+                    "longitude": 39.9703
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.4,
+                    "longitude": 39.97028
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.39999,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.4,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.40001,
+                    "longitude": 39.97029
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.40001,
+                    "longitude": 39.97031
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.40001,
+                    "longitude": 39.97027
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.39999,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.39998,
+                    "longitude": 39.97024
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.4,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.39997,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.39999,
+                    "longitude": 39.97023
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.39995,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.39991,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.39989,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.39991,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.39989,
+                    "longitude": 39.97024
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.39988,
+                    "longitude": 39.97023
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.39989,
+                    "longitude": 39.97023
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.39986,
+                    "longitude": 39.97021
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.39987,
+                    "longitude": 39.97023
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.39986,
+                    "longitude": 39.97021
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.39987,
+                    "longitude": 39.97022
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.39988,
+                    "longitude": 39.97022
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.39987,
+                    "longitude": 39.97023
+                },
+                {
+                    "number": 28,
+                    "latitude": 43.39987,
+                    "longitude": 39.97019
+                },
+                {
+                    "number": 29,
+                    "latitude": 43.39988,
+                    "longitude": 39.97022
+                },
+                {
+                    "number": 30,
+                    "latitude": 43.39977,
+                    "longitude": 39.97009
+                },
+                {
+                    "number": 31,
+                    "latitude": 43.39885,
+                    "longitude": 39.9695
+                },
+                {
+                    "number": 32,
+                    "latitude": 43.39855,
+                    "longitude": 39.96937
+                },
+                {
+                    "number": 33,
+                    "latitude": 43.39831,
+                    "longitude": 39.96925
+                },
+                {
+                    "number": 34,
+                    "latitude": 43.3982,
+                    "longitude": 39.96917
+                },
+                {
+                    "number": 35,
+                    "latitude": 43.39808,
+                    "longitude": 39.9691
+                },
+                {
+                    "number": 36,
+                    "latitude": 43.39788,
+                    "longitude": 39.96901
+                },
+                {
+                    "number": 37,
+                    "latitude": 43.39768,
+                    "longitude": 39.96891
+                },
+                {
+                    "number": 38,
+                    "latitude": 43.39743,
+                    "longitude": 39.96864
+                },
+                {
+                    "number": 39,
+                    "latitude": 43.39743,
+                    "longitude": 39.96861
+                },
+                {
+                    "number": 40,
+                    "latitude": 43.39743,
+                    "longitude": 39.96859
+                },
+                {
+                    "number": 41,
+                    "latitude": 43.39742,
+                    "longitude": 39.96859
+                },
+                {
+                    "number": 42,
+                    "latitude": 43.39741,
+                    "longitude": 39.96858
+                },
+                {
+                    "number": 43,
+                    "latitude": 43.39742,
+                    "longitude": 39.96862
+                },
+                {
+                    "number": 44,
+                    "latitude": 43.39741,
+                    "longitude": 39.96866
+                },
+                {
+                    "number": 45,
+                    "latitude": 43.39741,
+                    "longitude": 39.96863
+                },
+                {
+                    "number": 46,
+                    "latitude": 43.39741,
+                    "longitude": 39.96861
+                },
+                {
+                    "number": 47,
+                    "latitude": 43.39741,
+                    "longitude": 39.9686
+                },
+                {
+                    "number": 48,
+                    "latitude": 43.39739,
+                    "longitude": 39.96861
+                },
+                {
+                    "number": 49,
+                    "latitude": 43.3974,
+                    "longitude": 39.9686
+                },
+                {
+                    "number": 50,
+                    "latitude": 43.39742,
+                    "longitude": 39.9686
+                },
+                {
+                    "number": 51,
+                    "latitude": 43.39741,
+                    "longitude": 39.96859
+                },
+                {
+                    "number": 52,
+                    "latitude": 43.39741,
+                    "longitude": 39.9686
+                },
+                {
+                    "number": 53,
+                    "latitude": 43.39742,
+                    "longitude": 39.9686
+                },
+                {
+                    "number": 54,
+                    "latitude": 43.39741,
+                    "longitude": 39.9686
+                },
+                {
+                    "number": 55,
+                    "latitude": 43.39743,
+                    "longitude": 39.96859
+                },
+                {
+                    "number": 56,
+                    "latitude": 43.39743,
+                    "longitude": 39.96858
+                },
+                {
+                    "number": 57,
+                    "latitude": 43.39741,
+                    "longitude": 39.96868
+                },
+                {
+                    "number": 58,
+                    "latitude": 43.39781,
+                    "longitude": 39.96906
+                },
+                {
+                    "number": 59,
+                    "latitude": 43.39819,
+                    "longitude": 39.96922
+                },
+                {
+                    "number": 60,
+                    "latitude": 43.39843,
+                    "longitude": 39.96941
+                },
+                {
+                    "number": 61,
+                    "latitude": 43.39845,
+                    "longitude": 39.96948
+                },
+                {
+                    "number": 62,
+                    "latitude": 43.3984,
+                    "longitude": 39.96965
+                },
+                {
+                    "number": 63,
+                    "latitude": 43.39831,
+                    "longitude": 39.96996
+                },
+                {
+                    "number": 64,
+                    "latitude": 43.39816,
+                    "longitude": 39.97031
+                },
+                {
+                    "number": 65,
+                    "latitude": 43.3981,
+                    "longitude": 39.9705
+                },
+                {
+                    "number": 66,
+                    "latitude": 43.39802,
+                    "longitude": 39.97074
+                },
+                {
+                    "number": 67,
+                    "latitude": 43.39794,
+                    "longitude": 39.97106
+                },
+                {
+                    "number": 68,
+                    "latitude": 43.39786,
+                    "longitude": 39.9713
+                },
+                {
+                    "number": 69,
+                    "latitude": 43.3978,
+                    "longitude": 39.9715
+                },
+                {
+                    "number": 70,
+                    "latitude": 43.3976,
+                    "longitude": 39.97199
+                },
+                {
+                    "number": 71,
+                    "latitude": 43.39748,
+                    "longitude": 39.97249
+                },
+                {
+                    "number": 72,
+                    "latitude": 43.39741,
+                    "longitude": 39.97268
+                },
+                {
+                    "number": 73,
+                    "latitude": 43.39742,
+                    "longitude": 39.97261
+                },
+                {
+                    "number": 74,
+                    "latitude": 43.3975,
+                    "longitude": 39.97227
+                },
+                {
+                    "number": 75,
+                    "latitude": 43.39764,
+                    "longitude": 39.97191
+                },
+                {
+                    "number": 76,
+                    "latitude": 43.39772,
+                    "longitude": 39.97172
+                },
+                {
+                    "number": 77,
+                    "latitude": 43.39775,
+                    "longitude": 39.97153
+                },
+                {
+                    "number": 78,
+                    "latitude": 43.39789,
+                    "longitude": 39.97118
+                },
+                {
+                    "number": 79,
+                    "latitude": 43.398,
+                    "longitude": 39.9708
+                },
+                {
+                    "number": 80,
+                    "latitude": 43.39815,
+                    "longitude": 39.97029
+                },
+                {
+                    "number": 81,
+                    "latitude": 43.3983,
+                    "longitude": 39.96985
+                },
+                {
+                    "number": 82,
+                    "latitude": 43.39839,
+                    "longitude": 39.96954
+                },
+                {
+                    "number": 83,
+                    "latitude": 43.39852,
+                    "longitude": 39.96921
+                },
+                {
+                    "number": 84,
+                    "latitude": 43.3991,
+                    "longitude": 39.96958
+                },
+                {
+                    "number": 85,
+                    "latitude": 43.39935,
+                    "longitude": 39.96976
+                },
+                {
+                    "number": 86,
+                    "latitude": 43.39985,
+                    "longitude": 39.97033
+                },
+                {
+                    "number": 87,
+                    "latitude": 43.39968,
+                    "longitude": 39.97023
+                },
+                {
+                    "number": 88,
+                    "latitude": 43.39972,
+                    "longitude": 39.97012
+                },
+                {
+                    "number": 89,
+                    "latitude": 43.39973,
+                    "longitude": 39.97018
+                },
+                {
+                    "number": 90,
+                    "latitude": 43.39972,
+                    "longitude": 39.97017
+                },
+                {
+                    "number": 91,
+                    "latitude": 43.39974,
+                    "longitude": 39.97015
+                },
+                {
+                    "number": 92,
+                    "latitude": 43.39975,
+                    "longitude": 39.97018
+                },
+                {
+                    "number": 93,
+                    "latitude": 43.39973,
+                    "longitude": 39.97014
+                },
+                {
+                    "number": 94,
+                    "latitude": 43.39972,
+                    "longitude": 39.97013
+                },
+                {
+                    "number": 95,
+                    "latitude": 43.39933,
+                    "longitude": 39.96989
+                },
+                {
+                    "number": 96,
+                    "latitude": 43.39897,
+                    "longitude": 39.96968
+                },
+                {
+                    "number": 97,
+                    "latitude": 43.39867,
+                    "longitude": 39.96947
+                },
+                {
+                    "number": 98,
+                    "latitude": 43.39858,
+                    "longitude": 39.96939
+                },
+                {
+                    "number": 99,
+                    "latitude": 43.3983,
+                    "longitude": 39.96925
+                },
+                {
+                    "number": 100,
+                    "latitude": 43.39833,
+                    "longitude": 39.9693
+                },
+                {
+                    "number": 101,
+                    "latitude": 43.39835,
+                    "longitude": 39.96954
+                },
+                {
+                    "number": 102,
+                    "latitude": 43.39812,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 103,
+                    "latitude": 43.39783,
+                    "longitude": 39.97109
+                },
+                {
+                    "number": 104,
+                    "latitude": 43.39752,
+                    "longitude": 39.97196
+                },
+                {
+                    "number": 105,
+                    "latitude": 43.3973,
+                    "longitude": 39.97227
+                },
+                {
+                    "number": 106,
+                    "latitude": 43.39728,
+                    "longitude": 39.97223
+                },
+                {
+                    "number": 107,
+                    "latitude": 43.39754,
+                    "longitude": 39.97187
+                },
+                {
+                    "number": 108,
+                    "latitude": 43.39766,
+                    "longitude": 39.97152
+                },
+                {
+                    "number": 109,
+                    "latitude": 43.39782,
+                    "longitude": 39.97104
+                },
+                {
+                    "number": 110,
+                    "latitude": 43.39794,
+                    "longitude": 39.97059
+                },
+                {
+                    "number": 111,
+                    "latitude": 43.39803,
+                    "longitude": 39.97027
+                },
+                {
+                    "number": 112,
+                    "latitude": 43.39811,
+                    "longitude": 39.9702
+                },
+                {
+                    "number": 113,
+                    "latitude": 43.39829,
+                    "longitude": 39.96956
+                },
+                {
+                    "number": 114,
+                    "latitude": 43.39836,
+                    "longitude": 39.96929
+                },
+                {
+                    "number": 115,
+                    "latitude": 43.39846,
+                    "longitude": 39.96921
+                },
+                {
+                    "number": 116,
+                    "latitude": 43.39847,
+                    "longitude": 39.96916
+                },
+                {
+                    "number": 117,
+                    "latitude": 43.39855,
+                    "longitude": 39.96886
+                },
+                {
+                    "number": 118,
+                    "latitude": 43.39871,
+                    "longitude": 39.96833
+                },
+                {
+                    "number": 119,
+                    "latitude": 43.3987,
+                    "longitude": 39.96799
+                },
+                {
+                    "number": 120,
+                    "latitude": 43.39862,
+                    "longitude": 39.96866
+                },
+                {
+                    "number": 121,
+                    "latitude": 43.39847,
+                    "longitude": 39.96911
+                },
+                {
+                    "number": 122,
+                    "latitude": 43.39826,
+                    "longitude": 39.96921
+                },
+                {
+                    "number": 123,
+                    "latitude": 43.39817,
+                    "longitude": 39.96914
+                },
+                {
+                    "number": 124,
+                    "latitude": 43.39795,
+                    "longitude": 39.96906
+                },
+                {
+                    "number": 125,
+                    "latitude": 43.39783,
+                    "longitude": 39.96903
+                },
+                {
+                    "number": 126,
+                    "latitude": 43.39777,
+                    "longitude": 39.96893
+                },
+                {
+                    "number": 127,
+                    "latitude": 43.39776,
+                    "longitude": 39.96893
+                },
+                {
+                    "number": 128,
+                    "latitude": 43.3974,
+                    "longitude": 39.9687
+                },
+                {
+                    "number": 129,
+                    "latitude": 43.39734,
+                    "longitude": 39.9686
+                },
+                {
+                    "number": 130,
+                    "latitude": 43.39734,
+                    "longitude": 39.96854
+                },
+                {
+                    "number": 131,
+                    "latitude": 43.39709,
+                    "longitude": 39.96922
+                },
+                {
+                    "number": 132,
+                    "latitude": 43.39694,
+                    "longitude": 39.9697
+                },
+                {
+                    "number": 133,
+                    "latitude": 43.39682,
+                    "longitude": 39.96999
+                },
+                {
+                    "number": 134,
+                    "latitude": 43.39673,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 135,
+                    "latitude": 43.39676,
+                    "longitude": 39.97029
+                },
+                {
+                    "number": 136,
+                    "latitude": 43.39675,
+                    "longitude": 39.97029
+                },
+                {
+                    "number": 137,
+                    "latitude": 43.3968,
+                    "longitude": 39.96989
+                },
+                {
+                    "number": 138,
+                    "latitude": 43.39699,
+                    "longitude": 39.96936
+                },
+                {
+                    "number": 139,
+                    "latitude": 43.39721,
+                    "longitude": 39.96885
+                },
+                {
+                    "number": 140,
+                    "latitude": 43.39733,
+                    "longitude": 39.96861
+                },
+                {
+                    "number": 141,
+                    "latitude": 43.39751,
+                    "longitude": 39.96874
+                },
+                {
+                    "number": 142,
+                    "latitude": 43.39773,
+                    "longitude": 39.9689
+                },
+                {
+                    "number": 143,
+                    "latitude": 43.39789,
+                    "longitude": 39.96899
+                },
+                {
+                    "number": 144,
+                    "latitude": 43.39806,
+                    "longitude": 39.96911
+                },
+                {
+                    "number": 145,
+                    "latitude": 43.39833,
+                    "longitude": 39.96925
+                },
+                {
+                    "number": 146,
+                    "latitude": 43.39844,
+                    "longitude": 39.96927
+                },
+                {
+                    "number": 147,
+                    "latitude": 43.39893,
+                    "longitude": 39.96958
+                },
+                {
+                    "number": 148,
+                    "latitude": 43.39941,
+                    "longitude": 39.96982
+                },
+                {
+                    "number": 149,
+                    "latitude": 43.39989,
+                    "longitude": 39.97013
+                },
+                {
+                    "number": 150,
+                    "latitude": 43.39988,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 151,
+                    "latitude": 43.39991,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 152,
+                    "latitude": 43.39991,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 153,
+                    "latitude": 43.39991,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 154,
+                    "latitude": 43.39991,
+                    "longitude": 39.97027
+                },
+                {
+                    "number": 155,
+                    "latitude": 43.3999,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 156,
+                    "latitude": 43.3999,
+                    "longitude": 39.97024
+                },
+                {
+                    "number": 157,
+                    "latitude": 43.39989,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 158,
+                    "latitude": 43.3999,
+                    "longitude": 39.97024
+                },
+                {
+                    "number": 159,
+                    "latitude": 43.39991,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 160,
+                    "latitude": 43.39992,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 161,
+                    "latitude": 43.3999,
+                    "longitude": 39.97024
+                },
+                {
+                    "number": 162,
+                    "latitude": 43.39992,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 163,
+                    "latitude": 43.39991,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 164,
+                    "latitude": 43.3999,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 165,
+                    "latitude": 43.39991,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 166,
+                    "latitude": 43.39992,
+                    "longitude": 39.97026
+                },
+                {
+                    "number": 167,
+                    "latitude": 43.3999,
+                    "longitude": 39.97025
+                },
+                {
+                    "number": 168,
+                    "latitude": 43.39988,
+                    "longitude": 39.97026
+                }
+            ]
+        },
+        {
+            "id": "68f1d5e3574d06fceada39d0",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 17.10.25 08:36 - 17.10.25 08:47",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1760679397",
+            "date_end": "1760680053",
+            "average_speed": 12.5,
+            "distance": 2054,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.41515,
+                    "longitude": 39.97545
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.41413,
+                    "longitude": 39.97553
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.41343,
+                    "longitude": 39.9759
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.41287,
+                    "longitude": 39.97613
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.41539,
+                    "longitude": 39.97544
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.40358,
+                    "longitude": 39.96856
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.40343,
+                    "longitude": 39.96916
+                }
+            ]
+        },
+        {
+            "id": "68ecfe579161cde614943c3a",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 13.10.25 16:27 - 13.10.25 16:29",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1760362073",
+            "date_end": "1760362172",
+            "average_speed": 0,
+            "distance": 223,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.41366,
+                    "longitude": 39.97547
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.41509,
+                    "longitude": 39.9754
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.41537,
+                    "longitude": 39.9754
+                }
+            ]
+        },
+        {
+            "id": "68ecfe579161cde614943c3a",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 13.10.25 16:27 - 13.10.25 16:29",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1760362073",
+            "date_end": "1760362172",
+            "average_speed": 0,
+            "distance": 223,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.41366,
+                    "longitude": 39.97547
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.41509,
+                    "longitude": 39.9754
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.41537,
+                    "longitude": 39.9754
+                }
+            ]
+        },
+        {
+            "id": "68e6504d3c29739319340ff3",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 08.10.25 14:51 - 08.10.25 15:02",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1759924303",
+            "date_end": "1759924976",
+            "average_speed": 21,
+            "distance": 1570,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.4134,
+                    "longitude": 39.97579
+                }
+            ]
+        },
+        {
+            "id": "68e62f943c297393192aad6b",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 08.10.25 12:32 - 08.10.25 12:40",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1759915925",
+            "date_end": "1759916440",
+            "average_speed": 0,
+            "distance": 877,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.41081,
+                    "longitude": 39.97243
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.41067,
+                    "longitude": 39.97201
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.4104,
+                    "longitude": 39.97164
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.40999,
+                    "longitude": 39.97094
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.40883,
+                    "longitude": 39.9698
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.40833,
+                    "longitude": 39.96903
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.40808,
+                    "longitude": 39.96854
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.41073,
+                    "longitude": 39.97232
+                }
+            ]
+        },
+        {
+            "id": "68e6504d3c29739319340ff3",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 08.10.25 14:51 - 08.10.25 15:02",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1759924303",
+            "date_end": "1759924976",
+            "average_speed": 21,
+            "distance": 1570,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.4134,
+                    "longitude": 39.97579
+                }
+            ]
+        },
+        {
+            "id": "68e62f943c297393192aad6b",
+            "name": "Трек движения СИМ: Юрент S.500132 за период: 08.10.25 12:32 - 08.10.25 12:40",
+            "vehicle_id": "668fb2ce962016c155e2d2b5",
+            "vehicle_name": "Юрент S.500132",
+            "date_start": "1759915925",
+            "date_end": "1759916440",
+            "average_speed": 0,
+            "distance": 877,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.41081,
+                    "longitude": 39.97243
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.41067,
+                    "longitude": 39.97201
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.4104,
+                    "longitude": 39.97164
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.40999,
+                    "longitude": 39.97094
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.40883,
+                    "longitude": 39.9698
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.40833,
+                    "longitude": 39.96903
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.40808,
+                    "longitude": 39.96854
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.41073,
+                    "longitude": 39.97232
+                }
+            ]
+        }
+    ]
+}

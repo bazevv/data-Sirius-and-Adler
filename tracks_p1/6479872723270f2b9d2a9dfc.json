@@ -1,0 +1,2270 @@
+{
+    "tracks": [
+        {
+            "id": "69070ac98f1acda61afa0cb5",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 02.11.25 10:39 - 02.11.25 10:50",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1762069195",
+            "date_end": "1762069800",
+            "average_speed": 17,
+            "distance": 3164,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40219,
+                    "longitude": 39.96191
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.39991,
+                    "longitude": 39.95732
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.39981,
+                    "longitude": 39.95672
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.3995,
+                    "longitude": 39.95538
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.40219,
+                    "longitude": 39.96191
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.39948,
+                    "longitude": 39.95051
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.39966,
+                    "longitude": 39.95027
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.39979,
+                    "longitude": 39.95033
+                }
+            ]
+        },
+        {
+            "id": "69075f9feb7642114031f485",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 02.11.25 16:41 - 02.11.25 16:48",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1762090913",
+            "date_end": "1762091304",
+            "average_speed": 15,
+            "distance": 3681,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.39981,
+                    "longitude": 39.95083
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.39963,
+                    "longitude": 39.9514
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.39949,
+                    "longitude": 39.95199
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.3994,
+                    "longitude": 39.95253
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.39933,
+                    "longitude": 39.9531
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.39931,
+                    "longitude": 39.9537
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.39931,
+                    "longitude": 39.9543
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.39937,
+                    "longitude": 39.95491
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.39946,
+                    "longitude": 39.95552
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.39959,
+                    "longitude": 39.95609
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.39972,
+                    "longitude": 39.95663
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.39991,
+                    "longitude": 39.95717
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.40014,
+                    "longitude": 39.95769
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.40037,
+                    "longitude": 39.95819
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.40066,
+                    "longitude": 39.95863
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.40098,
+                    "longitude": 39.95907
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.4013,
+                    "longitude": 39.95945
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.40161,
+                    "longitude": 39.95989
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.40187,
+                    "longitude": 39.96039
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.40209,
+                    "longitude": 39.96095
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.40381,
+                    "longitude": 39.94754
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.40187,
+                    "longitude": 39.96454
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.40138,
+                    "longitude": 39.96566
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.40125,
+                    "longitude": 39.96602
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.40113,
+                    "longitude": 39.96642
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.40099,
+                    "longitude": 39.96679
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.40084,
+                    "longitude": 39.96727
+                }
+            ]
+        },
+        {
+            "id": "6907666b0b42b07dfd4cfae0",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 02.11.25 17:10 - 02.11.25 17:12",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1762092652",
+            "date_end": "1762092729",
+            "average_speed": 0,
+            "distance": 2,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40082,
+                    "longitude": 39.96733
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.40083,
+                    "longitude": 39.96732
+                }
+            ]
+        },
+        {
+            "id": "69070ac98f1acda61afa0cb5",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 02.11.25 10:39 - 02.11.25 10:50",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1762069195",
+            "date_end": "1762069800",
+            "average_speed": 17,
+            "distance": 3164,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40219,
+                    "longitude": 39.96191
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.39991,
+                    "longitude": 39.95732
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.39981,
+                    "longitude": 39.95672
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.3995,
+                    "longitude": 39.95538
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.40219,
+                    "longitude": 39.96191
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.39948,
+                    "longitude": 39.95051
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.39966,
+                    "longitude": 39.95027
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.39979,
+                    "longitude": 39.95033
+                }
+            ]
+        },
+        {
+            "id": "69075f9feb7642114031f485",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 02.11.25 16:41 - 02.11.25 16:48",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1762090913",
+            "date_end": "1762091304",
+            "average_speed": 15,
+            "distance": 3681,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.39981,
+                    "longitude": 39.95083
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.39963,
+                    "longitude": 39.9514
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.39949,
+                    "longitude": 39.95199
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.3994,
+                    "longitude": 39.95253
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.39933,
+                    "longitude": 39.9531
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.39931,
+                    "longitude": 39.9537
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.39931,
+                    "longitude": 39.9543
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.39937,
+                    "longitude": 39.95491
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.39946,
+                    "longitude": 39.95552
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.39959,
+                    "longitude": 39.95609
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.39972,
+                    "longitude": 39.95663
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.39991,
+                    "longitude": 39.95717
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.40014,
+                    "longitude": 39.95769
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.40037,
+                    "longitude": 39.95819
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.40066,
+                    "longitude": 39.95863
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.40098,
+                    "longitude": 39.95907
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.4013,
+                    "longitude": 39.95945
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.40161,
+                    "longitude": 39.95989
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.40187,
+                    "longitude": 39.96039
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.40209,
+                    "longitude": 39.96095
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.40381,
+                    "longitude": 39.94754
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.40187,
+                    "longitude": 39.96454
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.40138,
+                    "longitude": 39.96566
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.40125,
+                    "longitude": 39.96602
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.40113,
+                    "longitude": 39.96642
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.40099,
+                    "longitude": 39.96679
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.40084,
+                    "longitude": 39.96727
+                }
+            ]
+        },
+        {
+            "id": "6907666b0b42b07dfd4cfae0",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 02.11.25 17:10 - 02.11.25 17:12",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1762092652",
+            "date_end": "1762092729",
+            "average_speed": 0,
+            "distance": 2,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40082,
+                    "longitude": 39.96733
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.40083,
+                    "longitude": 39.96732
+                }
+            ]
+        },
+        {
+            "id": "6901f70ace78f20fd90261b2",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 29.10.25 14:14 - 29.10.25 14:22",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1761736460",
+            "date_end": "1761736932",
+            "average_speed": 12,
+            "distance": 1254,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40346,
+                    "longitude": 39.97957
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.40312,
+                    "longitude": 39.97918
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.40303,
+                    "longitude": 39.97908
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.40334,
+                    "longitude": 39.9794
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.40353,
+                    "longitude": 39.97955
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.40352,
+                    "longitude": 39.97949
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.40305,
+                    "longitude": 39.97908
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.40261,
+                    "longitude": 39.97871
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.40231,
+                    "longitude": 39.97843
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.40193,
+                    "longitude": 39.9781
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.4009,
+                    "longitude": 39.97723
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.40028,
+                    "longitude": 39.97688
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.4,
+                    "longitude": 39.97664
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.3992,
+                    "longitude": 39.97606
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.39862,
+                    "longitude": 39.97562
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.39809,
+                    "longitude": 39.97521
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.39774,
+                    "longitude": 39.97495
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.39776,
+                    "longitude": 39.97418
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.39792,
+                    "longitude": 39.97375
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.39805,
+                    "longitude": 39.973
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.39831,
+                    "longitude": 39.97241
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.39817,
+                    "longitude": 39.97257
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.39835,
+                    "longitude": 39.97231
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.39825,
+                    "longitude": 39.97261
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.39816,
+                    "longitude": 39.97285
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.39838,
+                    "longitude": 39.97246
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.39845,
+                    "longitude": 39.97235
+                }
+            ]
+        },
+        {
+            "id": "6901f70ace78f20fd90261b2",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 29.10.25 14:14 - 29.10.25 14:22",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1761736460",
+            "date_end": "1761736932",
+            "average_speed": 12,
+            "distance": 1254,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40346,
+                    "longitude": 39.97957
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.40312,
+                    "longitude": 39.97918
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.40303,
+                    "longitude": 39.97908
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.40334,
+                    "longitude": 39.9794
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.40353,
+                    "longitude": 39.97955
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.40352,
+                    "longitude": 39.97949
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.40305,
+                    "longitude": 39.97908
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.40261,
+                    "longitude": 39.97871
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.40231,
+                    "longitude": 39.97843
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.40193,
+                    "longitude": 39.9781
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.4009,
+                    "longitude": 39.97723
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.40028,
+                    "longitude": 39.97688
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.4,
+                    "longitude": 39.97664
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.3992,
+                    "longitude": 39.97606
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.39862,
+                    "longitude": 39.97562
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.39809,
+                    "longitude": 39.97521
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.39774,
+                    "longitude": 39.97495
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.39776,
+                    "longitude": 39.97418
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.39792,
+                    "longitude": 39.97375
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.39805,
+                    "longitude": 39.973
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.39831,
+                    "longitude": 39.97241
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.39817,
+                    "longitude": 39.97257
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.39835,
+                    "longitude": 39.97231
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.39825,
+                    "longitude": 39.97261
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.39816,
+                    "longitude": 39.97285
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.39838,
+                    "longitude": 39.97246
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.39845,
+                    "longitude": 39.97235
+                }
+            ]
+        },
+        {
+            "id": "6900e0b9574e4e304f9cabb5",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 28.10.25 18:26 - 28.10.25 18:28",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1761665211",
+            "date_end": "1761665330",
+            "average_speed": 0,
+            "distance": 509,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40605,
+                    "longitude": 39.97424
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.40562,
+                    "longitude": 39.97505
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.40507,
+                    "longitude": 39.97585
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.40388,
+                    "longitude": 39.97864
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.40357,
+                    "longitude": 39.97942
+                }
+            ]
+        },
+        {
+            "id": "6900e0b9574e4e304f9cabb5",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 28.10.25 18:26 - 28.10.25 18:28",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1761665211",
+            "date_end": "1761665330",
+            "average_speed": 0,
+            "distance": 509,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40605,
+                    "longitude": 39.97424
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.40562,
+                    "longitude": 39.97505
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.40507,
+                    "longitude": 39.97585
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.40388,
+                    "longitude": 39.97864
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.40357,
+                    "longitude": 39.97942
+                }
+            ]
+        },
+        {
+            "id": "68f12adf1b2067a9c0314caa",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 16.10.25 20:26 - 16.10.25 20:32",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760635616",
+            "date_end": "1760635954",
+            "average_speed": 22,
+            "distance": 974,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.42807,
+                    "longitude": 39.92206
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.42676,
+                    "longitude": 39.92359
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.42615,
+                    "longitude": 39.9244
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.42492,
+                    "longitude": 39.92582
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.4216,
+                    "longitude": 39.92967
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.42179,
+                    "longitude": 39.92975
+                }
+            ]
+        },
+        {
+            "id": "68f0b94f1b2067a9c015b344",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 16.10.25 12:22 - 16.10.25 12:43",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760606544",
+            "date_end": "1760607794",
+            "average_speed": 3.33,
+            "distance": 964,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.43346,
+                    "longitude": 39.92128
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.43254,
+                    "longitude": 39.92218
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.43191,
+                    "longitude": 39.92273
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.43144,
+                    "longitude": 39.92319
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.43095,
+                    "longitude": 39.92364
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.43043,
+                    "longitude": 39.92407
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.42991,
+                    "longitude": 39.92501
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.42975,
+                    "longitude": 39.92535
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.42948,
+                    "longitude": 39.92574
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.42925,
+                    "longitude": 39.92547
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.42858,
+                    "longitude": 39.92497
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.42853,
+                    "longitude": 39.9246
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.42861,
+                    "longitude": 39.92444
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.42859,
+                    "longitude": 39.92444
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.42893,
+                    "longitude": 39.92466
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.42914,
+                    "longitude": 39.92483
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.42935,
+                    "longitude": 39.92474
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.42935,
+                    "longitude": 39.92473
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.42936,
+                    "longitude": 39.92474
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.42933,
+                    "longitude": 39.92472
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.42939,
+                    "longitude": 39.92477
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.42947,
+                    "longitude": 39.92488
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.42939,
+                    "longitude": 39.92477
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.42935,
+                    "longitude": 39.92489
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.42935,
+                    "longitude": 39.92486
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.4292,
+                    "longitude": 39.92452
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.42898,
+                    "longitude": 39.92424
+                },
+                {
+                    "number": 28,
+                    "latitude": 43.42907,
+                    "longitude": 39.92404
+                },
+                {
+                    "number": 29,
+                    "latitude": 43.42898,
+                    "longitude": 39.92424
+                },
+                {
+                    "number": 30,
+                    "latitude": 43.42908,
+                    "longitude": 39.924
+                }
+            ]
+        },
+        {
+            "id": "68f0b94f1b2067a9c015b344",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 16.10.25 12:22 - 16.10.25 12:43",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760606544",
+            "date_end": "1760607794",
+            "average_speed": 3.33,
+            "distance": 964,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.43346,
+                    "longitude": 39.92128
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.43254,
+                    "longitude": 39.92218
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.43191,
+                    "longitude": 39.92273
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.43144,
+                    "longitude": 39.92319
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.43095,
+                    "longitude": 39.92364
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.43043,
+                    "longitude": 39.92407
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.42991,
+                    "longitude": 39.92501
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.42975,
+                    "longitude": 39.92535
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.42948,
+                    "longitude": 39.92574
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.42925,
+                    "longitude": 39.92547
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.42858,
+                    "longitude": 39.92497
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.42853,
+                    "longitude": 39.9246
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.42861,
+                    "longitude": 39.92444
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.42859,
+                    "longitude": 39.92444
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.42893,
+                    "longitude": 39.92466
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.42914,
+                    "longitude": 39.92483
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.42935,
+                    "longitude": 39.92474
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.42935,
+                    "longitude": 39.92473
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.42936,
+                    "longitude": 39.92474
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.42933,
+                    "longitude": 39.92472
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.42939,
+                    "longitude": 39.92477
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.42947,
+                    "longitude": 39.92488
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.42939,
+                    "longitude": 39.92477
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.42935,
+                    "longitude": 39.92489
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.42935,
+                    "longitude": 39.92486
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.4292,
+                    "longitude": 39.92452
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.42898,
+                    "longitude": 39.92424
+                },
+                {
+                    "number": 28,
+                    "latitude": 43.42907,
+                    "longitude": 39.92404
+                },
+                {
+                    "number": 29,
+                    "latitude": 43.42898,
+                    "longitude": 39.92424
+                },
+                {
+                    "number": 30,
+                    "latitude": 43.42908,
+                    "longitude": 39.924
+                }
+            ]
+        },
+        {
+            "id": "68f12adf1b2067a9c0314caa",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 16.10.25 20:26 - 16.10.25 20:32",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760635616",
+            "date_end": "1760635954",
+            "average_speed": 22,
+            "distance": 974,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.42807,
+                    "longitude": 39.92206
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.42676,
+                    "longitude": 39.92359
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.42615,
+                    "longitude": 39.9244
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.42492,
+                    "longitude": 39.92582
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.4216,
+                    "longitude": 39.92967
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.42179,
+                    "longitude": 39.92975
+                }
+            ]
+        },
+        {
+            "id": "68eec1fe9161cde614f00784",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 15.10.25 00:34 - 15.10.25 00:37",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760477697",
+            "date_end": "1760477849",
+            "average_speed": 23,
+            "distance": 423,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.42105,
+                    "longitude": 39.93272
+                }
+            ]
+        },
+        {
+            "id": "68eec1fe9161cde614f00784",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 15.10.25 00:34 - 15.10.25 00:37",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760477697",
+            "date_end": "1760477849",
+            "average_speed": 23,
+            "distance": 423,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.42105,
+                    "longitude": 39.93272
+                }
+            ]
+        },
+        {
+            "id": "68ed268e1f0242133563368b",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 13.10.25 19:19 - 13.10.25 19:30",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760372369",
+            "date_end": "1760373056",
+            "average_speed": 25,
+            "distance": 2318,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.41059,
+                    "longitude": 39.94313
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.41463,
+                    "longitude": 39.92957
+                }
+            ]
+        },
+        {
+            "id": "68ed43a07a400e868c4a8942",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 13.10.25 21:23 - 13.10.25 21:26",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760379809",
+            "date_end": "1760379975",
+            "average_speed": 0,
+            "distance": 172,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.42043,
+                    "longitude": 39.92792
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.4205,
+                    "longitude": 39.92787
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.42048,
+                    "longitude": 39.92793
+                }
+            ]
+        },
+        {
+            "id": "68ed43a07a400e868c4a8942",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 13.10.25 21:23 - 13.10.25 21:26",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760379809",
+            "date_end": "1760379975",
+            "average_speed": 0,
+            "distance": 172,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.42043,
+                    "longitude": 39.92792
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.4205,
+                    "longitude": 39.92787
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.42048,
+                    "longitude": 39.92793
+                }
+            ]
+        },
+        {
+            "id": "68eb8a3ad47fd2594cc2f896",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 12.10.25 14:00 - 12.10.25 14:17",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760266810",
+            "date_end": "1760267846",
+            "average_speed": 0,
+            "distance": 6977,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.39325,
+                    "longitude": 39.97706
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.39343,
+                    "longitude": 39.97744
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.39459,
+                    "longitude": 39.97851
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.3948,
+                    "longitude": 39.97878
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.39527,
+                    "longitude": 39.97919
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.39567,
+                    "longitude": 39.97951
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.39618,
+                    "longitude": 39.97998
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.39309,
+                    "longitude": 39.97715
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.39618,
+                    "longitude": 39.97998
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.39696,
+                    "longitude": 39.97723
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.39745,
+                    "longitude": 39.97668
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.3979,
+                    "longitude": 39.97579
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.39812,
+                    "longitude": 39.97521
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.39837,
+                    "longitude": 39.97457
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.39874,
+                    "longitude": 39.97383
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.39899,
+                    "longitude": 39.97314
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.39924,
+                    "longitude": 39.97236
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.39975,
+                    "longitude": 39.97068
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.40005,
+                    "longitude": 39.96977
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.40036,
+                    "longitude": 39.96888
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.40112,
+                    "longitude": 39.96809
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.4024,
+                    "longitude": 39.96349
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.39761,
+                    "longitude": 39.9773
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.4024,
+                    "longitude": 39.96349
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.40765,
+                    "longitude": 39.95699
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.41023,
+                    "longitude": 39.96194
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.41381,
+                    "longitude": 39.95915
+                },
+                {
+                    "number": 28,
+                    "latitude": 43.41378,
+                    "longitude": 39.95923
+                },
+                {
+                    "number": 29,
+                    "latitude": 43.41378,
+                    "longitude": 39.95924
+                }
+            ]
+        },
+        {
+            "id": "68ed268e1f0242133563368b",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 13.10.25 19:19 - 13.10.25 19:30",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760372369",
+            "date_end": "1760373056",
+            "average_speed": 25,
+            "distance": 2318,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.41059,
+                    "longitude": 39.94313
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.41463,
+                    "longitude": 39.92957
+                }
+            ]
+        },
+        {
+            "id": "68ea1715fa0f0ce9e9642bef",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 11.10.25 11:36 - 11.10.25 11:59",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760171798",
+            "date_end": "1760173170",
+            "average_speed": 0,
+            "distance": 9065,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40143,
+                    "longitude": 39.95946
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.40005,
+                    "longitude": 39.9566
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.39988,
+                    "longitude": 39.95604
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.39987,
+                    "longitude": 39.956
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.39989,
+                    "longitude": 39.95571
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.39981,
+                    "longitude": 39.95538
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.39976,
+                    "longitude": 39.95507
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.40143,
+                    "longitude": 39.95946
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.3997,
+                    "longitude": 39.95389
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.39971,
+                    "longitude": 39.9532
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.39971,
+                    "longitude": 39.95283
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.40143,
+                    "longitude": 39.95946
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.39971,
+                    "longitude": 39.95283
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.40177,
+                    "longitude": 39.96696
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.40127,
+                    "longitude": 39.96765
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.40114,
+                    "longitude": 39.96829
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.40061,
+                    "longitude": 39.96899
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.39884,
+                    "longitude": 39.9735
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.39869,
+                    "longitude": 39.97373
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.39854,
+                    "longitude": 39.97421
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.39819,
+                    "longitude": 39.97531
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.39804,
+                    "longitude": 39.97582
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.39781,
+                    "longitude": 39.97655
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.39721,
+                    "longitude": 39.97784
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.39698,
+                    "longitude": 39.97847
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.39662,
+                    "longitude": 39.97923
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.39626,
+                    "longitude": 39.97998
+                },
+                {
+                    "number": 28,
+                    "latitude": 43.39565,
+                    "longitude": 39.98054
+                },
+                {
+                    "number": 29,
+                    "latitude": 43.40177,
+                    "longitude": 39.96696
+                },
+                {
+                    "number": 30,
+                    "latitude": 43.39493,
+                    "longitude": 39.98164
+                },
+                {
+                    "number": 31,
+                    "latitude": 43.39442,
+                    "longitude": 39.98116
+                },
+                {
+                    "number": 32,
+                    "latitude": 43.39397,
+                    "longitude": 39.98072
+                },
+                {
+                    "number": 33,
+                    "latitude": 43.39356,
+                    "longitude": 39.98037
+                },
+                {
+                    "number": 34,
+                    "latitude": 43.39332,
+                    "longitude": 39.98094
+                },
+                {
+                    "number": 35,
+                    "latitude": 43.39298,
+                    "longitude": 39.98138
+                },
+                {
+                    "number": 36,
+                    "latitude": 43.3924,
+                    "longitude": 39.98099
+                },
+                {
+                    "number": 37,
+                    "latitude": 43.39181,
+                    "longitude": 39.98046
+                }
+            ]
+        },
+        {
+            "id": "68eb8a3ad47fd2594cc2f896",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 12.10.25 14:00 - 12.10.25 14:17",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760266810",
+            "date_end": "1760267846",
+            "average_speed": 0,
+            "distance": 6977,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.39325,
+                    "longitude": 39.97706
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.39343,
+                    "longitude": 39.97744
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.39459,
+                    "longitude": 39.97851
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.3948,
+                    "longitude": 39.97878
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.39527,
+                    "longitude": 39.97919
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.39567,
+                    "longitude": 39.97951
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.39618,
+                    "longitude": 39.97998
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.39309,
+                    "longitude": 39.97715
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.39618,
+                    "longitude": 39.97998
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.39696,
+                    "longitude": 39.97723
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.39745,
+                    "longitude": 39.97668
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.3979,
+                    "longitude": 39.97579
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.39812,
+                    "longitude": 39.97521
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.39837,
+                    "longitude": 39.97457
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.39874,
+                    "longitude": 39.97383
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.39899,
+                    "longitude": 39.97314
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.39924,
+                    "longitude": 39.97236
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.39975,
+                    "longitude": 39.97068
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.40005,
+                    "longitude": 39.96977
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.40036,
+                    "longitude": 39.96888
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.40112,
+                    "longitude": 39.96809
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.4024,
+                    "longitude": 39.96349
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.39761,
+                    "longitude": 39.9773
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.4024,
+                    "longitude": 39.96349
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.40765,
+                    "longitude": 39.95699
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.41023,
+                    "longitude": 39.96194
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.41381,
+                    "longitude": 39.95915
+                },
+                {
+                    "number": 28,
+                    "latitude": 43.41378,
+                    "longitude": 39.95923
+                },
+                {
+                    "number": 29,
+                    "latitude": 43.41378,
+                    "longitude": 39.95924
+                }
+            ]
+        },
+        {
+            "id": "68ea91dad47fd2594c95c933",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 11.10.25 20:20 - 11.10.25 20:23",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760203227",
+            "date_end": "1760203396",
+            "average_speed": 0,
+            "distance": 583,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.39479,
+                    "longitude": 39.97819
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.39309,
+                    "longitude": 39.9771
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.39311,
+                    "longitude": 39.97713
+                }
+            ]
+        },
+        {
+            "id": "68ea91dad47fd2594c95c933",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 11.10.25 20:20 - 11.10.25 20:23",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760203227",
+            "date_end": "1760203396",
+            "average_speed": 0,
+            "distance": 583,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.39479,
+                    "longitude": 39.97819
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.39309,
+                    "longitude": 39.9771
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.39311,
+                    "longitude": 39.97713
+                }
+            ]
+        },
+        {
+            "id": "68ea1715fa0f0ce9e9642bef",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 11.10.25 11:36 - 11.10.25 11:59",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760171798",
+            "date_end": "1760173170",
+            "average_speed": 0,
+            "distance": 9065,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40143,
+                    "longitude": 39.95946
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.40005,
+                    "longitude": 39.9566
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.39988,
+                    "longitude": 39.95604
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.39987,
+                    "longitude": 39.956
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.39989,
+                    "longitude": 39.95571
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.39981,
+                    "longitude": 39.95538
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.39976,
+                    "longitude": 39.95507
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.40143,
+                    "longitude": 39.95946
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.3997,
+                    "longitude": 39.95389
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.39971,
+                    "longitude": 39.9532
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.39971,
+                    "longitude": 39.95283
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.40143,
+                    "longitude": 39.95946
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.39971,
+                    "longitude": 39.95283
+                },
+                {
+                    "number": 14,
+                    "latitude": 43.40177,
+                    "longitude": 39.96696
+                },
+                {
+                    "number": 15,
+                    "latitude": 43.40127,
+                    "longitude": 39.96765
+                },
+                {
+                    "number": 16,
+                    "latitude": 43.40114,
+                    "longitude": 39.96829
+                },
+                {
+                    "number": 17,
+                    "latitude": 43.40061,
+                    "longitude": 39.96899
+                },
+                {
+                    "number": 18,
+                    "latitude": 43.39884,
+                    "longitude": 39.9735
+                },
+                {
+                    "number": 19,
+                    "latitude": 43.39869,
+                    "longitude": 39.97373
+                },
+                {
+                    "number": 20,
+                    "latitude": 43.39854,
+                    "longitude": 39.97421
+                },
+                {
+                    "number": 21,
+                    "latitude": 43.39819,
+                    "longitude": 39.97531
+                },
+                {
+                    "number": 22,
+                    "latitude": 43.39804,
+                    "longitude": 39.97582
+                },
+                {
+                    "number": 23,
+                    "latitude": 43.39781,
+                    "longitude": 39.97655
+                },
+                {
+                    "number": 24,
+                    "latitude": 43.39721,
+                    "longitude": 39.97784
+                },
+                {
+                    "number": 25,
+                    "latitude": 43.39698,
+                    "longitude": 39.97847
+                },
+                {
+                    "number": 26,
+                    "latitude": 43.39662,
+                    "longitude": 39.97923
+                },
+                {
+                    "number": 27,
+                    "latitude": 43.39626,
+                    "longitude": 39.97998
+                },
+                {
+                    "number": 28,
+                    "latitude": 43.39565,
+                    "longitude": 39.98054
+                },
+                {
+                    "number": 29,
+                    "latitude": 43.40177,
+                    "longitude": 39.96696
+                },
+                {
+                    "number": 30,
+                    "latitude": 43.39493,
+                    "longitude": 39.98164
+                },
+                {
+                    "number": 31,
+                    "latitude": 43.39442,
+                    "longitude": 39.98116
+                },
+                {
+                    "number": 32,
+                    "latitude": 43.39397,
+                    "longitude": 39.98072
+                },
+                {
+                    "number": 33,
+                    "latitude": 43.39356,
+                    "longitude": 39.98037
+                },
+                {
+                    "number": 34,
+                    "latitude": 43.39332,
+                    "longitude": 39.98094
+                },
+                {
+                    "number": 35,
+                    "latitude": 43.39298,
+                    "longitude": 39.98138
+                },
+                {
+                    "number": 36,
+                    "latitude": 43.3924,
+                    "longitude": 39.98099
+                },
+                {
+                    "number": 37,
+                    "latitude": 43.39181,
+                    "longitude": 39.98046
+                }
+            ]
+        },
+        {
+            "id": "68e7c4c1c51b3e5a71c46cd4",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 09.10.25 17:20 - 09.10.25 17:29",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760019651",
+            "date_end": "1760020163",
+            "average_speed": 0,
+            "distance": 105,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40053,
+                    "longitude": 39.97662
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.40054,
+                    "longitude": 39.97659
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.40061,
+                    "longitude": 39.9765
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.4006,
+                    "longitude": 39.97634
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.40063,
+                    "longitude": 39.97621
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.40065,
+                    "longitude": 39.97599
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.40069,
+                    "longitude": 39.97587
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.40072,
+                    "longitude": 39.97578
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.40074,
+                    "longitude": 39.97576
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.4008,
+                    "longitude": 39.97565
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.40085,
+                    "longitude": 39.97558
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.40091,
+                    "longitude": 39.97553
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.40204,
+                    "longitude": 39.97173
+                }
+            ]
+        },
+        {
+            "id": "68e7c4c1c51b3e5a71c46cd4",
+            "name": "Трек движения СИМ: Юрент S.490966 за период: 09.10.25 17:20 - 09.10.25 17:29",
+            "vehicle_id": "6479872723270f2b9d2a9dfc",
+            "vehicle_name": "Юрент S.490966",
+            "date_start": "1760019651",
+            "date_end": "1760020163",
+            "average_speed": 0,
+            "distance": 105,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 43.40053,
+                    "longitude": 39.97662
+                },
+                {
+                    "number": 2,
+                    "latitude": 43.40054,
+                    "longitude": 39.97659
+                },
+                {
+                    "number": 3,
+                    "latitude": 43.40061,
+                    "longitude": 39.9765
+                },
+                {
+                    "number": 4,
+                    "latitude": 43.4006,
+                    "longitude": 39.97634
+                },
+                {
+                    "number": 5,
+                    "latitude": 43.40063,
+                    "longitude": 39.97621
+                },
+                {
+                    "number": 6,
+                    "latitude": 43.40065,
+                    "longitude": 39.97599
+                },
+                {
+                    "number": 7,
+                    "latitude": 43.40069,
+                    "longitude": 39.97587
+                },
+                {
+                    "number": 8,
+                    "latitude": 43.40072,
+                    "longitude": 39.97578
+                },
+                {
+                    "number": 9,
+                    "latitude": 43.40074,
+                    "longitude": 39.97576
+                },
+                {
+                    "number": 10,
+                    "latitude": 43.4008,
+                    "longitude": 39.97565
+                },
+                {
+                    "number": 11,
+                    "latitude": 43.40085,
+                    "longitude": 39.97558
+                },
+                {
+                    "number": 12,
+                    "latitude": 43.40091,
+                    "longitude": 39.97553
+                },
+                {
+                    "number": 13,
+                    "latitude": 43.40204,
+                    "longitude": 39.97173
+                }
+            ]
+        }
+    ]
+}
