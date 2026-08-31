@@ -1,0 +1,2265 @@
+{
+    "tracks": [
+        {
+            "id": "6905b2378f1acda61abd5c13",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 01.11.25 10:09 - 01.11.25 10:11",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761980985",
+            "date_end": "1761981107",
+            "average_speed": 0,
+            "distance": 316,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.68364,
+                    "longitude": 37.6423
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.68366,
+                    "longitude": 37.64226
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.68349,
+                    "longitude": 37.63775
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.68323,
+                    "longitude": 37.63771
+                }
+            ]
+        },
+        {
+            "id": "6905e46df20836eb6038f2c0",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 01.11.25 13:43 - 01.11.25 13:48",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761993837",
+            "date_end": "1761994088",
+            "average_speed": 16,
+            "distance": 869,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.68279,
+                    "longitude": 37.63834
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.68304,
+                    "longitude": 37.63832
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.68326,
+                    "longitude": 37.63803
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.68337,
+                    "longitude": 37.637
+                },
+                {
+                    "number": 5,
+                    "latitude": 55.68356,
+                    "longitude": 37.63578
+                },
+                {
+                    "number": 6,
+                    "latitude": 55.68379,
+                    "longitude": 37.63475
+                },
+                {
+                    "number": 7,
+                    "latitude": 55.68403,
+                    "longitude": 37.63382
+                },
+                {
+                    "number": 8,
+                    "latitude": 55.68433,
+                    "longitude": 37.63295
+                },
+                {
+                    "number": 9,
+                    "latitude": 55.68465,
+                    "longitude": 37.63216
+                },
+                {
+                    "number": 10,
+                    "latitude": 55.68488,
+                    "longitude": 37.63166
+                },
+                {
+                    "number": 11,
+                    "latitude": 55.68522,
+                    "longitude": 37.63091
+                },
+                {
+                    "number": 12,
+                    "latitude": 55.68556,
+                    "longitude": 37.6303
+                },
+                {
+                    "number": 13,
+                    "latitude": 55.6859,
+                    "longitude": 37.62985
+                },
+                {
+                    "number": 14,
+                    "latitude": 55.68632,
+                    "longitude": 37.62952
+                },
+                {
+                    "number": 15,
+                    "latitude": 55.68679,
+                    "longitude": 37.62932
+                },
+                {
+                    "number": 16,
+                    "latitude": 55.6872,
+                    "longitude": 37.62913
+                },
+                {
+                    "number": 17,
+                    "latitude": 55.68753,
+                    "longitude": 37.629
+                },
+                {
+                    "number": 18,
+                    "latitude": 55.68762,
+                    "longitude": 37.62902
+                }
+            ]
+        },
+        {
+            "id": "690521daeb76421140d77aef",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 31.10.25 23:53 - 01.11.25 00:07",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761944029",
+            "date_end": "1761944871",
+            "average_speed": 12.5,
+            "distance": 2994,
+            "coordinates": []
+        },
+        {
+            "id": "6905e46df20836eb6038f2c0",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 01.11.25 13:43 - 01.11.25 13:48",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761993837",
+            "date_end": "1761994088",
+            "average_speed": 16,
+            "distance": 869,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.68279,
+                    "longitude": 37.63834
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.68304,
+                    "longitude": 37.63832
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.68326,
+                    "longitude": 37.63803
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.68337,
+                    "longitude": 37.637
+                },
+                {
+                    "number": 5,
+                    "latitude": 55.68356,
+                    "longitude": 37.63578
+                },
+                {
+                    "number": 6,
+                    "latitude": 55.68379,
+                    "longitude": 37.63475
+                },
+                {
+                    "number": 7,
+                    "latitude": 55.68403,
+                    "longitude": 37.63382
+                },
+                {
+                    "number": 8,
+                    "latitude": 55.68433,
+                    "longitude": 37.63295
+                },
+                {
+                    "number": 9,
+                    "latitude": 55.68465,
+                    "longitude": 37.63216
+                },
+                {
+                    "number": 10,
+                    "latitude": 55.68488,
+                    "longitude": 37.63166
+                },
+                {
+                    "number": 11,
+                    "latitude": 55.68522,
+                    "longitude": 37.63091
+                },
+                {
+                    "number": 12,
+                    "latitude": 55.68556,
+                    "longitude": 37.6303
+                },
+                {
+                    "number": 13,
+                    "latitude": 55.6859,
+                    "longitude": 37.62985
+                },
+                {
+                    "number": 14,
+                    "latitude": 55.68632,
+                    "longitude": 37.62952
+                },
+                {
+                    "number": 15,
+                    "latitude": 55.68679,
+                    "longitude": 37.62932
+                },
+                {
+                    "number": 16,
+                    "latitude": 55.6872,
+                    "longitude": 37.62913
+                },
+                {
+                    "number": 17,
+                    "latitude": 55.68753,
+                    "longitude": 37.629
+                },
+                {
+                    "number": 18,
+                    "latitude": 55.68762,
+                    "longitude": 37.62902
+                }
+            ]
+        },
+        {
+            "id": "6905131a3704bad1a469e070",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 31.10.25 22:50 - 31.10.25 22:56",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761940250",
+            "date_end": "1761940616",
+            "average_speed": 12,
+            "distance": 3390,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.70863,
+                    "longitude": 37.60531
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.7088,
+                    "longitude": 37.60594
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.70885,
+                    "longitude": 37.60681
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.7085,
+                    "longitude": 37.60709
+                },
+                {
+                    "number": 5,
+                    "latitude": 55.70839,
+                    "longitude": 37.60942
+                },
+                {
+                    "number": 6,
+                    "latitude": 55.70858,
+                    "longitude": 37.61058
+                },
+                {
+                    "number": 7,
+                    "latitude": 55.70908,
+                    "longitude": 37.61087
+                },
+                {
+                    "number": 8,
+                    "latitude": 55.70945,
+                    "longitude": 37.61086
+                },
+                {
+                    "number": 9,
+                    "latitude": 55.70943,
+                    "longitude": 37.61101
+                },
+                {
+                    "number": 10,
+                    "latitude": 55.70938,
+                    "longitude": 37.61191
+                },
+                {
+                    "number": 11,
+                    "latitude": 55.7094,
+                    "longitude": 37.61281
+                },
+                {
+                    "number": 12,
+                    "latitude": 55.70948,
+                    "longitude": 37.61368
+                },
+                {
+                    "number": 13,
+                    "latitude": 55.70958,
+                    "longitude": 37.6144
+                },
+                {
+                    "number": 14,
+                    "latitude": 55.70954,
+                    "longitude": 37.61561
+                },
+                {
+                    "number": 15,
+                    "latitude": 55.70956,
+                    "longitude": 37.61678
+                },
+                {
+                    "number": 16,
+                    "latitude": 55.70956,
+                    "longitude": 37.61801
+                },
+                {
+                    "number": 17,
+                    "latitude": 55.70955,
+                    "longitude": 37.61906
+                },
+                {
+                    "number": 18,
+                    "latitude": 55.71049,
+                    "longitude": 37.62023
+                },
+                {
+                    "number": 19,
+                    "latitude": 55.71132,
+                    "longitude": 37.62111
+                },
+                {
+                    "number": 20,
+                    "latitude": 55.7095,
+                    "longitude": 37.60638
+                },
+                {
+                    "number": 21,
+                    "latitude": 55.7104,
+                    "longitude": 37.62213
+                },
+                {
+                    "number": 22,
+                    "latitude": 55.70996,
+                    "longitude": 37.62198
+                },
+                {
+                    "number": 23,
+                    "latitude": 55.709,
+                    "longitude": 37.62221
+                },
+                {
+                    "number": 24,
+                    "latitude": 55.7083,
+                    "longitude": 37.62197
+                }
+            ]
+        },
+        {
+            "id": "690521daeb76421140d77aef",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 31.10.25 23:53 - 01.11.25 00:07",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761944029",
+            "date_end": "1761944871",
+            "average_speed": 12.5,
+            "distance": 2994,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.70715,
+                    "longitude": 37.62778
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.70115,
+                    "longitude": 37.62129
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.68839,
+                    "longitude": 37.62934
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.6869,
+                    "longitude": 37.63026
+                }
+            ]
+        },
+        {
+            "id": "6905b2378f1acda61abd5c13",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 01.11.25 10:09 - 01.11.25 10:11",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761980985",
+            "date_end": "1761981107",
+            "average_speed": 0,
+            "distance": 316,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.68364,
+                    "longitude": 37.6423
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.68366,
+                    "longitude": 37.64226
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.68349,
+                    "longitude": 37.63775
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.68323,
+                    "longitude": 37.63771
+                }
+            ]
+        },
+        {
+            "id": "690521daeb76421140d77aef",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 31.10.25 23:53 - 01.11.25 00:07",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761944029",
+            "date_end": "1761944871",
+            "average_speed": 12.5,
+            "distance": 2994,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.70715,
+                    "longitude": 37.62778
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.70115,
+                    "longitude": 37.62129
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.68839,
+                    "longitude": 37.62934
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.6869,
+                    "longitude": 37.63026
+                }
+            ]
+        },
+        {
+            "id": "6903c1341a684a325db70c0b",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 30.10.25 22:49 - 30.10.25 22:56",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761853750",
+            "date_end": "1761854202",
+            "average_speed": 0,
+            "distance": 428,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71672,
+                    "longitude": 37.61556
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71564,
+                    "longitude": 37.6199
+                }
+            ]
+        },
+        {
+            "id": "6905131a3704bad1a469e070",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 31.10.25 22:50 - 31.10.25 22:56",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761940250",
+            "date_end": "1761940616",
+            "average_speed": 12,
+            "distance": 3390,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.70863,
+                    "longitude": 37.60531
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.7088,
+                    "longitude": 37.60594
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.70885,
+                    "longitude": 37.60681
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.7085,
+                    "longitude": 37.60709
+                },
+                {
+                    "number": 5,
+                    "latitude": 55.70839,
+                    "longitude": 37.60942
+                },
+                {
+                    "number": 6,
+                    "latitude": 55.70858,
+                    "longitude": 37.61058
+                },
+                {
+                    "number": 7,
+                    "latitude": 55.70908,
+                    "longitude": 37.61087
+                },
+                {
+                    "number": 8,
+                    "latitude": 55.70945,
+                    "longitude": 37.61086
+                },
+                {
+                    "number": 9,
+                    "latitude": 55.70943,
+                    "longitude": 37.61101
+                },
+                {
+                    "number": 10,
+                    "latitude": 55.70938,
+                    "longitude": 37.61191
+                },
+                {
+                    "number": 11,
+                    "latitude": 55.7094,
+                    "longitude": 37.61281
+                },
+                {
+                    "number": 12,
+                    "latitude": 55.70948,
+                    "longitude": 37.61368
+                },
+                {
+                    "number": 13,
+                    "latitude": 55.70958,
+                    "longitude": 37.6144
+                },
+                {
+                    "number": 14,
+                    "latitude": 55.70954,
+                    "longitude": 37.61561
+                },
+                {
+                    "number": 15,
+                    "latitude": 55.70956,
+                    "longitude": 37.61678
+                },
+                {
+                    "number": 16,
+                    "latitude": 55.70956,
+                    "longitude": 37.61801
+                },
+                {
+                    "number": 17,
+                    "latitude": 55.70955,
+                    "longitude": 37.61906
+                },
+                {
+                    "number": 18,
+                    "latitude": 55.71049,
+                    "longitude": 37.62023
+                },
+                {
+                    "number": 19,
+                    "latitude": 55.71132,
+                    "longitude": 37.62111
+                },
+                {
+                    "number": 20,
+                    "latitude": 55.7095,
+                    "longitude": 37.60638
+                },
+                {
+                    "number": 21,
+                    "latitude": 55.7104,
+                    "longitude": 37.62213
+                },
+                {
+                    "number": 22,
+                    "latitude": 55.70996,
+                    "longitude": 37.62198
+                },
+                {
+                    "number": 23,
+                    "latitude": 55.709,
+                    "longitude": 37.62221
+                },
+                {
+                    "number": 24,
+                    "latitude": 55.7083,
+                    "longitude": 37.62197
+                }
+            ]
+        },
+        {
+            "id": "6903c871fd5fb339851332f8",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 30.10.25 23:20 - 30.10.25 23:27",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761855602",
+            "date_end": "1761856035",
+            "average_speed": 25,
+            "distance": 2046,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.72064,
+                    "longitude": 37.61506
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71468,
+                    "longitude": 37.61448
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.70891,
+                    "longitude": 37.60834
+                }
+            ]
+        },
+        {
+            "id": "6903c1341a684a325db70c0b",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 30.10.25 22:49 - 30.10.25 22:56",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761853750",
+            "date_end": "1761854202",
+            "average_speed": 0,
+            "distance": 428,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71672,
+                    "longitude": 37.61556
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71564,
+                    "longitude": 37.6199
+                }
+            ]
+        },
+        {
+            "id": "6903c871fd5fb339851332f8",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 30.10.25 23:20 - 30.10.25 23:27",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761855602",
+            "date_end": "1761856035",
+            "average_speed": 25,
+            "distance": 2046,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.72064,
+                    "longitude": 37.61506
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71468,
+                    "longitude": 37.61448
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.70891,
+                    "longitude": 37.60834
+                }
+            ]
+        },
+        {
+            "id": "68fe0505fb40d382d604dbf5",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 14:24 - 26.10.25 14:29",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761477893",
+            "date_end": "1761478149",
+            "average_speed": 0,
+            "distance": 114,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71142,
+                    "longitude": 37.60653
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71041,
+                    "longitude": 37.60678
+                }
+            ]
+        },
+        {
+            "id": "68fe076f08144955009d1251",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 14:35 - 26.10.25 14:38",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761478512",
+            "date_end": "1761478734",
+            "average_speed": 0,
+            "distance": 1092,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71672,
+                    "longitude": 37.61556
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71943,
+                    "longitude": 37.60921
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.71875,
+                    "longitude": 37.60828
+                }
+            ]
+        },
+        {
+            "id": "68fde5e50814495500969481",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 12:12 - 26.10.25 12:16",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761469926",
+            "date_end": "1761470178",
+            "average_speed": 0,
+            "distance": 99,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71943,
+                    "longitude": 37.60921
+                }
+            ]
+        },
+        {
+            "id": "68fdefc9f745aa13c9c0bf4c",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 12:54 - 26.10.25 12:56",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761472458",
+            "date_end": "1761472618",
+            "average_speed": 25,
+            "distance": 993,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.7105,
+                    "longitude": 37.60915
+                }
+            ]
+        },
+        {
+            "id": "68fe75226e4014df714c4d4f",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 22:23 - 26.10.25 22:26",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761506596",
+            "date_end": "1761506791",
+            "average_speed": 0,
+            "distance": 956,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.72033,
+                    "longitude": 37.60981
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71672,
+                    "longitude": 37.61556
+                }
+            ]
+        },
+        {
+            "id": "68fe1070c17b989c47369c3c",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 15:13 - 26.10.25 15:16",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761480818",
+            "date_end": "1761480976",
+            "average_speed": 0,
+            "distance": 93,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71943,
+                    "longitude": 37.60921
+                }
+            ]
+        },
+        {
+            "id": "68fe0615b00b7582f68460c8",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 14:29 - 26.10.25 14:32",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761478165",
+            "date_end": "1761478331",
+            "average_speed": 0,
+            "distance": 913,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.7186,
+                    "longitude": 37.60878
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71858,
+                    "longitude": 37.60883
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.71943,
+                    "longitude": 37.60921
+                }
+            ]
+        },
+        {
+            "id": "68fe30d5f24f26a8f104c377",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 17:31 - 26.10.25 17:37",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761489110",
+            "date_end": "1761489458",
+            "average_speed": 25,
+            "distance": 608,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71302,
+                    "longitude": 37.60693
+                }
+            ]
+        },
+        {
+            "id": "68fe5acccb475a872cf42c74",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 20:30 - 26.10.25 20:41",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761499854",
+            "date_end": "1761500499",
+            "average_speed": 0,
+            "distance": 3486,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.70879,
+                    "longitude": 37.61629
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.70894,
+                    "longitude": 37.61486
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.70917,
+                    "longitude": 37.61338
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.70923,
+                    "longitude": 37.61202
+                },
+                {
+                    "number": 5,
+                    "latitude": 55.7093,
+                    "longitude": 37.61083
+                },
+                {
+                    "number": 6,
+                    "latitude": 55.7097,
+                    "longitude": 37.61007
+                },
+                {
+                    "number": 7,
+                    "latitude": 55.70969,
+                    "longitude": 37.60887
+                },
+                {
+                    "number": 8,
+                    "latitude": 55.70973,
+                    "longitude": 37.60785
+                },
+                {
+                    "number": 9,
+                    "latitude": 55.70974,
+                    "longitude": 37.60699
+                },
+                {
+                    "number": 10,
+                    "latitude": 55.70975,
+                    "longitude": 37.60658
+                },
+                {
+                    "number": 11,
+                    "latitude": 55.70968,
+                    "longitude": 37.60644
+                },
+                {
+                    "number": 12,
+                    "latitude": 55.70926,
+                    "longitude": 37.61511
+                },
+                {
+                    "number": 13,
+                    "latitude": 55.71048,
+                    "longitude": 37.60604
+                },
+                {
+                    "number": 14,
+                    "latitude": 55.71031,
+                    "longitude": 37.60526
+                },
+                {
+                    "number": 15,
+                    "latitude": 55.71018,
+                    "longitude": 37.60449
+                },
+                {
+                    "number": 16,
+                    "latitude": 55.71004,
+                    "longitude": 37.60388
+                },
+                {
+                    "number": 17,
+                    "latitude": 55.71028,
+                    "longitude": 37.60523
+                },
+                {
+                    "number": 18,
+                    "latitude": 55.71059,
+                    "longitude": 37.60636
+                },
+                {
+                    "number": 19,
+                    "latitude": 55.71105,
+                    "longitude": 37.60612
+                },
+                {
+                    "number": 20,
+                    "latitude": 55.71129,
+                    "longitude": 37.60594
+                },
+                {
+                    "number": 21,
+                    "latitude": 55.71185,
+                    "longitude": 37.60603
+                },
+                {
+                    "number": 22,
+                    "latitude": 55.71248,
+                    "longitude": 37.60624
+                },
+                {
+                    "number": 23,
+                    "latitude": 55.71258,
+                    "longitude": 37.60569
+                },
+                {
+                    "number": 24,
+                    "latitude": 55.71268,
+                    "longitude": 37.60626
+                },
+                {
+                    "number": 25,
+                    "latitude": 55.71321,
+                    "longitude": 37.60655
+                },
+                {
+                    "number": 26,
+                    "latitude": 55.71376,
+                    "longitude": 37.6069
+                },
+                {
+                    "number": 27,
+                    "latitude": 55.71394,
+                    "longitude": 37.60648
+                },
+                {
+                    "number": 28,
+                    "latitude": 55.71391,
+                    "longitude": 37.60644
+                },
+                {
+                    "number": 29,
+                    "latitude": 55.71413,
+                    "longitude": 37.60705
+                },
+                {
+                    "number": 30,
+                    "latitude": 55.71455,
+                    "longitude": 37.60723
+                },
+                {
+                    "number": 31,
+                    "latitude": 55.71449,
+                    "longitude": 37.60752
+                },
+                {
+                    "number": 32,
+                    "latitude": 55.71463,
+                    "longitude": 37.60807
+                },
+                {
+                    "number": 33,
+                    "latitude": 55.71571,
+                    "longitude": 37.6088
+                },
+                {
+                    "number": 34,
+                    "latitude": 55.71607,
+                    "longitude": 37.60875
+                },
+                {
+                    "number": 35,
+                    "latitude": 55.71628,
+                    "longitude": 37.60833
+                },
+                {
+                    "number": 36,
+                    "latitude": 55.71628,
+                    "longitude": 37.60839
+                },
+                {
+                    "number": 37,
+                    "latitude": 55.71645,
+                    "longitude": 37.60856
+                },
+                {
+                    "number": 38,
+                    "latitude": 55.71682,
+                    "longitude": 37.60933
+                },
+                {
+                    "number": 39,
+                    "latitude": 55.71679,
+                    "longitude": 37.61006
+                },
+                {
+                    "number": 40,
+                    "latitude": 55.71664,
+                    "longitude": 37.61152
+                },
+                {
+                    "number": 41,
+                    "latitude": 55.71658,
+                    "longitude": 37.6128
+                },
+                {
+                    "number": 42,
+                    "latitude": 55.71658,
+                    "longitude": 37.614
+                },
+                {
+                    "number": 43,
+                    "latitude": 55.71657,
+                    "longitude": 37.61521
+                },
+                {
+                    "number": 44,
+                    "latitude": 55.71663,
+                    "longitude": 37.61632
+                },
+                {
+                    "number": 45,
+                    "latitude": 55.71679,
+                    "longitude": 37.61681
+                },
+                {
+                    "number": 46,
+                    "latitude": 55.71663,
+                    "longitude": 37.61632
+                }
+            ]
+        },
+        {
+            "id": "68fe3ac7f745aa13c9d392cd",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 18:14 - 26.10.25 18:16",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761491656",
+            "date_end": "1761491802",
+            "average_speed": 0,
+            "distance": 1027,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71363,
+                    "longitude": 37.62327
+                }
+            ]
+        },
+        {
+            "id": "68fe681ff347655956acef1d",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 21:27 - 26.10.25 21:30",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761503265",
+            "date_end": "1761503438",
+            "average_speed": 0,
+            "distance": 1383,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71672,
+                    "longitude": 37.61693
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71668,
+                    "longitude": 37.60824
+                }
+            ]
+        },
+        {
+            "id": "68fe42a89f28ccc077091032",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 18:47 - 26.10.25 18:50",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761493673",
+            "date_end": "1761493835",
+            "average_speed": 23,
+            "distance": 1266,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.70516,
+                    "longitude": 37.61841
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.70761,
+                    "longitude": 37.6188
+                }
+            ]
+        },
+        {
+            "id": "68fdf19906391d69a8085a2f",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 13:02 - 26.10.25 13:05",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761472921",
+            "date_end": "1761473142",
+            "average_speed": 0,
+            "distance": 1033,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.7183,
+                    "longitude": 37.60763
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71943,
+                    "longitude": 37.60921
+                }
+            ]
+        },
+        {
+            "id": "68fe0505fb40d382d604dbf5",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 14:24 - 26.10.25 14:29",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761477893",
+            "date_end": "1761478149",
+            "average_speed": 0,
+            "distance": 114,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71142,
+                    "longitude": 37.60653
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71041,
+                    "longitude": 37.60678
+                }
+            ]
+        },
+        {
+            "id": "68fe076f08144955009d1251",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 14:35 - 26.10.25 14:38",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761478512",
+            "date_end": "1761478734",
+            "average_speed": 0,
+            "distance": 1092,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71672,
+                    "longitude": 37.61556
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71943,
+                    "longitude": 37.60921
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.71875,
+                    "longitude": 37.60828
+                }
+            ]
+        },
+        {
+            "id": "68fde5e50814495500969481",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 12:12 - 26.10.25 12:16",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761469926",
+            "date_end": "1761470178",
+            "average_speed": 0,
+            "distance": 99,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71943,
+                    "longitude": 37.60921
+                }
+            ]
+        },
+        {
+            "id": "68fdefc9f745aa13c9c0bf4c",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 12:54 - 26.10.25 12:56",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761472458",
+            "date_end": "1761472618",
+            "average_speed": 25,
+            "distance": 993,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.7105,
+                    "longitude": 37.60915
+                }
+            ]
+        },
+        {
+            "id": "68fe75226e4014df714c4d4f",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 22:23 - 26.10.25 22:26",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761506596",
+            "date_end": "1761506791",
+            "average_speed": 0,
+            "distance": 956,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.72033,
+                    "longitude": 37.60981
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71672,
+                    "longitude": 37.61556
+                }
+            ]
+        },
+        {
+            "id": "68fe1070c17b989c47369c3c",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 15:13 - 26.10.25 15:16",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761480818",
+            "date_end": "1761480976",
+            "average_speed": 0,
+            "distance": 93,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71943,
+                    "longitude": 37.60921
+                }
+            ]
+        },
+        {
+            "id": "68fe0615b00b7582f68460c8",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 14:29 - 26.10.25 14:32",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761478165",
+            "date_end": "1761478331",
+            "average_speed": 0,
+            "distance": 913,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.7186,
+                    "longitude": 37.60878
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71858,
+                    "longitude": 37.60883
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.71943,
+                    "longitude": 37.60921
+                }
+            ]
+        },
+        {
+            "id": "68fe30d5f24f26a8f104c377",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 17:31 - 26.10.25 17:37",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761489110",
+            "date_end": "1761489458",
+            "average_speed": 25,
+            "distance": 608,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71302,
+                    "longitude": 37.60693
+                }
+            ]
+        },
+        {
+            "id": "68fe5acccb475a872cf42c74",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 20:30 - 26.10.25 20:41",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761499854",
+            "date_end": "1761500499",
+            "average_speed": 0,
+            "distance": 3486,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.70879,
+                    "longitude": 37.61629
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.70894,
+                    "longitude": 37.61486
+                },
+                {
+                    "number": 3,
+                    "latitude": 55.70917,
+                    "longitude": 37.61338
+                },
+                {
+                    "number": 4,
+                    "latitude": 55.70923,
+                    "longitude": 37.61202
+                },
+                {
+                    "number": 5,
+                    "latitude": 55.7093,
+                    "longitude": 37.61083
+                },
+                {
+                    "number": 6,
+                    "latitude": 55.7097,
+                    "longitude": 37.61007
+                },
+                {
+                    "number": 7,
+                    "latitude": 55.70969,
+                    "longitude": 37.60887
+                },
+                {
+                    "number": 8,
+                    "latitude": 55.70973,
+                    "longitude": 37.60785
+                },
+                {
+                    "number": 9,
+                    "latitude": 55.70974,
+                    "longitude": 37.60699
+                },
+                {
+                    "number": 10,
+                    "latitude": 55.70975,
+                    "longitude": 37.60658
+                },
+                {
+                    "number": 11,
+                    "latitude": 55.70968,
+                    "longitude": 37.60644
+                },
+                {
+                    "number": 12,
+                    "latitude": 55.70926,
+                    "longitude": 37.61511
+                },
+                {
+                    "number": 13,
+                    "latitude": 55.71048,
+                    "longitude": 37.60604
+                },
+                {
+                    "number": 14,
+                    "latitude": 55.71031,
+                    "longitude": 37.60526
+                },
+                {
+                    "number": 15,
+                    "latitude": 55.71018,
+                    "longitude": 37.60449
+                },
+                {
+                    "number": 16,
+                    "latitude": 55.71004,
+                    "longitude": 37.60388
+                },
+                {
+                    "number": 17,
+                    "latitude": 55.71028,
+                    "longitude": 37.60523
+                },
+                {
+                    "number": 18,
+                    "latitude": 55.71059,
+                    "longitude": 37.60636
+                },
+                {
+                    "number": 19,
+                    "latitude": 55.71105,
+                    "longitude": 37.60612
+                },
+                {
+                    "number": 20,
+                    "latitude": 55.71129,
+                    "longitude": 37.60594
+                },
+                {
+                    "number": 21,
+                    "latitude": 55.71185,
+                    "longitude": 37.60603
+                },
+                {
+                    "number": 22,
+                    "latitude": 55.71248,
+                    "longitude": 37.60624
+                },
+                {
+                    "number": 23,
+                    "latitude": 55.71258,
+                    "longitude": 37.60569
+                },
+                {
+                    "number": 24,
+                    "latitude": 55.71268,
+                    "longitude": 37.60626
+                },
+                {
+                    "number": 25,
+                    "latitude": 55.71321,
+                    "longitude": 37.60655
+                },
+                {
+                    "number": 26,
+                    "latitude": 55.71376,
+                    "longitude": 37.6069
+                },
+                {
+                    "number": 27,
+                    "latitude": 55.71394,
+                    "longitude": 37.60648
+                },
+                {
+                    "number": 28,
+                    "latitude": 55.71391,
+                    "longitude": 37.60644
+                },
+                {
+                    "number": 29,
+                    "latitude": 55.71413,
+                    "longitude": 37.60705
+                },
+                {
+                    "number": 30,
+                    "latitude": 55.71455,
+                    "longitude": 37.60723
+                },
+                {
+                    "number": 31,
+                    "latitude": 55.71449,
+                    "longitude": 37.60752
+                },
+                {
+                    "number": 32,
+                    "latitude": 55.71463,
+                    "longitude": 37.60807
+                },
+                {
+                    "number": 33,
+                    "latitude": 55.71571,
+                    "longitude": 37.6088
+                },
+                {
+                    "number": 34,
+                    "latitude": 55.71607,
+                    "longitude": 37.60875
+                },
+                {
+                    "number": 35,
+                    "latitude": 55.71628,
+                    "longitude": 37.60833
+                },
+                {
+                    "number": 36,
+                    "latitude": 55.71628,
+                    "longitude": 37.60839
+                },
+                {
+                    "number": 37,
+                    "latitude": 55.71645,
+                    "longitude": 37.60856
+                },
+                {
+                    "number": 38,
+                    "latitude": 55.71682,
+                    "longitude": 37.60933
+                },
+                {
+                    "number": 39,
+                    "latitude": 55.71679,
+                    "longitude": 37.61006
+                },
+                {
+                    "number": 40,
+                    "latitude": 55.71664,
+                    "longitude": 37.61152
+                },
+                {
+                    "number": 41,
+                    "latitude": 55.71658,
+                    "longitude": 37.6128
+                },
+                {
+                    "number": 42,
+                    "latitude": 55.71658,
+                    "longitude": 37.614
+                },
+                {
+                    "number": 43,
+                    "latitude": 55.71657,
+                    "longitude": 37.61521
+                },
+                {
+                    "number": 44,
+                    "latitude": 55.71663,
+                    "longitude": 37.61632
+                },
+                {
+                    "number": 45,
+                    "latitude": 55.71679,
+                    "longitude": 37.61681
+                },
+                {
+                    "number": 46,
+                    "latitude": 55.71663,
+                    "longitude": 37.61632
+                }
+            ]
+        },
+        {
+            "id": "68fe3ac7f745aa13c9d392cd",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 18:14 - 26.10.25 18:16",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761491656",
+            "date_end": "1761491802",
+            "average_speed": 0,
+            "distance": 1027,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71363,
+                    "longitude": 37.62327
+                }
+            ]
+        },
+        {
+            "id": "68fe681ff347655956acef1d",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 21:27 - 26.10.25 21:30",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761503265",
+            "date_end": "1761503438",
+            "average_speed": 0,
+            "distance": 1383,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71672,
+                    "longitude": 37.61693
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71668,
+                    "longitude": 37.60824
+                }
+            ]
+        },
+        {
+            "id": "68fe42a89f28ccc077091032",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 18:47 - 26.10.25 18:50",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761493673",
+            "date_end": "1761493835",
+            "average_speed": 23,
+            "distance": 1266,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.70516,
+                    "longitude": 37.61841
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.70761,
+                    "longitude": 37.6188
+                }
+            ]
+        },
+        {
+            "id": "68fdf19906391d69a8085a2f",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 26.10.25 13:02 - 26.10.25 13:05",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1761472921",
+            "date_end": "1761473142",
+            "average_speed": 0,
+            "distance": 1033,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.7183,
+                    "longitude": 37.60763
+                },
+                {
+                    "number": 2,
+                    "latitude": 55.71943,
+                    "longitude": 37.60921
+                }
+            ]
+        },
+        {
+            "id": "68e6924ea7680b49fea3cbee",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 08.10.25 19:33 - 08.10.25 19:45",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759941198",
+            "date_end": "1759941901",
+            "average_speed": 0,
+            "distance": 22,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.73309,
+                    "longitude": 37.6263
+                }
+            ]
+        },
+        {
+            "id": "68e69643030f3b90f79e646b",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 08.10.25 19:50 - 08.10.25 19:56",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759942213",
+            "date_end": "1759942572",
+            "average_speed": 0,
+            "distance": 9,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.74454,
+                    "longitude": 37.6302
+                }
+            ]
+        },
+        {
+            "id": "68e69fd53c297393194ef2d2",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 08.10.25 20:31 - 08.10.25 20:36",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759944663",
+            "date_end": "1759945016",
+            "average_speed": 0,
+            "distance": 167,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.74379,
+                    "longitude": 37.60924
+                }
+            ]
+        },
+        {
+            "id": "68e6a7dada6ac07e2cb6c8df",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 08.10.25 21:05 - 08.10.25 21:13",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759946714",
+            "date_end": "1759947223",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e6aa88a70e913c6c61d769",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 08.10.25 21:16 - 08.10.25 21:18",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759947400",
+            "date_end": "1759947536",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e6c372267d63149e82ec72",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 08.10.25 23:02 - 08.10.25 23:07",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759953779",
+            "date_end": "1759954068",
+            "average_speed": 0,
+            "distance": 866,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.72402,
+                    "longitude": 37.63894
+                }
+            ]
+        },
+        {
+            "id": "68e4add6d346b125f462bbb0",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 07.10.25 09:06 - 07.10.25 09:08",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759817174",
+            "date_end": "1759817298",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e4b82e3f18eea997516957",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 07.10.25 09:50 - 07.10.25 10:03",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759819825",
+            "date_end": "1759820585",
+            "average_speed": 10,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e4c3173f18eea997534370",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 07.10.25 10:36 - 07.10.25 10:49",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759822618",
+            "date_end": "1759823374",
+            "average_speed": 14,
+            "distance": 3647,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.77662,
+                    "longitude": 37.57668
+                }
+            ]
+        },
+        {
+            "id": "68e4ee25bd01e01b5628c782",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 07.10.25 13:40 - 07.10.25 13:50",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759833639",
+            "date_end": "1759834202",
+            "average_speed": 0,
+            "distance": 4070,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.74245,
+                    "longitude": 37.60941
+                }
+            ]
+        },
+        {
+            "id": "68e50ec7d85ebcfb24d50f54",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 07.10.25 15:59 - 07.10.25 16:03",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759841997",
+            "date_end": "1759842215",
+            "average_speed": 0,
+            "distance": 20,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.7403,
+                    "longitude": 37.62557
+                }
+            ]
+        },
+        {
+            "id": "68e6924ea7680b49fea3cbee",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 08.10.25 19:33 - 08.10.25 19:45",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759941198",
+            "date_end": "1759941901",
+            "average_speed": 0,
+            "distance": 22,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.73309,
+                    "longitude": 37.6263
+                }
+            ]
+        },
+        {
+            "id": "68e69643030f3b90f79e646b",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 08.10.25 19:50 - 08.10.25 19:56",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759942213",
+            "date_end": "1759942572",
+            "average_speed": 0,
+            "distance": 9,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.74454,
+                    "longitude": 37.6302
+                }
+            ]
+        },
+        {
+            "id": "68e69fd53c297393194ef2d2",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 08.10.25 20:31 - 08.10.25 20:36",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759944663",
+            "date_end": "1759945016",
+            "average_speed": 0,
+            "distance": 167,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.74379,
+                    "longitude": 37.60924
+                }
+            ]
+        },
+        {
+            "id": "68e6a7dada6ac07e2cb6c8df",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 08.10.25 21:05 - 08.10.25 21:13",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759946714",
+            "date_end": "1759947223",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e6aa88a70e913c6c61d769",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 08.10.25 21:16 - 08.10.25 21:18",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759947400",
+            "date_end": "1759947536",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e6c372267d63149e82ec72",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 08.10.25 23:02 - 08.10.25 23:07",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759953779",
+            "date_end": "1759954068",
+            "average_speed": 0,
+            "distance": 866,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.72402,
+                    "longitude": 37.63894
+                }
+            ]
+        },
+        {
+            "id": "68e3de0e4559ec658fab5975",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 18:19 - 06.10.25 18:29",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759763983",
+            "date_end": "1759764579",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e4add6d346b125f462bbb0",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 07.10.25 09:06 - 07.10.25 09:08",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759817174",
+            "date_end": "1759817298",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e4b82e3f18eea997516957",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 07.10.25 09:50 - 07.10.25 10:03",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759819825",
+            "date_end": "1759820585",
+            "average_speed": 10,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e4c3173f18eea997534370",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 07.10.25 10:36 - 07.10.25 10:49",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759822618",
+            "date_end": "1759823374",
+            "average_speed": 14,
+            "distance": 3647,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.77662,
+                    "longitude": 37.57668
+                }
+            ]
+        },
+        {
+            "id": "68e3a03ed85ebcfb248e5dc0",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 13:55 - 06.10.25 14:06",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759748158",
+            "date_end": "1759748814",
+            "average_speed": 22,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e4ee25bd01e01b5628c782",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 07.10.25 13:40 - 07.10.25 13:50",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759833639",
+            "date_end": "1759834202",
+            "average_speed": 0,
+            "distance": 4070,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.74245,
+                    "longitude": 37.60941
+                }
+            ]
+        },
+        {
+            "id": "68e3c899d85ebcfb24996c10",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 16:48 - 06.10.25 16:54",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759758490",
+            "date_end": "1759758848",
+            "average_speed": 0,
+            "distance": 18,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.72093,
+                    "longitude": 37.61763
+                }
+            ]
+        },
+        {
+            "id": "68e50ec7d85ebcfb24d50f54",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 07.10.25 15:59 - 07.10.25 16:03",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759841997",
+            "date_end": "1759842215",
+            "average_speed": 0,
+            "distance": 20,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.7403,
+                    "longitude": 37.62557
+                }
+            ]
+        },
+        {
+            "id": "68e3a4b26036525dc8983039",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 14:14 - 06.10.25 14:24",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759749298",
+            "date_end": "1759749840",
+            "average_speed": 0,
+            "distance": 1292,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.72674,
+                    "longitude": 37.63141
+                }
+            ]
+        },
+        {
+            "id": "68e3d35c487894aab83c2d3e",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 17:34 - 06.10.25 17:37",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759761247",
+            "date_end": "1759761449",
+            "average_speed": 0,
+            "distance": 472,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71907,
+                    "longitude": 37.62821
+                }
+            ]
+        },
+        {
+            "id": "68e3c59d6036525dc8a0cc7a",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 16:35 - 06.10.25 16:45",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759757726",
+            "date_end": "1759758322",
+            "average_speed": 0,
+            "distance": 1157,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.72089,
+                    "longitude": 37.61766
+                }
+            ]
+        },
+        {
+            "id": "68e3d8679830080f1565d84e",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 17:55 - 06.10.25 18:04",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759762537",
+            "date_end": "1759763052",
+            "average_speed": 20,
+            "distance": 5,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71915,
+                    "longitude": 37.6282
+                }
+            ]
+        },
+        {
+            "id": "68e3c0150d22987c550657f0",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 16:11 - 06.10.25 16:16",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759756311",
+            "date_end": "1759756586",
+            "average_speed": 0,
+            "distance": 186,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.72842,
+                    "longitude": 37.63086
+                }
+            ]
+        },
+        {
+            "id": "68e3a03ed85ebcfb248e5dc0",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 13:55 - 06.10.25 14:06",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759748158",
+            "date_end": "1759748814",
+            "average_speed": 22,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "68e3a4b26036525dc8983039",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 14:14 - 06.10.25 14:24",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759749298",
+            "date_end": "1759749840",
+            "average_speed": 0,
+            "distance": 1292,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.72674,
+                    "longitude": 37.63141
+                }
+            ]
+        },
+        {
+            "id": "68e3c0150d22987c550657f0",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 16:11 - 06.10.25 16:16",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759756311",
+            "date_end": "1759756586",
+            "average_speed": 0,
+            "distance": 186,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.72842,
+                    "longitude": 37.63086
+                }
+            ]
+        },
+        {
+            "id": "68e3c59d6036525dc8a0cc7a",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 16:35 - 06.10.25 16:45",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759757726",
+            "date_end": "1759758322",
+            "average_speed": 0,
+            "distance": 1157,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.72089,
+                    "longitude": 37.61766
+                }
+            ]
+        },
+        {
+            "id": "68e3c899d85ebcfb24996c10",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 16:48 - 06.10.25 16:54",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759758490",
+            "date_end": "1759758848",
+            "average_speed": 0,
+            "distance": 18,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.72093,
+                    "longitude": 37.61763
+                }
+            ]
+        },
+        {
+            "id": "68e3d35c487894aab83c2d3e",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 17:34 - 06.10.25 17:37",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759761247",
+            "date_end": "1759761449",
+            "average_speed": 0,
+            "distance": 472,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71907,
+                    "longitude": 37.62821
+                }
+            ]
+        },
+        {
+            "id": "68e3d8679830080f1565d84e",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 17:55 - 06.10.25 18:04",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759762537",
+            "date_end": "1759763052",
+            "average_speed": 20,
+            "distance": 5,
+            "coordinates": [
+                {
+                    "number": 1,
+                    "latitude": 55.71915,
+                    "longitude": 37.6282
+                }
+            ]
+        },
+        {
+            "id": "68e3de0e4559ec658fab5975",
+            "name": "Трек движения СИМ: Юрент S.EB790Y за период: 06.10.25 18:19 - 06.10.25 18:29",
+            "vehicle_id": "6708e9cf3700a12f56c00b71",
+            "vehicle_name": "Юрент S.EB790Y",
+            "date_start": "1759763983",
+            "date_end": "1759764579",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        }
+    ]
+}

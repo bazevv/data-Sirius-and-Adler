@@ -1,0 +1,26 @@
+{
+    "tracks": [
+        {
+            "id": "KZ3NIgwBQTECqmDiYCivT9kZEJtdM3xv8TVawOd2cwUHvdQUxPrUOiRLzzLehHYqQ==",
+            "name": "Трек движения СИМ: Яндекс go 237231 за период: 05.05.25 15:40 - 05.05.25 15:41",
+            "vehicle_id": "b7ce976a-0022-47dc-9ad0-24bbc0bcb8a0",
+            "vehicle_name": "Яндекс go 237231",
+            "date_start": "1746448808",
+            "date_end": "1746448901",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        },
+        {
+            "id": "KZ3NIgwBQTECqmDiYCivT9kZEJtdM3xv8TVawOd2cwUHvdQUxPrUOiRLzzLehHYqQ==",
+            "name": "Трек движения СИМ: Яндекс go 237231 за период: 05.05.25 15:40 - 05.05.25 15:41",
+            "vehicle_id": "b7ce976a-0022-47dc-9ad0-24bbc0bcb8a0",
+            "vehicle_name": "Яндекс go 237231",
+            "date_start": "1746448808",
+            "date_end": "1746448901",
+            "average_speed": 0,
+            "distance": 0,
+            "coordinates": []
+        }
+    ]
+}
